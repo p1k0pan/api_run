@@ -38,10 +38,7 @@ SYSTEM_PROMPT = (
     "Note: ONLY return the Chinese translation without any additional text or explanations."
 )
 USER_TEMPLATE = "Please translate the following English sentence into Chinese: {en}"
-THINKING_HINT = (
-    "Carefully use the image to resolve any ambiguity in the English sentence. "
-    "Do not output your reasoning. Return only the final Chinese translation."
-)
+
 
 
 def read_api_key_file(path: Path) -> tuple[str, str]:
