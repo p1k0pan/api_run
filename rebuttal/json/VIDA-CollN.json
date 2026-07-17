@@ -1,0 +1,5857 @@
+[
+  {
+    "idx": 0,
+    "image": "images/5264507624.jpg",
+    "en": "Two construction workers in orange vests and hard hats are riding in a piece of equipment.",
+    "standard_zh": "两名身穿橙色背心、头戴硬帽的建筑工人正乘坐在一台升降平台上。",
+    "sense": [
+      {
+        "term": "equipment",
+        "type": "lexical",
+        "gold_interpretation": "升降平台"
+      }
+    ]
+  },
+  {
+    "idx": 1,
+    "image": "images/134206.jpg",
+    "en": "The team is about to play a game for their die hard fans.",
+    "standard_zh": "这支棒球队即将为他们的铁杆球迷进行一场比赛。",
+    "sense": [
+      {
+        "term": "team",
+        "type": "lexical",
+        "gold_interpretation": "棒球队"
+      }
+    ]
+  },
+  {
+    "idx": 2,
+    "image": "images/000000487058.jpg",
+    "en": "A crowd of people walking down the road while holding signs.",
+    "standard_zh": "一群抗议者在路上走着，同时举着标语牌。",
+    "sense": [
+      {
+        "term": "people",
+        "type": "lexical",
+        "gold_interpretation": "抗议者"
+      },
+      {
+        "term": "signs",
+        "type": "lexical",
+        "gold_interpretation": "标语牌"
+      }
+    ]
+  },
+  {
+    "idx": 3,
+    "image": "images/cc12m_2323153213.jpg",
+    "en": "A large body of water and an overcast sky.",
+    "standard_zh": "一大片海和阴云密布的天空。",
+    "sense": [
+      {
+        "term": "body of water",
+        "type": "lexical",
+        "gold_interpretation": "海"
+      }
+    ]
+  },
+  {
+    "idx": 4,
+    "image": "images/000000571964.jpg",
+    "en": "A herd of wild animals standing next to a lush green forest.",
+    "standard_zh": "一群野生斑马站在郁郁葱葱的绿色森林旁。",
+    "sense": [
+      {
+        "term": "animals",
+        "type": "lexical",
+        "gold_interpretation": "斑马"
+      }
+    ]
+  },
+  {
+    "idx": 5,
+    "image": "images/000000072993.jpg",
+    "en": "A train being operated on a train track.",
+    "standard_zh": "在火车轨道上运行的蒸汽火车。",
+    "sense": [
+      {
+        "term": "train",
+        "type": "lexical",
+        "gold_interpretation": "蒸汽火车"
+      }
+    ]
+  },
+  {
+    "idx": 6,
+    "image": "images/000000543272.jpg",
+    "en": "A gathering of people boarding a big white airplane.",
+    "standard_zh": "一群乘客登上一架白色的大客机。",
+    "sense": [
+      {
+        "term": "people",
+        "type": "lexical",
+        "gold_interpretation": "乘客"
+      },
+      {
+        "term": "airplane",
+        "type": "lexical",
+        "gold_interpretation": "客机"
+      }
+    ]
+  },
+  {
+    "idx": 7,
+    "image": "images/1035392784.jpg",
+    "en": "A person in a shirt plays a musical instrument.",
+    "standard_zh": "穿着衬衫的人演奏吉他。",
+    "sense": [
+      {
+        "term": "instrument",
+        "type": "lexical",
+        "gold_interpretation": "吉他"
+      }
+    ]
+  },
+  {
+    "idx": 8,
+    "image": "images/000000234577.jpg",
+    "en": "Three people standing in an open field, one holding a frisbee.",
+    "standard_zh": "三个人站在一片草地上，一个人拿着一个飞盘。",
+    "sense": [
+      {
+        "term": "field",
+        "type": "lexical",
+        "gold_interpretation": "草地"
+      }
+    ]
+  },
+  {
+    "idx": 9,
+    "image": "images/4688493146.jpg",
+    "en": "A man is sitting down at a table in a plastic enclosure and gazes out at a young woman passing by.",
+    "standard_zh": "一个男人坐在塑料帐篷里的桌子旁，注视着一个路过的年轻女子。",
+    "sense": [
+      {
+        "term": "enclosure",
+        "type": "lexical",
+        "gold_interpretation": "帐篷"
+      }
+    ]
+  },
+  {
+    "idx": 10,
+    "image": "images/000000143478.jpg",
+    "en": "A woman sitting on a surfboard in a body of water.",
+    "standard_zh": "一个女人坐在一片海水中的冲浪板上。",
+    "sense": [
+      {
+        "term": "water",
+        "type": "lexical",
+        "gold_interpretation": "海水"
+      }
+    ]
+  },
+  {
+    "idx": 11,
+    "image": "images/4776108587.jpg",
+    "en": "There are people in a market.",
+    "standard_zh": "市场里有商贩和顾客。",
+    "sense": [
+      {
+        "term": "people",
+        "type": "lexical",
+        "gold_interpretation": "商贩和顾客"
+      }
+    ]
+  },
+  {
+    "idx": 12,
+    "image": "images/3183266412.jpg",
+    "en": "A performer is playing a musical instrument.",
+    "standard_zh": "一位街头艺人正在演奏班卓琴。",
+    "sense": [
+      {
+        "term": "performer",
+        "type": "lexical",
+        "gold_interpretation": "街头艺人"
+      },
+      {
+        "term": "instrument",
+        "type": "lexical",
+        "gold_interpretation": "班卓琴"
+      }
+    ]
+  },
+  {
+    "idx": 13,
+    "image": "images/000000474930.jpg",
+    "en": "A big group of people that are sitting in a field with umbrellas.",
+    "standard_zh": "一大群人撑着伞坐在草地上。",
+    "sense": [
+      {
+        "term": "field",
+        "type": "lexical",
+        "gold_interpretation": "草地"
+      }
+    ]
+  },
+  {
+    "idx": 14,
+    "image": "images/000000570543.jpg",
+    "en": "Catamaran sitting in a body of water near a docked ship.",
+    "standard_zh": "双体船在停靠船只附近的海水中。",
+    "sense": [
+      {
+        "term": "body of water",
+        "type": "lexical",
+        "gold_interpretation": "海水"
+      }
+    ]
+  },
+  {
+    "idx": 15,
+    "image": "images/000000385174.jpg",
+    "en": "The white plate consists of vegetables and meat.",
+    "standard_zh": "白色盘子里有西兰花和鸡肉。",
+    "sense": [
+      {
+        "term": "vegetables",
+        "type": "lexical",
+        "gold_interpretation": "西兰花"
+      },
+      {
+        "term": "meat",
+        "type": "lexical",
+        "gold_interpretation": "鸡肉"
+      }
+    ]
+  },
+  {
+    "idx": 16,
+    "image": "images/180506881.jpg",
+    "en": "The camera focuses on two people's legs.",
+    "standard_zh": "摄像机聚焦在两个滑板爱好者的腿上。",
+    "sense": [
+      {
+        "term": "people",
+        "type": "lexical",
+        "gold_interpretation": "滑板爱好者"
+      }
+    ]
+  },
+  {
+    "idx": 17,
+    "image": "images/5961400525.jpg",
+    "en": "Two guys are in a competition.",
+    "standard_zh": "两个赛车手在进行越野赛。",
+    "sense": [
+      {
+        "term": "guys",
+        "type": "lexical",
+        "gold_interpretation": "赛车手"
+      },
+      {
+        "term": "competition",
+        "type": "lexical",
+        "gold_interpretation": "越野赛"
+      }
+    ]
+  },
+  {
+    "idx": 18,
+    "image": "images/1029802110.jpg",
+    "en": "Some people are holding up flags to show their support at a gay pride parade.",
+    "standard_zh": "一些人在同性恋大游行中举着彩虹旗表示支持。",
+    "sense": [
+      {
+        "term": "flags",
+        "type": "lexical",
+        "gold_interpretation": "彩虹旗"
+      }
+    ]
+  },
+  {
+    "idx": 19,
+    "image": "images/000000061007.jpg",
+    "en": "A bunch of stuff iis on a kitchen counter.",
+    "standard_zh": "厨房柜台上有一堆装饰品。",
+    "sense": [
+      {
+        "term": "stuff",
+        "type": "lexical",
+        "gold_interpretation": "装饰品"
+      }
+    ]
+  },
+  {
+    "idx": 20,
+    "image": "images/115275671.jpg",
+    "en": "A man attending to plants in front of a building.",
+    "standard_zh": "一名男子在建筑物前照料灌木。",
+    "sense": [
+      {
+        "term": "plants",
+        "type": "lexical",
+        "gold_interpretation": "灌木"
+      }
+    ]
+  },
+  {
+    "idx": 21,
+    "image": "images/2943399558.jpg",
+    "en": "A person is climbing a ladder outside.",
+    "standard_zh": "一个登山者在外面爬梯子。",
+    "sense": [
+      {
+        "term": "person",
+        "type": "lexical",
+        "gold_interpretation": "登山者"
+      }
+    ]
+  },
+  {
+    "idx": 22,
+    "image": "images/3321063116.jpg",
+    "en": "These animals love the snow.",
+    "standard_zh": "这些狗喜欢雪。",
+    "sense": [
+      {
+        "term": "animals",
+        "type": "lexical",
+        "gold_interpretation": "狗"
+      }
+    ]
+  },
+  {
+    "idx": 23,
+    "image": "images/cc12m_634005905.jpg",
+    "en": "A set of activities in the sky.",
+    "standard_zh": "天空中的一系列跳伞活动。",
+    "sense": [
+      {
+        "term": "activities",
+        "type": "lexical",
+        "gold_interpretation": "跳伞活动"
+      }
+    ]
+  },
+  {
+    "idx": 24,
+    "image": "images/000000298290.jpg",
+    "en": "A bunch of beverages inside of a fridge.",
+    "standard_zh": "冰箱里有一堆啤酒。",
+    "sense": [
+      {
+        "term": "beverages",
+        "type": "lexical",
+        "gold_interpretation": "啤酒"
+      }
+    ]
+  },
+  {
+    "idx": 25,
+    "image": "images/000000521869.jpg",
+    "en": "A sepia picture of a dog at the wheel of a vehicle.",
+    "standard_zh": "一只狗在汽车的方向盘旁边的棕褐色图片。",
+    "sense": [
+      {
+        "term": "vehicle",
+        "type": "lexical",
+        "gold_interpretation": "汽车"
+      }
+    ]
+  },
+  {
+    "idx": 26,
+    "image": "images/2838590130.jpg",
+    "en": "Large amounts of people walk around near a large, silver, reflective display.",
+    "standard_zh": "大量的人在一个大的银色反光雕塑附近走动。",
+    "sense": [
+      {
+        "term": "display",
+        "type": "lexical",
+        "gold_interpretation": "雕塑"
+      }
+    ]
+  },
+  {
+    "idx": 27,
+    "image": "images/000000204680.jpg",
+    "en": "There are plenty of organic items packed away.",
+    "standard_zh": "有很多有机食物被打包带走。",
+    "sense": [
+      {
+        "term": "items",
+        "type": "lexical",
+        "gold_interpretation": "食物"
+      }
+    ]
+  },
+  {
+    "idx": 28,
+    "image": "images/000000144224.jpg",
+    "en": "A homeless person sleeping on a bench surrounded by stuff.",
+    "standard_zh": "一个无家可归的人睡在一个长椅上，周围都是行李。",
+    "sense": [
+      {
+        "term": "stuff",
+        "type": "lexical",
+        "gold_interpretation": "行李"
+      }
+    ]
+  },
+  {
+    "idx": 29,
+    "image": "images/2046222127.jpg",
+    "en": "The man is moving some equipment for his job.",
+    "standard_zh": "这名男子正在为他的工作搬运一些木板。",
+    "sense": [
+      {
+        "term": "equipment",
+        "type": "lexical",
+        "gold_interpretation": "木板"
+      }
+    ]
+  },
+  {
+    "idx": 30,
+    "image": "images/2935649082.jpg",
+    "en": "A man loses control of his watercraft.",
+    "standard_zh": "一个人失去了对他的帆板的控制。",
+    "sense": [
+      {
+        "term": "watercraft",
+        "type": "lexical",
+        "gold_interpretation": "帆板"
+      }
+    ]
+  },
+  {
+    "idx": 31,
+    "image": "images/000000499266.jpg",
+    "en": "An electronic device is being held as it displays a message and an image.",
+    "standard_zh": "一个智能手机正被拿着，它显示着一条信息和一个图像。",
+    "sense": [
+      {
+        "term": "electronic device",
+        "type": "lexical",
+        "gold_interpretation": "智能手机"
+      }
+    ]
+  },
+  {
+    "idx": 32,
+    "image": "images/324642762.jpg",
+    "en": "A young man is siting in a vehicle.",
+    "standard_zh": "一个年轻的男人坐在推土机里。",
+    "sense": [
+      {
+        "term": "vehicle",
+        "type": "lexical",
+        "gold_interpretation": "推土机"
+      }
+    ]
+  },
+  {
+    "idx": 33,
+    "image": "images/cc12m_1402398037.jpg",
+    "en": "Three officers walking away from vehicles in the road.",
+    "standard_zh": "三位警官从路上的汽车中走过。",
+    "sense": [
+      {
+        "term": "vehicles",
+        "type": "lexical",
+        "gold_interpretation": "汽车"
+      }
+    ]
+  },
+  {
+    "idx": 34,
+    "image": "images/2100909581.jpg",
+    "en": "The animal and the ground covering are the same color.",
+    "standard_zh": "狗和被覆盖住的地面的颜色是一样的。",
+    "sense": [
+      {
+        "term": "animal",
+        "type": "lexical",
+        "gold_interpretation": "狗"
+      }
+    ]
+  },
+  {
+    "idx": 35,
+    "image": "images/3735771637.jpg",
+    "en": "Two men are being lifted up.",
+    "standard_zh": "两个工人被升了上去。",
+    "sense": [
+      {
+        "term": "men",
+        "type": "lexical",
+        "gold_interpretation": "工人"
+      }
+    ]
+  },
+  {
+    "idx": 36,
+    "image": "images/000000177619.jpg",
+    "en": "A closeup view of an electronic device placed on a surface.",
+    "standard_zh": "一个放在桌面上的手机的特写。",
+    "sense": [
+      {
+        "term": "electronic device",
+        "type": "lexical",
+        "gold_interpretation": "手机"
+      }
+    ]
+  },
+  {
+    "idx": 37,
+    "image": "images/000000224060.jpg",
+    "en": "A game console featuring a well known game and two controllers.",
+    "standard_zh": "一台游戏机上有一个著名的游戏和两个游戏手柄。",
+    "sense": [
+      {
+        "term": "controllers",
+        "type": "lexical",
+        "gold_interpretation": "游戏手柄"
+      }
+    ]
+  },
+  {
+    "idx": 38,
+    "image": "images/000000082718.jpg",
+    "en": "A person on a board para sailing in the ocean at sunset.",
+    "standard_zh": "日落时分，海洋中踩着冲浪板航行的风筝冲浪者。",
+    "sense": [
+      {
+        "term": "person",
+        "type": "lexical",
+        "gold_interpretation": "风筝冲浪者"
+      },
+      {
+        "term": "board",
+        "type": "lexical",
+        "gold_interpretation": "冲浪板"
+      }
+    ]
+  },
+  {
+    "idx": 39,
+    "image": "images/cc12m_694985464.jpg",
+    "en": "A touch of whimsy : learn how to draw a cute animal face step - by.",
+    "standard_zh": "一点俏皮：学习如何一步一步画出可爱的猫脸。",
+    "sense": [
+      {
+        "term": "animal",
+        "type": "lexical",
+        "gold_interpretation": "猫"
+      }
+    ]
+  },
+  {
+    "idx": 40,
+    "image": "images/000000050239.jpg",
+    "en": "A large number of food in a store.",
+    "standard_zh": "商店里的大量水果。",
+    "sense": [
+      {
+        "term": "food",
+        "type": "lexical",
+        "gold_interpretation": "水果"
+      }
+    ]
+  },
+  {
+    "idx": 41,
+    "image": "images/000000377878.jpg",
+    "en": "A train with a steam engine moving on the tracks.",
+    "standard_zh": "蒸汽火车在轨道上行驶。",
+    "sense": [
+      {
+        "term": "train",
+        "type": "lexical",
+        "gold_interpretation": "蒸汽火车"
+      }
+    ]
+  },
+  {
+    "idx": 42,
+    "image": "images/000000352313.jpg",
+    "en": "Some metal silver equipment is lined up with chains.",
+    "standard_zh": "一些用链条排列的银色金属推车。",
+    "sense": [
+      {
+        "term": "equipment",
+        "type": "lexical",
+        "gold_interpretation": "推车"
+      }
+    ]
+  },
+  {
+    "idx": 43,
+    "image": "images/265223847.jpg",
+    "en": "There 's a machine flying outside, preparing to land.",
+    "standard_zh": "外面有一台滑翔伞在飞行，准备着陆。",
+    "sense": [
+      {
+        "term": "machine",
+        "type": "lexical",
+        "gold_interpretation": "滑翔伞"
+      }
+    ]
+  },
+  {
+    "idx": 44,
+    "image": "images/000000456991.jpg",
+    "en": "A man sitting at a table full of stuff.",
+    "standard_zh": "一个男人坐在堆满食物和饮料的桌子旁。",
+    "sense": [
+      {
+        "term": "stuff",
+        "type": "lexical",
+        "gold_interpretation": "食物和饮料"
+      }
+    ]
+  },
+  {
+    "idx": 45,
+    "image": "images/cc12m_919316002.jpg",
+    "en": "A sign outside a house offering respite for evacuees.",
+    "standard_zh": "一所木屋外为撤离人员提供援助的布告。",
+    "sense": [
+      {
+        "term": "sign",
+        "type": "lexical",
+        "gold_interpretation": "布告"
+      },
+      {
+        "term": "house",
+        "type": "lexical",
+        "gold_interpretation": "木屋"
+      }
+    ]
+  },
+  {
+    "idx": 46,
+    "image": "images/000000536795.jpg",
+    "en": "A machine that is on a sidewalk near cars.",
+    "standard_zh": "人行道上靠近汽车的停车计费器。",
+    "sense": [
+      {
+        "term": "machine",
+        "type": "lexical",
+        "gold_interpretation": "停车计费器"
+      }
+    ]
+  },
+  {
+    "idx": 47,
+    "image": "images/2970367040.jpg",
+    "en": "A street performer dressed in eccentric clothes playing an instrument for the money of people passing by.",
+    "standard_zh": "一个穿着古怪衣服的街头表演者为路人的钱演奏单簧管。",
+    "sense": [
+      {
+        "term": "instrument",
+        "type": "lexical",
+        "gold_interpretation": "单簧管"
+      }
+    ]
+  },
+  {
+    "idx": 48,
+    "image": "images/000000216116.jpg",
+    "en": "A basin for a sanitary drainage system.",
+    "standard_zh": "卫生排水系统的蹲便器。",
+    "sense": [
+      {
+        "term": "basin",
+        "type": "lexical",
+        "gold_interpretation": "蹲便器"
+      }
+    ]
+  },
+  {
+    "idx": 49,
+    "image": "images/cc12m_217651149.jpg",
+    "en": "A crowd of people at a rally to ban live export.",
+    "standard_zh": "一群抗议者在禁止活体出口的集会上。",
+    "sense": [
+      {
+        "term": "people",
+        "type": "lexical",
+        "gold_interpretation": "抗议者"
+      }
+    ]
+  },
+  {
+    "idx": 50,
+    "image": "images/000000126590.jpg",
+    "en": "A metal parking meter that has a sign on it.",
+    "standard_zh": "一个金属停车表，上面有一个募捐标志。",
+    "sense": [
+      {
+        "term": "sign",
+        "type": "lexical",
+        "gold_interpretation": "募捐标志"
+      }
+    ]
+  },
+  {
+    "idx": 51,
+    "image": "images/5584378669.jpg",
+    "en": "A large group of people are listening to music and feeling good.",
+    "standard_zh": "一大群观众在听音乐，感觉很好。",
+    "sense": [
+      {
+        "term": "people",
+        "type": "lexical",
+        "gold_interpretation": "观众"
+      }
+    ]
+  },
+  {
+    "idx": 52,
+    "image": "images/3928395936.jpg",
+    "en": "She is engaging in physical activity.",
+    "standard_zh": "她正在从事网球运动。",
+    "sense": [
+      {
+        "term": "activity",
+        "type": "lexical",
+        "gold_interpretation": "网球运动"
+      }
+    ]
+  },
+  {
+    "idx": 53,
+    "image": "images/126772535.jpg",
+    "en": "Two people perform a science experiment.",
+    "standard_zh": "两个人在做一个化学实验。",
+    "sense": [
+      {
+        "term": "experiment",
+        "type": "lexical",
+        "gold_interpretation": "化学实验"
+      }
+    ]
+  },
+  {
+    "idx": 54,
+    "image": "images/cc12m_79096905.jpg",
+    "en": "A marionette pilot in uniform steers a vehicle in a still from the television science fiction series ' thunderbirds ' circa 1965.",
+    "standard_zh": "1965年左右，电视科幻系列片《雷鸟》的剧照中，一个穿着制服的木偶飞行员正在驾驶一艘飞船。",
+    "sense": [
+      {
+        "term": "vehicle",
+        "type": "lexical",
+        "gold_interpretation": "飞船"
+      }
+    ]
+  },
+  {
+    "idx": 55,
+    "image": "images/cc12m_2176447460.jpg",
+    "en": "A word about transportation.",
+    "standard_zh": "关于急救运输的说法。",
+    "sense": [
+      {
+        "term": "transportation",
+        "type": "lexical",
+        "gold_interpretation": "急救运输"
+      }
+    ]
+  },
+  {
+    "idx": 56,
+    "image": "images/000000162573.jpg",
+    "en": "A man standing in a kitchen near some technical equipment.",
+    "standard_zh": "一个男人站在厨房里，靠近一些烤箱。",
+    "sense": [
+      {
+        "term": "equipment",
+        "type": "lexical",
+        "gold_interpretation": "烤箱"
+      }
+    ]
+  },
+  {
+    "idx": 57,
+    "image": "images/2088460083.jpg",
+    "en": "The vehicle has not been taken good care of.",
+    "standard_zh": "吉普车没有得到很好的保养。",
+    "sense": [
+      {
+        "term": "vehicle",
+        "type": "lexical",
+        "gold_interpretation": "吉普车"
+      }
+    ]
+  },
+  {
+    "idx": 58,
+    "image": "images/5626622789.jpg",
+    "en": "Two people are flying on a carpet.",
+    "standard_zh": "两个演员在地毯上飞行。",
+    "sense": [
+      {
+        "term": "people",
+        "type": "lexical",
+        "gold_interpretation": "演员"
+      }
+    ]
+  },
+  {
+    "idx": 59,
+    "image": "images/363709975.jpg",
+    "en": "The award is being given to three people.",
+    "standard_zh": "该奖项被授予了三个运动员。",
+    "sense": [
+      {
+        "term": "people",
+        "type": "lexical",
+        "gold_interpretation": "运动员"
+      }
+    ]
+  },
+  {
+    "idx": 60,
+    "image": "images/1693733107.jpg",
+    "en": "Two individuals sit in the handicap section.",
+    "standard_zh": "两个乘客坐在残障区。",
+    "sense": [
+      {
+        "term": "individuals",
+        "type": "lexical",
+        "gold_interpretation": "乘客"
+      }
+    ]
+  },
+  {
+    "idx": 61,
+    "image": "images/5588403950.jpg",
+    "en": "A white person sits in the snow, reading.",
+    "standard_zh": "一个白人滑雪者坐在雪地里，正在阅读。",
+    "sense": [
+      {
+        "term": "person",
+        "type": "lexical",
+        "gold_interpretation": "滑雪者"
+      }
+    ]
+  },
+  {
+    "idx": 62,
+    "image": "images/000000063508.jpg",
+    "en": "Unique looking fruit still growing on the treee.",
+    "standard_zh": "树上还长着造型独特的香蕉。",
+    "sense": [
+      {
+        "term": "fruit",
+        "type": "lexical",
+        "gold_interpretation": "香蕉"
+      }
+    ]
+  },
+  {
+    "idx": 63,
+    "image": "images/cc12m_2670462130.jpg",
+    "en": "A steamroller was used to damage vehicles in upper hutt early this morning.",
+    "standard_zh": "今天凌晨，一辆蒸汽压路机被用来损坏上赫特的汽车。",
+    "sense": [
+      {
+        "term": "vehicles",
+        "type": "lexical",
+        "gold_interpretation": "汽车"
+      }
+    ]
+  },
+  {
+    "idx": 64,
+    "image": "images/000000388770.jpg",
+    "en": "A group of birds sitting on a structure all together.",
+    "standard_zh": "一群鸟一起歇息在一个金属结构上。",
+    "sense": [
+      {
+        "term": "structure",
+        "type": "lexical",
+        "gold_interpretation": "金属结构"
+      }
+    ]
+  },
+  {
+    "idx": 65,
+    "image": "images/7670346004.jpg",
+    "en": "Young men are engaged in physical activity.",
+    "standard_zh": "年轻人正在参加柔道比赛。",
+    "sense": [
+      {
+        "term": "physical activity",
+        "type": "lexical",
+        "gold_interpretation": "柔道比赛"
+      },
+      {
+        "term": "engaged in",
+        "type": "lexical",
+        "gold_interpretation": "参与"
+      }
+    ]
+  },
+  {
+    "idx": 66,
+    "image": "images/7236831126.jpg",
+    "en": "A woman is in a competition.",
+    "standard_zh": "一个女人正在参加马拉松比赛。",
+    "sense": [
+      {
+        "term": "competition",
+        "type": "lexical",
+        "gold_interpretation": "马拉松比赛"
+      }
+    ]
+  },
+  {
+    "idx": 67,
+    "image": "images/6906541132.jpg",
+    "en": "A machine is moving up.",
+    "standard_zh": "一台起重机正在向上移动。",
+    "sense": [
+      {
+        "term": "machine",
+        "type": "lexical",
+        "gold_interpretation": "起重机"
+      }
+    ]
+  },
+  {
+    "idx": 68,
+    "image": "images/cc12m_2781308413.jpg",
+    "en": "Two guardsmen dressed in fatigues, and wearing protective face masks, unload boxes from a vehicle in a large parking lot.",
+    "standard_zh": "在一个大型停车场，两名身穿迷彩服、戴着防护口罩的卫兵正在从一辆汽车上卸下箱子。",
+    "sense": [
+      {
+        "term": "vehicle",
+        "type": "lexical",
+        "gold_interpretation": "汽车"
+      }
+    ]
+  },
+  {
+    "idx": 69,
+    "image": "images/cc12m_1108148059.jpg",
+    "en": "A driver programs his vehicle with an in - dash touch screen navigation system.",
+    "standard_zh": "一名驾驶员用仪表板触摸屏导航系统控制汽车。",
+    "sense": [
+      {
+        "term": "vehicle",
+        "type": "lexical",
+        "gold_interpretation": "汽车"
+      }
+    ]
+  },
+  {
+    "idx": 70,
+    "image": "images/1067180831.jpg",
+    "en": "An animal is getting exercise.",
+    "standard_zh": "一只正在锻炼的狗。",
+    "sense": [
+      {
+        "term": "animal",
+        "type": "lexical",
+        "gold_interpretation": "狗"
+      }
+    ]
+  },
+  {
+    "idx": 71,
+    "image": "images/138475481.jpg",
+    "en": "Some folks are making food.",
+    "standard_zh": "一些人在做烧烤。",
+    "sense": [
+      {
+        "term": "food",
+        "type": "lexical",
+        "gold_interpretation": "烧烤"
+      }
+    ]
+  },
+  {
+    "idx": 72,
+    "image": "images/cc12m_1736384774.jpg",
+    "en": "A crew chief guides f-16 aircraft to a stop.",
+    "standard_zh": "一名机组负责人引导F-16战斗机停下。",
+    "sense": [
+      {
+        "term": "aircraft",
+        "type": "lexical",
+        "gold_interpretation": "战斗机"
+      }
+    ]
+  },
+  {
+    "idx": 73,
+    "image": "images/188370695.jpg",
+    "en": "Chefs in a circle are sharing some food with the crowd at a gathering.",
+    "standard_zh": "在一个聚会上，围成一圈的厨师们正在与人群分享一些糕点。",
+    "sense": [
+      {
+        "term": "food",
+        "type": "lexical",
+        "gold_interpretation": "糕点"
+      }
+    ]
+  },
+  {
+    "idx": 74,
+    "image": "images/cc12m_110433233.jpg",
+    "en": "A vehicle of the russian investigative committee (file).",
+    "standard_zh": "俄罗斯调查委员会的一辆面包车(档案)。",
+    "sense": [
+      {
+        "term": "vehicle",
+        "type": "lexical",
+        "gold_interpretation": "面包车"
+      }
+    ]
+  },
+  {
+    "idx": 75,
+    "image": "images/1368338041.jpg",
+    "en": "There are three animals within sight of a ledge.",
+    "standard_zh": "在窗台的视野范围内有三只狗。",
+    "sense": [
+      {
+        "term": "animals",
+        "type": "lexical",
+        "gold_interpretation": "狗"
+      }
+    ]
+  },
+  {
+    "idx": 76,
+    "image": "images/1808007704.jpg",
+    "en": "Two men brace to catch a man if he falls.",
+    "standard_zh": "两名男子准备抓住一名摔倒的攀岩者。",
+    "sense": [
+      {
+        "term": "man",
+        "type": "lexical",
+        "gold_interpretation": "攀岩者"
+      }
+    ]
+  },
+  {
+    "idx": 77,
+    "image": "images/4563177695.jpg",
+    "en": "Two people are watching an entrance.",
+    "standard_zh": "两个人工作人员正在看一个入口。\n\n为了使句子更通顺，可以稍微调整一下：\n两位工作人员正在看守一个入口。",
+    "sense": [
+      {
+        "term": "people",
+        "type": "lexical",
+        "gold_interpretation": "工作人员"
+      },
+      {
+        "term": "watching",
+        "type": "lexical",
+        "gold_interpretation": "看守"
+      }
+    ]
+  },
+  {
+    "idx": 78,
+    "image": "images/000000212974.jpg",
+    "en": "The various sweet foods are being displayed for consumption.",
+    "standard_zh": "各种糖果和蛋糕被展示出来供人食用。",
+    "sense": [
+      {
+        "term": "foods",
+        "type": "lexical",
+        "gold_interpretation": "糖果和蛋糕"
+      }
+    ]
+  },
+  {
+    "idx": 79,
+    "image": "images/000000256290.jpg",
+    "en": "A person is riding a horse at a demonstration.",
+    "standard_zh": "一个人正骑着马在表演。",
+    "sense": [
+      {
+        "term": "demonstration",
+        "type": "lexical",
+        "gold_interpretation": "表演"
+      }
+    ]
+  },
+  {
+    "idx": 80,
+    "image": "images/cc12m_3586121030.jpg",
+    "en": "A teacher with a group of pupils.",
+    "standard_zh": "一位老师和一群小学生。",
+    "sense": [
+      {
+        "term": "pupils",
+        "type": "lexical",
+        "gold_interpretation": "小学生"
+      }
+    ]
+  },
+  {
+    "idx": 81,
+    "image": "images/cc12m_2723004531.jpg",
+    "en": "A creature with a bird mask and hands with long black fingernails.",
+    "standard_zh": "一个拟人化的鸟类生物，戴着鸟面具，手有长长的黑指甲。",
+    "sense": [
+      {
+        "term": "creature",
+        "type": "lexical",
+        "gold_interpretation": "拟人化的鸟类生物"
+      }
+    ]
+  },
+  {
+    "idx": 82,
+    "image": "images/cc12m_2943098919.jpg",
+    "en": "A contemporary arrangement featuring monochromatic premium blooms. flowers are subject to change.",
+    "standard_zh": "以单色优质花朵为特色的现代布置。郁金香可以随情况变化。",
+    "sense": [
+      {
+        "term": "flowers",
+        "type": "lexical",
+        "gold_interpretation": "郁金香"
+      }
+    ]
+  },
+  {
+    "idx": 83,
+    "image": "images/7701169300.jpg",
+    "en": "There are two people fencing.",
+    "standard_zh": "两个击剑运动员在击剑。",
+    "sense": [
+      {
+        "term": "people",
+        "type": "lexical",
+        "gold_interpretation": "击剑运动员"
+      }
+    ]
+  },
+  {
+    "idx": 84,
+    "image": "images/2409312675.jpg",
+    "en": "The vehicle is getting dirty.",
+    "standard_zh": "越野车变脏了。",
+    "sense": [
+      {
+        "term": "vehicle",
+        "type": "lexical",
+        "gold_interpretation": "越野车"
+      }
+    ]
+  },
+  {
+    "idx": 85,
+    "image": "images/000000276064.jpg",
+    "en": "A young boy eating food next to a  pile of yellow cloths.",
+    "standard_zh": "一个小男孩在一堆黄T恤旁边吃东西。",
+    "sense": [
+      {
+        "term": "cloths",
+        "type": "lexical",
+        "gold_interpretation": "T恤"
+      }
+    ]
+  },
+  {
+    "idx": 86,
+    "image": "images/000000393180.jpg",
+    "en": "A person sitting in front of a white stove.",
+    "standard_zh": "坐在白色烤箱前的人。",
+    "sense": [
+      {
+        "term": "stove",
+        "type": "lexical",
+        "gold_interpretation": "烤箱"
+      }
+    ]
+  },
+  {
+    "idx": 87,
+    "image": "images/cc_2299594989.jpg",
+    "en": "A group competes in the men 's mass start during the event.",
+    "standard_zh": "比赛期间，一组选手正在进行男子集体起跑的速度滑冰比赛。",
+    "sense": [
+      {
+        "term": "event",
+        "type": "lexical",
+        "gold_interpretation": "速度滑冰比赛"
+      }
+    ]
+  },
+  {
+    "idx": 88,
+    "image": "images/000000341802.jpg",
+    "en": "The animals are walking along on the beach.",
+    "standard_zh": "牛正在海滩上散步。",
+    "sense": [
+      {
+        "term": "animals",
+        "type": "lexical",
+        "gold_interpretation": "牛"
+      }
+    ]
+  },
+  {
+    "idx": 89,
+    "image": "images/000000144199.jpg",
+    "en": "A close up of a cut into piece of food.",
+    "standard_zh": "一块切好的派的特写。",
+    "sense": [
+      {
+        "term": "food",
+        "type": "lexical",
+        "gold_interpretation": "派"
+      }
+    ]
+  },
+  {
+    "idx": 90,
+    "image": "images/000000269477.jpg",
+    "en": "Some cut up fruit next to some other type of fruit.",
+    "standard_zh": "一些切开的苹果，旁边是一些其他类型的苹果。",
+    "sense": [
+      {
+        "term": "fruit",
+        "type": "lexical",
+        "gold_interpretation": "苹果"
+      }
+    ]
+  },
+  {
+    "idx": 91,
+    "image": "images/000000550007.jpg",
+    "en": "A person is racing around a track on a motorcycle.",
+    "standard_zh": "一个赛车手骑着摩托车在赛道上飞驰。",
+    "sense": [
+      {
+        "term": "person",
+        "type": "lexical",
+        "gold_interpretation": "赛车手"
+      }
+    ]
+  },
+  {
+    "idx": 92,
+    "image": "images/2868652721.jpg",
+    "en": "A person is working indoors.",
+    "standard_zh": "一个服务员在室内工作。",
+    "sense": [
+      {
+        "term": "person",
+        "type": "lexical",
+        "gold_interpretation": "服务员"
+      }
+    ]
+  },
+  {
+    "idx": 93,
+    "image": "images/000000397511.jpg",
+    "en": "Some people standing in line to get on a bus.",
+    "standard_zh": "一些乘客在排队等候上车。",
+    "sense": [
+      {
+        "term": "people",
+        "type": "lexical",
+        "gold_interpretation": "乘客"
+      }
+    ]
+  },
+  {
+    "idx": 94,
+    "image": "images/000000129656.jpg",
+    "en": "A yellow and blue train passing by trees and other tracks.",
+    "standard_zh": "一辆黄色和蓝色的货运列车经过树木和其他轨道。",
+    "sense": [
+      {
+        "term": "train",
+        "type": "lexical",
+        "gold_interpretation": "货运列车"
+      }
+    ]
+  },
+  {
+    "idx": 95,
+    "image": "images/cc_2572942136.jpg",
+    "en": "A left side view of an aircraft on the flight line.",
+    "standard_zh": "一架战斗机在飞行线上的左视图。",
+    "sense": [
+      {
+        "term": "aircraft",
+        "type": "lexical",
+        "gold_interpretation": "战斗机"
+      }
+    ]
+  },
+  {
+    "idx": 96,
+    "image": "images/000000030822.jpg",
+    "en": "A chef stands before a line of food and in front of a large oven.",
+    "standard_zh": "一个厨师站在一排比萨前，在一个大烤箱前。",
+    "sense": [
+      {
+        "term": "food",
+        "type": "lexical",
+        "gold_interpretation": "比萨"
+      }
+    ]
+  },
+  {
+    "idx": 97,
+    "image": "images/000000388858.jpg",
+    "en": "A picture of some people in the water.",
+    "standard_zh": "一张一些冲浪者在海水中的照片。",
+    "sense": [
+      {
+        "term": "people",
+        "type": "lexical",
+        "gold_interpretation": "冲浪者"
+      },
+      {
+        "term": "water",
+        "type": "lexical",
+        "gold_interpretation": "海水"
+      }
+    ]
+  },
+  {
+    "idx": 98,
+    "image": "images/000000564050.jpg",
+    "en": "Fresh produce can be found at your local grocery store.",
+    "standard_zh": "在当地的杂货店可以找到新鲜的蔬菜。",
+    "sense": [
+      {
+        "term": "produce",
+        "type": "lexical",
+        "gold_interpretation": "蔬菜"
+      }
+    ]
+  },
+  {
+    "idx": 99,
+    "image": "images/6296537344.jpg",
+    "en": "Men are playing a game.",
+    "standard_zh": "男人们在玩轮滑球。",
+    "sense": [
+      {
+        "term": "game",
+        "type": "lexical",
+        "gold_interpretation": "轮滑球"
+      }
+    ]
+  },
+  {
+    "idx": 100,
+    "image": "images/000000463424.jpg",
+    "en": "A train moves next to a body of water.",
+    "standard_zh": "一列火车在湖泊旁行驶。",
+    "sense": [
+      {
+        "term": "body of water",
+        "type": "lexical",
+        "gold_interpretation": "湖泊"
+      }
+    ]
+  },
+  {
+    "idx": 101,
+    "image": "images/000000054344.jpg",
+    "en": "Couple of people out on the runway ready to board the small plane.",
+    "standard_zh": "几个乘客在跑道上准备登机。",
+    "sense": [
+      {
+        "term": "people",
+        "type": "lexical",
+        "gold_interpretation": "乘客"
+      }
+    ]
+  },
+  {
+    "idx": 102,
+    "image": "images/cc12m_1418059816.jpg",
+    "en": "A line-up of vehicles waiting for their drivers to get tested at newtown school.",
+    "standard_zh": "在纽敦学校，一排等待司机接受考试的汽车。",
+    "sense": [
+      {
+        "term": "vehicles",
+        "type": "lexical",
+        "gold_interpretation": "汽车"
+      }
+    ]
+  },
+  {
+    "idx": 103,
+    "image": "images/2363100645.jpg",
+    "en": "There is a person playing a musical instrument.",
+    "standard_zh": "有一个人在演奏吉他。",
+    "sense": [
+      {
+        "term": "musical instrument",
+        "type": "lexical",
+        "gold_interpretation": "吉他"
+      }
+    ]
+  },
+  {
+    "idx": 104,
+    "image": "images/cc12m_965500090.jpg",
+    "en": "A fabulous creation from my box of recycled materials.",
+    "standard_zh": "从我的回收材料箱中得到的一个美妙的手工制品。",
+    "sense": [
+      {
+        "term": "creation",
+        "type": "lexical",
+        "gold_interpretation": "手工制品"
+      }
+    ]
+  },
+  {
+    "idx": 105,
+    "image": "images/56494233.jpg",
+    "en": "A man on top of a mountain looks at the mountains surrounding him.",
+    "standard_zh": "一个人站在雪山上，看着周围的雪山。",
+    "sense": [
+      {
+        "term": "mountain",
+        "type": "lexical",
+        "gold_interpretation": "雪山"
+      }
+    ]
+  },
+  {
+    "idx": 106,
+    "image": "images/cc12m_1081148953.jpg",
+    "en": "A man stands by a car with a sign that reads ``climate action now or...?'' in front of a burnt-out house.",
+    "standard_zh": "一个男人站在一辆越野车旁，上面有一个写着 \"climate action now or……?\" 的标语牌，在一个烧毁的房子前。",
+    "sense": [
+      {
+        "term": "car",
+        "type": "lexical",
+        "gold_interpretation": "越野车"
+      },
+      {
+        "term": "sign",
+        "type": "lexical",
+        "gold_interpretation": "标语牌"
+      }
+    ]
+  },
+  {
+    "idx": 107,
+    "image": "images/3661230589.jpg",
+    "en": "A person is jumping in the air in the center of a roadway.",
+    "standard_zh": "一个人在公路中央的空中跳着。",
+    "sense": [
+      {
+        "term": "roadway",
+        "type": "lexical",
+        "gold_interpretation": "公路"
+      }
+    ]
+  },
+  {
+    "idx": 108,
+    "image": "images/2861932486.jpg",
+    "en": "A man is taking a look at the food products.",
+    "standard_zh": "一个男人正在看蔬菜产品。",
+    "sense": [
+      {
+        "term": "food",
+        "type": "lexical",
+        "gold_interpretation": "蔬菜"
+      }
+    ]
+  },
+  {
+    "idx": 109,
+    "image": "images/4671579541.jpg",
+    "en": "A bunch of people are outside with flags.",
+    "standard_zh": "外面有一群示威者举着旗子。",
+    "sense": [
+      {
+        "term": "people",
+        "type": "lexical",
+        "gold_interpretation": "示威者"
+      }
+    ]
+  },
+  {
+    "idx": 110,
+    "image": "images/000000495722.jpg",
+    "en": "A man with a backpack skiing towards a lot of trees and mountains.",
+    "standard_zh": "一个背着双肩包的滑雪者滑向许多树木和雪山。",
+    "sense": [
+      {
+        "term": "man",
+        "type": "lexical",
+        "gold_interpretation": "滑雪者"
+      },
+      {
+        "term": "mountains",
+        "type": "lexical",
+        "gold_interpretation": "雪山"
+      }
+    ]
+  },
+  {
+    "idx": 111,
+    "image": "images/cc_3163145907.jpg",
+    "en": "A general view of action during the match.",
+    "standard_zh": "板球比赛过程中的动作远景。",
+    "sense": [
+      {
+        "term": "match",
+        "type": "lexical",
+        "gold_interpretation": "板球比赛"
+      }
+    ]
+  },
+  {
+    "idx": 112,
+    "image": "images/1072153132.jpg",
+    "en": "There is an animal and a ball.",
+    "standard_zh": "这里有一只狗和一个球。",
+    "sense": [
+      {
+        "term": "animal",
+        "type": "lexical",
+        "gold_interpretation": "狗"
+      }
+    ]
+  },
+  {
+    "idx": 113,
+    "image": "images/cc12m_362186475.jpg",
+    "en": "A damaged new vehicle on a tow truck. medium shot.",
+    "standard_zh": "一辆损坏的新汽车在拖车上。中景。",
+    "sense": [
+      {
+        "term": "vehicle",
+        "type": "lexical",
+        "gold_interpretation": "汽车"
+      }
+    ]
+  },
+  {
+    "idx": 114,
+    "image": "images/7671490798.jpg",
+    "en": "There are three people on grass.",
+    "standard_zh": "草地上有三个球员。",
+    "sense": [
+      {
+        "term": "people",
+        "type": "lexical",
+        "gold_interpretation": "球员"
+      }
+    ]
+  },
+  {
+    "idx": 115,
+    "image": "images/000000218646.jpg",
+    "en": "A herd of animals laying at the foot of a stone mountain.",
+    "standard_zh": "一群奶牛躺在石山山脚。",
+    "sense": [
+      {
+        "term": "animals",
+        "type": "lexical",
+        "gold_interpretation": "奶牛"
+      }
+    ]
+  },
+  {
+    "idx": 116,
+    "image": "images/2845084079.jpg",
+    "en": "A person is being asked questions by others.",
+    "standard_zh": "一个运动员正在接受别人采访。",
+    "sense": [
+      {
+        "term": "person",
+        "type": "lexical",
+        "gold_interpretation": "运动员"
+      }
+    ]
+  },
+  {
+    "idx": 117,
+    "image": "images/4584266011.jpg",
+    "en": "Some people are doing their jobs.",
+    "standard_zh": "有些工作人员在做拍摄工作。",
+    "sense": [
+      {
+        "term": "people",
+        "type": "lexical",
+        "gold_interpretation": "工作人员"
+      },
+      {
+        "term": "jobs",
+        "type": "lexical",
+        "gold_interpretation": "拍摄工作"
+      }
+    ]
+  },
+  {
+    "idx": 118,
+    "image": "images/000000084356.jpg",
+    "en": "A wooly animal walks along grassy land near a lake with heavy woods on the other side.",
+    "standard_zh": "一只毛茸茸的绵羊沿着湖边的草地走着，另一边是重重密林。",
+    "sense": [
+      {
+        "term": "animal",
+        "type": "lexical",
+        "gold_interpretation": "绵羊"
+      }
+    ]
+  },
+  {
+    "idx": 119,
+    "image": "images/4792178546.jpg",
+    "en": "A crowd is cheering for the home team.",
+    "standard_zh": "一群球迷正在为主队欢呼。",
+    "sense": [
+      {
+        "term": "crowd",
+        "type": "lexical",
+        "gold_interpretation": "球迷"
+      }
+    ]
+  },
+  {
+    "idx": 120,
+    "image": "images/cc_3698475076.jpg",
+    "en": "A reporter raises his hand to ask the person a question at a daily briefing.",
+    "standard_zh": "在每日新闻发布会上，一名记者举手向发言人提问。",
+    "sense": [
+      {
+        "term": "person",
+        "type": "lexical",
+        "gold_interpretation": "发言人"
+      }
+    ]
+  },
+  {
+    "idx": 121,
+    "image": "images/865573132.jpg",
+    "en": "The two women are taking care of animals.",
+    "standard_zh": "两个女人在照顾绵羊。",
+    "sense": [
+      {
+        "term": "animals",
+        "type": "lexical",
+        "gold_interpretation": "绵羊"
+      }
+    ]
+  },
+  {
+    "idx": 122,
+    "image": "images/3575330336.jpg",
+    "en": "The people are playing a ballgame.",
+    "standard_zh": "人们在打棒球比赛。",
+    "sense": [
+      {
+        "term": "ballgame",
+        "type": "lexical",
+        "gold_interpretation": "棒球比赛"
+      }
+    ]
+  },
+  {
+    "idx": 123,
+    "image": "images/000000114187.jpg",
+    "en": "A computer desk has various accessories on it.",
+    "standard_zh": "电脑桌上有各种各样的电脑外设。",
+    "sense": [
+      {
+        "term": "accessories",
+        "type": "lexical",
+        "gold_interpretation": "外设"
+      }
+    ]
+  },
+  {
+    "idx": 124,
+    "image": "images/000000094564.jpg",
+    "en": "A container filled with carrots and tomatoes next to egg plant.",
+    "standard_zh": "鸡蛋旁边装满胡萝卜和西红柿的木箱。",
+    "sense": [
+      {
+        "term": "container",
+        "type": "lexical",
+        "gold_interpretation": "木箱"
+      }
+    ]
+  },
+  {
+    "idx": 125,
+    "image": "images/000000557677.jpg",
+    "en": "A bathroom with a shower, toilet, sink and other accessories.",
+    "standard_zh": "有淋浴、马桶、水槽和其他洗漱用品的浴室。",
+    "sense": [
+      {
+        "term": "accessories",
+        "type": "lexical",
+        "gold_interpretation": "洗漱用品"
+      }
+    ]
+  },
+  {
+    "idx": 126,
+    "image": "images/000000378918.jpg",
+    "en": "A bird hunts for bugs in the tall grass.",
+    "standard_zh": "杜鹃在高高的草丛中寻找虫子。",
+    "sense": [
+      {
+        "term": "bird",
+        "type": "lexical",
+        "gold_interpretation": "杜鹃"
+      }
+    ]
+  },
+  {
+    "idx": 127,
+    "image": "images/sbu_1175606916.jpg",
+    "en": "A plant in the shadow of a dead tree stump.",
+    "standard_zh": "一株死树桩阴影下的苔藓。",
+    "sense": [
+      {
+        "term": "plant",
+        "type": "lexical",
+        "gold_interpretation": "苔藓"
+      }
+    ]
+  },
+  {
+    "idx": 128,
+    "image": "images/000000228881.jpg",
+    "en": "A very busy city street with many vertical signs dotting the buildings.",
+    "standard_zh": "一条非常繁忙的城市街道，建筑物上点缀着许多霓虹灯广告牌。",
+    "sense": [
+      {
+        "term": "signs",
+        "type": "lexical",
+        "gold_interpretation": "霓虹灯广告牌"
+      }
+    ]
+  },
+  {
+    "idx": 129,
+    "image": "images/3826408845.jpg",
+    "en": "A furry animal with a brown butt stands in front of the people.",
+    "standard_zh": "一只棕色屁股的毛茸茸的羊驼站在人们面前。",
+    "sense": [
+      {
+        "term": "animal",
+        "type": "lexical",
+        "gold_interpretation": "羊驼"
+      }
+    ]
+  },
+  {
+    "idx": 130,
+    "image": "images/4633283026.jpg",
+    "en": "A group of people are in a competition.",
+    "standard_zh": "一群人在马拉松比赛中。",
+    "sense": [
+      {
+        "term": "competition",
+        "type": "lexical",
+        "gold_interpretation": "马拉松"
+      }
+    ]
+  },
+  {
+    "idx": 131,
+    "image": "images/1547575241.jpg",
+    "en": "The crowd of people are brought together by a common interest.",
+    "standard_zh": "一群人因共同体育赛事而聚集在一起。",
+    "sense": [
+      {
+        "term": "interest",
+        "type": "lexical",
+        "gold_interpretation": "体育赛事"
+      }
+    ]
+  },
+  {
+    "idx": 132,
+    "image": "images/cc_2590276599.jpg",
+    "en": "A machine is riding through the forest picking up felled trees.",
+    "standard_zh": "一台伐木机正穿过森林捡拾砍伐的树木。",
+    "sense": [
+      {
+        "term": "machine",
+        "type": "lexical",
+        "gold_interpretation": "伐木机"
+      }
+    ]
+  },
+  {
+    "idx": 133,
+    "image": "images/cc_1470029798.jpg",
+    "en": "American football player lets go of a pass after being hit by a defender during the game.",
+    "standard_zh": "美国橄榄球运动员在橄榄球比赛中被后卫撞到后放开了传球。",
+    "sense": [
+      {
+        "term": "game",
+        "type": "lexical",
+        "gold_interpretation": "橄榄球比赛"
+      }
+    ]
+  },
+  {
+    "idx": 134,
+    "image": "images/4442309939.jpg",
+    "en": "In an asian city, a group of people stand in front of a series of signs and placards.",
+    "standard_zh": "在一个亚洲城市，一群人站在一系列的广告牌和标语牌前。",
+    "sense": [
+      {
+        "term": "signs",
+        "type": "lexical",
+        "gold_interpretation": "广告牌"
+      }
+    ]
+  },
+  {
+    "idx": 135,
+    "image": "images/000000253307.jpg",
+    "en": "Two animals sitting on the ground on a hill.",
+    "standard_zh": "两只绵羊坐在山上的地面上。",
+    "sense": [
+      {
+        "term": "animals",
+        "type": "lexical",
+        "gold_interpretation": "绵羊"
+      }
+    ]
+  },
+  {
+    "idx": 136,
+    "image": "images/000000312959.jpg",
+    "en": "A herd of animals grazing on a rocky grass covered hillside.",
+    "standard_zh": "一群绵羊在岩石覆盖的草坡上吃草。",
+    "sense": [
+      {
+        "term": "animals",
+        "type": "lexical",
+        "gold_interpretation": "绵羊"
+      }
+    ]
+  },
+  {
+    "idx": 137,
+    "image": "images/cc12m_1644033173.jpg",
+    "en": "Image of student building a machine on a table.",
+    "standard_zh": "学生在桌子上搭建机器人的图片。",
+    "sense": [
+      {
+        "term": "machine",
+        "type": "lexical",
+        "gold_interpretation": "机器人"
+      }
+    ]
+  },
+  {
+    "idx": 138,
+    "image": "images/cc12m_702704793.jpg",
+    "en": "Wooden sculpture ``la luz'' as an object for interior design.",
+    "standard_zh": "木雕 \"La Luz \"作为室内设计的装饰品。",
+    "sense": [
+      {
+        "term": "object",
+        "type": "lexical",
+        "gold_interpretation": "装饰品"
+      }
+    ]
+  },
+  {
+    "idx": 139,
+    "image": "images/000000301208.jpg",
+    "en": "A group of animals standing on a grassy field.",
+    "standard_zh": "一群绵羊站在草场上。",
+    "sense": [
+      {
+        "term": "animals",
+        "type": "lexical",
+        "gold_interpretation": "绵羊"
+      }
+    ]
+  },
+  {
+    "idx": 140,
+    "image": "images/000000347389.jpg",
+    "en": "A television sitting on a stand with a video device below.",
+    "standard_zh": "一台电视放置在木制电视柜上，下面有一个录像机。",
+    "sense": [
+      {
+        "term": "stand",
+        "type": "lexical",
+        "gold_interpretation": "木制电视柜"
+      },
+      {
+        "term": "device",
+        "type": "lexical",
+        "gold_interpretation": "录像机"
+      }
+    ]
+  },
+  {
+    "idx": 141,
+    "image": "images/cc12m_630789777.jpg",
+    "en": "An industrial building with 'stage 25' printed on it.",
+    "standard_zh": "一座印有 \"25号摄影棚\"的工业建筑。",
+    "sense": [
+      {
+        "term": "Stage 25",
+        "type": "lexical",
+        "gold_interpretation": "25号摄影棚"
+      }
+    ]
+  },
+  {
+    "idx": 142,
+    "image": "images/000000185915.jpg",
+    "en": "A large body of water filled with boats along a forested shore.",
+    "standard_zh": "森林岸边装满了船只的一个大湖泊。",
+    "sense": [
+      {
+        "term": "body of water",
+        "type": "lexical",
+        "gold_interpretation": "湖泊"
+      }
+    ]
+  },
+  {
+    "idx": 143,
+    "image": "images/cc12m_2434497324.jpg",
+    "en": "A young girl holds a mechanical tool to a tree.",
+    "standard_zh": "一个年轻女孩拿着一个螺丝刀对着一棵树。",
+    "sense": [
+      {
+        "term": "tool",
+        "type": "lexical",
+        "gold_interpretation": "螺丝刀"
+      }
+    ]
+  },
+  {
+    "idx": 144,
+    "image": "images/cc_789035909.jpg",
+    "en": "These animal pictures are not photographs : they are meticulous line drawings done by person.",
+    "standard_zh": "这些土拨鼠图片不是照片，而是人手绘制的细致线条图。",
+    "sense": [
+      {
+        "term": "animal",
+        "type": "lexical",
+        "gold_interpretation": "土拨鼠"
+      }
+    ]
+  },
+  {
+    "idx": 145,
+    "image": "images/cc12m_2057314208.jpg",
+    "en": "No 'police' or 'press' stickers on private vehicles: traffic police to start crackdown after hc order 2.",
+    "standard_zh": "摩托车上不许贴'警察'或'记者'的标签。交通警察在下达HC命令2后开始镇压。",
+    "sense": [
+      {
+        "term": "vehicles",
+        "type": "lexical",
+        "gold_interpretation": "摩托车"
+      }
+    ]
+  },
+  {
+    "idx": 146,
+    "image": "images/cc_3640831890.jpg",
+    "en": "Facade of the complex, an important place for worshippers.",
+    "standard_zh": "该寺庙的外墙，是崇拜者的重要场所。",
+    "sense": [
+      {
+        "term": "place",
+        "type": "lexical",
+        "gold_interpretation": "寺庙"
+      }
+    ]
+  },
+  {
+    "idx": 147,
+    "image": "images/000000295359.jpg",
+    "en": "A bird sitting on the back of a wooden chair.",
+    "standard_zh": "一只落在木椅背上的乌鸦。",
+    "sense": [
+      {
+        "term": "bird",
+        "type": "lexical",
+        "gold_interpretation": "乌鸦"
+      }
+    ]
+  },
+  {
+    "idx": 148,
+    "image": "images/000000274731.jpg",
+    "en": "An animal in a body of water bordered with snow.",
+    "standard_zh": "水池中的一只北极熊，与雪为邻。",
+    "sense": [
+      {
+        "term": "animal",
+        "type": "lexical",
+        "gold_interpretation": "北极熊"
+      },
+      {
+        "term": "body of water",
+        "type": "lexical",
+        "gold_interpretation": "水池"
+      }
+    ]
+  },
+  {
+    "idx": 149,
+    "image": "images/cc12m_3699501397.jpg",
+    "en": "Confusion as woman discovers a meter-long jungle snake hiding inside her toilet.",
+    "standard_zh": "妇女发现一条一米长的丛林蛇藏在她的马桶里，感到困惑。",
+    "sense": [
+      {
+        "term": "toilet",
+        "type": "lexical",
+        "gold_interpretation": "马桶"
+      }
+    ]
+  },
+  {
+    "idx": 150,
+    "image": "images/cc_879057149.jpg",
+    "en": "Baseball player during the season.",
+    "standard_zh": "本赛季的捕手。",
+    "sense": [
+      {
+        "term": "player",
+        "type": "lexical",
+        "gold_interpretation": "捕手"
+      }
+    ]
+  },
+  {
+    "idx": 151,
+    "image": "images/000000037979.jpg",
+    "en": "Looking down on a piece of tan colored luggage and a persons feet that has shows and leg warmers on.",
+    "standard_zh": "俯视着一件棕褐色的手提箱和一个穿着表演服和保暖裤的人的脚。",
+    "sense": [
+      {
+        "term": "luggage",
+        "type": "lexical",
+        "gold_interpretation": "手提箱"
+      }
+    ]
+  },
+  {
+    "idx": 152,
+    "image": "images/cc_4025019929.jpg",
+    "en": "A person is working on the machine.",
+    "standard_zh": "一个工人正在车床上工作。",
+    "sense": [
+      {
+        "term": "person",
+        "type": "lexical",
+        "gold_interpretation": "工人"
+      },
+      {
+        "term": "machine",
+        "type": "lexical",
+        "gold_interpretation": "车床"
+      }
+    ]
+  },
+  {
+    "idx": 153,
+    "image": "images/3799984714.jpg",
+    "en": "The man is playing a musical instrument at an event.",
+    "standard_zh": "该男子在音乐会中演奏班卓琴。",
+    "sense": [
+      {
+        "term": "instrument",
+        "type": "lexical",
+        "gold_interpretation": "班卓琴"
+      },
+      {
+        "term": "event",
+        "type": "lexical",
+        "gold_interpretation": "音乐会"
+      }
+    ]
+  },
+  {
+    "idx": 154,
+    "image": "images/1251716308.jpg",
+    "en": "A person is performing music.",
+    "standard_zh": "一个音乐家正在演奏大提琴。",
+    "sense": [
+      {
+        "term": "person",
+        "type": "lexical",
+        "gold_interpretation": "音乐家"
+      },
+      {
+        "term": "music",
+        "type": "lexical",
+        "gold_interpretation": "大提琴演奏"
+      }
+    ]
+  },
+  {
+    "idx": 155,
+    "image": "images/2101128963.jpg",
+    "en": "A baseball player in action.",
+    "standard_zh": "一位正在投球的投手。",
+    "sense": [
+      {
+        "term": "player",
+        "type": "lexical",
+        "gold_interpretation": "投手"
+      }
+    ]
+  },
+  {
+    "idx": 156,
+    "image": "images/7599430126.jpg",
+    "en": "A person is by a road, playing music.",
+    "standard_zh": "一个人在路边弹吉他。",
+    "sense": [
+      {
+        "term": "music",
+        "type": "lexical",
+        "gold_interpretation": "吉他"
+      }
+    ]
+  },
+  {
+    "idx": 157,
+    "image": "images/cc12m_3641385109.jpg",
+    "en": "Two office worker observing on a big sheet of paper.",
+    "standard_zh": "两个办公室职员正在观察一张大图纸。",
+    "sense": [
+      {
+        "term": "worker",
+        "type": "lexical",
+        "gold_interpretation": "职员"
+      },
+      {
+        "term": "paper",
+        "type": "lexical",
+        "gold_interpretation": "图纸"
+      }
+    ]
+  },
+  {
+    "idx": 158,
+    "image": "images/2449446913.jpg",
+    "en": "A team of players walking on a field in uniforms.",
+    "standard_zh": "一队穿着制服的棒球运动员在棒球场上行走。",
+    "sense": [
+      {
+        "term": "players",
+        "type": "lexical",
+        "gold_interpretation": "棒球运动员"
+      },
+      {
+        "term": "field",
+        "type": "lexical",
+        "gold_interpretation": "棒球场"
+      }
+    ]
+  },
+  {
+    "idx": 159,
+    "image": "images/4619640749.jpg",
+    "en": "There are two people playing a game.",
+    "standard_zh": "有两个人在下象棋。",
+    "sense": [
+      {
+        "term": "game",
+        "type": "lexical",
+        "gold_interpretation": "象棋"
+      }
+    ]
+  },
+  {
+    "idx": 160,
+    "image": "images/5870701819.jpg",
+    "en": "A person engaged in movement.",
+    "standard_zh": "一位正在跳舞的舞者。",
+    "sense": [
+      {
+        "term": "person",
+        "type": "lexical",
+        "gold_interpretation": "舞者"
+      },
+      {
+        "term": "engaged in movement",
+        "type": "lexical",
+        "gold_interpretation": "跳舞"
+      }
+    ]
+  },
+  {
+    "idx": 161,
+    "image": "images/000000490475.jpg",
+    "en": "An animal is sitting in the crook of a tree.",
+    "standard_zh": "坐在树杈上的熊。",
+    "sense": [
+      {
+        "term": "animal",
+        "type": "lexical",
+        "gold_interpretation": "熊"
+      }
+    ]
+  },
+  {
+    "idx": 162,
+    "image": "images/101559400.jpg",
+    "en": "There are a bunch of people at an intersection.",
+    "standard_zh": "十字路口有一群示威者。",
+    "sense": [
+      {
+        "term": "people",
+        "type": "lexical",
+        "gold_interpretation": "示威者"
+      }
+    ]
+  },
+  {
+    "idx": 163,
+    "image": "images/000000044704.jpg",
+    "en": "A jar of liquid next to a blender full of liquid.",
+    "standard_zh": "一罐果汁放在装满果汁的搅拌器旁边。",
+    "sense": [
+      {
+        "term": "liquid",
+        "type": "lexical",
+        "gold_interpretation": "果汁"
+      }
+    ]
+  },
+  {
+    "idx": 164,
+    "image": "images/sbu_2545622579.jpg",
+    "en": "The sun and clouds bathed this structure in beautiful yellow light.",
+    "standard_zh": "阳光和云彩使罗马斗兽场沐浴在美丽的黄色光线中。",
+    "sense": [
+      {
+        "term": "this structure",
+        "type": "lexical",
+        "gold_interpretation": "罗马斗兽场"
+      }
+    ]
+  },
+  {
+    "idx": 165,
+    "image": "images/cc12m_3954442104.jpg",
+    "en": "A firefighter helps a 'patient' to safety during a plane crash simulation emergency response drill on tuesday.",
+    "standard_zh": "一名消防员在周二的飞机坠毁模拟应急演习中帮助一名“伤患”获得安全。",
+    "sense": [
+      {
+        "term": "patient",
+        "type": "lexical",
+        "gold_interpretation": "伤患"
+      }
+    ]
+  },
+  {
+    "idx": 166,
+    "image": "images/cc12m_1233119358.jpg",
+    "en": "A buyer was drawn to the charm of this 14k gold bracelet with 34 elements, including religious, ancient, and historical examples. It sold for $5,000.",
+    "agree_ambi": [
+      {
+        "type": "lexical",
+        "explanation": "The word 'elements' can be interpreted in different ways. It could refer to the number of individual components or parts of the bracelet, or it could refer to the number of different types of charms or decorations on the bracelet. Additionally, it could refer to the physical components of the bracelet (e.g., charms, links) or to the thematic elements (e.g., religious, ancient, historical themes).",
+        "translations": [
+          "一位买家被这款14K金手链的魅力所吸引，手链上有34个元素，包括宗教、古代和历史的示例。它以5000美元售出。",
+          "一位买家被这款14K金手链的魅力所吸引，手链上有34个组件，包括宗教、古代和历史的示例。它以5000美元售出。",
+          "一位买家被这款14K金手链的魅力所吸引，手链包含34个部件，包括宗教、古代和历史主题的示例。它以5000美元的价格售出。"
+        ],
+        "ambiguous_terms": [
+          "elements"
+        ]
+      },
+      {
+        "type": "pragmatic",
+        "explanation": "The phrase 'including religious, ancient, and historical examples' is ambiguous. It could mean that the bracelet includes specific examples of religious, ancient, and historical themes, or it could mean that the bracelet includes elements that are examples of these themes.",
+        "translations": [
+          "一位买家被这款14K金手链的魅力所吸引，手链包含34个部件，其中包括宗教、古代和历史主题的具体示例。它以5000美元的价格售出。",
+          "一位买家被这款14K金手链的魅力所吸引，手链包含34个元素，这些元素是宗教、古代和历史主题的示例。它以5000美元的价格售出。"
+        ],
+        "ambiguous_terms": [
+          "including religious, ancient, and historical examples"
+        ]
+      }
+    ],
+    "standard_zh": "一位买家被这款14K金手链的魅力所吸引，这条手链包含34个挂饰，包括宗教、古代和历史主题的装饰品。它以5000美元售出。",
+    "standard_resolved_ambiguity": "“elements”指的是手链上的挂饰",
+    "fine_grained_zh": "",
+    "fine_grained_resolved_ambiguity": "",
+    "sense": [
+      {
+        "term": "elements",
+        "type": "lexical",
+        "gold_interpretation": "挂饰"
+      }
+    ]
+  },
+  {
+    "idx": 167,
+    "image": "images/3875347394.jpg",
+    "en": "The net belongs to the man.",
+    "agree_ambi": [
+      {
+        "type": "lexical",
+        "explanation": "The word 'net' can have multiple meanings, such as a fishing net, a sports net, a financial net (as in net worth), or a network/internet, leading to different interpretations of the sentence.",
+        "translations": [
+          "这张网属于那个男人。",
+          "这个渔网是那个男人的。",
+          "这张球网属于那个男人。",
+          "这笔净资产属于那个男人。",
+          "网络属于那个男人。"
+        ],
+        "ambiguous_terms": [
+          "net"
+        ]
+      },
+      {
+        "type": "syntactic",
+        "explanation": "The phrase 'the net belongs to the man' could imply ownership or association, but without context, it's unclear what the relationship is.",
+        "translations": [
+          "这张网属于那个男人。",
+          "那个男人有这张网。"
+        ],
+        "ambiguous_terms": [
+          "belongs to"
+        ]
+      }
+    ],
+    "standard_zh": "这个渔网是那个男人的。",
+    "standard_resolved_ambiguity": "消解了词汇歧义，图片显示的是一个渔网，因此'net'指的是渔网。",
+    "fine_grained_zh": "",
+    "fine_grained_resolved_ambiguity": "",
+    "sense": [
+      {
+        "term": "net",
+        "type": "lexical",
+        "gold_interpretation": "渔网"
+      }
+    ]
+  },
+  {
+    "idx": 168,
+    "image": "images/3431792018.jpg",
+    "en": "A group of young boys plays with a gun in a city street.",
+    "agree_ambi": [
+      {
+        "type": "lexical",
+        "explanation": "The word 'gun' can refer to a real firearm or a toy gun, leading to different interpretations of the situation.",
+        "translations": [
+          "一群小男孩在城市街道上玩真枪。",
+          "一群小男孩在城市街道上玩玩具枪。"
+        ],
+        "ambiguous_terms": [
+          "gun"
+        ]
+      }
+    ],
+    "standard_zh": "一群小男孩在城市街道上玩玩具枪。",
+    "standard_resolved_ambiguity": "词义歧义，通过图片确认这里的'gun'是指儿童手中的玩具枪，而不是真枪。",
+    "fine_grained_zh": "",
+    "fine_grained_resolved_ambiguity": "",
+    "sense": [
+      {
+        "term": "gun",
+        "type": "lexical",
+        "gold_interpretation": "玩具枪"
+      }
+    ]
+  },
+  {
+    "idx": 169,
+    "image": "images/cc_3764844455.jpg",
+    "en": "Book, pictured, is thought to be the world's first atlas and was compiled in the 16th century—before the country was discovered.",
+    "agree_ambi": [
+      {
+        "type": "lexical",
+        "explanation": "The word 'book' can refer to a specific book or books in general, and 'country' is not specified, which could refer to any country.",
+        "translations": [
+          "图中的这本书被认为是世界上第一本地图集，编纂于16世纪——在那个国家被发现之前。",
+          "这本图中的书被认为是世界上第一本地图集，编纂于16世纪——在该国被发现之前。"
+        ],
+        "ambiguous_terms": [
+          "book",
+          "country"
+        ]
+      },
+      {
+        "type": "pragmatic",
+        "explanation": "The phrase 'before the country was discovered' is ambiguous without knowing which country is being referred to. Different countries were discovered at different times, and the context is not provided. The context of the atlas and the 16th century suggests it could be a specific country, but without additional information, it is impossible to determine which one.",
+        "translations": [
+          "图中的这本书被认为是世界上第一本地图集，编纂于16世纪——在某个国家被发现之前。",
+          "图中的这本书被认为是世界上第一本地图集，编纂于16世纪——在那个国家被发现之前。",
+          "这本书被认为是世界上第一本地图集，编纂于16世纪——在该国被发现之前。"
+        ],
+        "ambiguous_terms": [
+          "before the country was discovered"
+        ]
+      }
+    ],
+    "standard_zh": "图中的这本书被认为是世界上第一本地图集，编纂于16世纪——在美洲被发现之前。",
+    "standard_resolved_ambiguity": "视觉证据显示地图集上标注‘America’作为新大陆，因此明确了‘country’指的是美洲；‘book’明确为这一本地图集，而非泛指。",
+    "fine_grained_zh": "",
+    "fine_grained_resolved_ambiguity": "",
+    "sense": [
+      {
+        "term": "book",
+        "type": "lexical",
+        "gold_interpretation": "这本书被明确为图中的这本地图集"
+      },
+      {
+        "term": "country",
+        "type": "lexical",
+        "gold_interpretation": "美洲"
+      }
+    ]
+  },
+  {
+    "idx": 170,
+    "image": "images/cc12m_3109946801.jpg",
+    "en": "Fear not; there's plenty of relief waiting for racers once they reach the top of Wheeler Pass.",
+    "agree_ambi": [
+      {
+        "type": "lexical",
+        "explanation": "The word 'relief' can have multiple meanings. It could refer to a feeling of reassurance or comfort, or it could refer to a physical aid or support, such as medical assistance or refreshments. The phrase 'plenty of relief' is ambiguous because it could refer to physical relief (e.g., rest, water, or medical aid) or emotional relief (e.g., a sense of accomplishment or stress reduction). Without additional context, it is unclear what kind of relief is being offered.",
+        "translations": [
+          "不用担心，赛车手们到达惠勒山口的顶部后会有足够的慰藉。",
+          "不用担心，赛车手们到达惠勒山口的顶部后会有足够的补给和援助。",
+          "别担心，一旦到达惠勒山口，赛手们将获得大量的物资援助。",
+          "别担心，一旦到达惠勒山口，赛手们将感受到巨大的心理放松。"
+        ],
+        "ambiguous_terms": [
+          "relief"
+        ]
+      }
+    ],
+    "standard_zh": "别担心，赛车手们一旦到达惠勒山口的顶部，就能享用充足的酒精饮品放松一下。",
+    "standard_resolved_ambiguity": "消解了'relief'的歧义：通过图片确认，这里指的是提供酒精饮品作为物质上的放松，而非其他形式的补给或心理慰藉。",
+    "fine_grained_zh": "",
+    "fine_grained_resolved_ambiguity": "",
+    "sense": [
+      {
+        "term": "relief",
+        "type": "lexical",
+        "gold_interpretation": "酒精饮品作为物质上的放松"
+      }
+    ]
+  },
+  {
+    "idx": 171,
+    "image": "images/cc12m_645693446.jpg",
+    "en": "Waist-tied over a T-shirt dress.",
+    "agree_ambi": [
+      {
+        "type": "lexical",
+        "explanation": "The phrase 'waist-tied' can be interpreted in two ways: (1) something is tied around the waist, or (2) a T-shirt dress that is designed to be tied at the waist.",
+        "translations": [
+          "在T恤裙的腰部系上",
+          "腰部系带的T恤裙"
+        ],
+        "ambiguous_terms": [
+          "waist-tied"
+        ]
+      },
+      {
+        "type": "syntactic",
+        "explanation": "The phrase 'waist-tied over a T-shirt dress' can be interpreted in two ways: (1) something is tied at the waist over a T-shirt dress, or (2) the T-shirt dress itself is waist-tied. The structure of the sentence does not clearly specify which interpretation is correct.",
+        "translations": [
+          "在T恤裙上系在腰间的",
+          "腰部系带的T恤裙"
+        ],
+        "ambiguous_terms": [
+          "waist-tied over a T-shirt dress"
+        ]
+      }
+    ],
+    "standard_zh": "一件T恤裙上绑了一件牛仔衬衫在腰间。",
+    "standard_resolved_ambiguity": "通过图片观察，'waist-tied'指的是一件牛仔衬衫被系在T恤裙的腰上，而不是T恤裙本身设计为腰部有系带。",
+    "fine_grained_zh": "",
+    "fine_grained_resolved_ambiguity": "",
+    "sense": [
+      {
+        "term": "waist-tied",
+        "type": "lexical",
+        "gold_interpretation": "在T恤裙的腰部系上"
+      }
+    ]
+  },
+  {
+    "idx": 172,
+    "image": "images/cc_3389249628.jpg",
+    "en": "A backpacker works his way on the federal side.",
+    "agree_ambi": [
+      {
+        "type": "lexical",
+        "explanation": "The phrase 'federal side' can be ambiguous. It could refer to a geographical or political boundary, such as a national park or a government-controlled area, or it could refer to a specific side of a federal building or institution. Additionally, it could be interpreted as a metaphorical division, such as the federal side of an issue or organization.",
+        "translations": [
+          "一个背包客在联邦一侧工作。",
+          "一个背包客在联邦政府的一侧工作。",
+          "一位背包客在联邦边界一侧前行",
+          "一位背包客在联邦问题的一边努力"
+        ],
+        "ambiguous_terms": [
+          "federal side"
+        ]
+      },
+      {
+        "type": "pragmatic",
+        "explanation": "The context of 'works his way' is unclear. It could mean the backpacker is physically moving through a location or metaphorically navigating a situation or challenge.",
+        "translations": [
+          "一位背包客在联邦一侧艰难前行",
+          "一位背包客在联邦问题上努力应对"
+        ],
+        "ambiguous_terms": [
+          "works his way"
+        ]
+      }
+    ],
+    "standard_zh": "一位背包客正在联邦保护区一侧跋涉。",
+    "standard_resolved_ambiguity": "‘federal side’通过图像被解读为国家公园或联邦保护区的地理边界；‘works his way’被解读为实际前进的动作，而非隐喻意义。",
+    "fine_grained_zh": "",
+    "fine_grained_resolved_ambiguity": "",
+    "sense": [
+      {
+        "term": "federal side",
+        "type": "lexical",
+        "gold_interpretation": "联邦保护区一侧"
+      },
+      {
+        "term": "works his way",
+        "type": "pragmatic",
+        "gold_interpretation": "跋涉"
+      }
+    ]
+  },
+  {
+    "idx": 174,
+    "image": "images/cc12m_3833487980.jpg",
+    "en": "A Chinese vessel is used to expand the Johnson Reef in the Spratly Islands of the South China Sea in this photo captured by the Philippines as the disputes escalate.",
+    "agree_ambi": [
+      {
+        "type": "lexical",
+        "explanation": "The word 'vessel' can refer to a ship or a container. In this context, it is more likely to mean a ship used for construction, but the ambiguity still exists without additional context.",
+        "translations": [
+          "一艘中国船只被用来在南海的斯普拉特利群岛中的约翰逊礁进行扩张",
+          "一个中国容器被用来在南海的斯普拉特利群岛中的约翰逊礁进行扩张",
+          "中国船只被用来扩建南中国海斯普拉特利群岛的约翰逊礁",
+          "中国容器被用来扩建南中国海斯普拉特利群岛的约翰逊礁"
+        ],
+        "ambiguous_terms": [
+          "vessel"
+        ]
+      },
+      {
+        "type": "pragmatic",
+        "explanation": "The phrase 'expand the Johnson Reef' could be interpreted as either physically expanding the land area of the reef (e.g., through land reclamation) or metaphorically expanding influence or control over the area. Additionally, the phrase 'the disputes escalate' could refer to territorial disputes or other types of disputes related to the region. Without additional context, both interpretations are possible.",
+        "translations": [
+          "一艘中国船只被用来在南海的斯普拉特利群岛中的约翰逊礁进行填海造地",
+          "一艘中国船只被用来在南海的斯普拉特利群岛中的约翰逊礁扩大影响力",
+          "随着领土争端升级",
+          "随着相关争议升级"
+        ],
+        "ambiguous_terms": [
+          "expand the Johnson Reef",
+          "the disputes escalate"
+        ]
+      }
+    ],
+    "standard_zh": "一艘中国船只被用来在南海的斯普拉特利群岛中的约翰逊礁进行填海造地，菲律宾在争端升级的情况下拍摄了这张照片。",
+    "standard_resolved_ambiguity": "通过图片明确了'vessel'是指船只，未指容器。",
+    "fine_grained_zh": "",
+    "fine_grained_resolved_ambiguity": "",
+    "sense": [
+      {
+        "term": "vessel",
+        "type": "lexical",
+        "gold_interpretation": "船只"
+      }
+    ]
+  },
+  {
+    "idx": 175,
+    "image": "images/000000012754.jpg",
+    "en": "A scene from the show *Mad Men* and some appliances.",
+    "agree_ambi": [
+      {
+        "type": "cultural/background",
+        "explanation": "The reference to *Mad Men* may not be familiar to all readers, and the term 'appliances' is broad and could refer to various household or office devices. Additionally, the phrase 'some appliances' is ambiguous because it is unclear whether the appliances are part of the show *Mad Men* or are separate items being mentioned alongside the show. This could lead to different interpretations of the relationship between the show and the appliances.",
+        "translations": [
+          "《广告狂人》中的一个场景和一些家电。",
+          "《广告狂人》中的一个场景和一些设备。",
+          "电视剧《广告狂人》中的一个场景和一些电器",
+          "电视剧《广告狂人》中的一个场景，以及一些电器"
+        ],
+        "ambiguous_terms": [
+          "*Mad Men*",
+          "some appliances"
+        ]
+      }
+    ],
+    "standard_zh": "电视剧《广告狂人》中的一个场景和一些家电。",
+    "standard_resolved_ambiguity": "文化/背景歧义：图片中明确展示的是《广告狂人》中的场景，以及appliance指的是家电，而不是一般设备",
+    "fine_grained_zh": "",
+    "fine_grained_resolved_ambiguity": "",
+    "sense": [
+      {
+        "term": "*Mad Men*",
+        "type": "cultural/background",
+        "gold_interpretation": "《广告狂人》"
+      },
+      {
+        "term": "appliances",
+        "type": "lexical",
+        "gold_interpretation": "家电"
+      }
+    ]
+  },
+  {
+    "idx": 176,
+    "image": "images/cc12m_3985469749.jpg",
+    "en": "A game in progress (prototype shown).",
+    "agree_ambi": [
+      {
+        "type": "lexical",
+        "explanation": "The word 'game' can refer to a variety of activities, such as a board game, a video game, a sports game, or any other type of game. Without additional context, it is unclear which type of game is being referred to.",
+        "translations": [
+          "正在进行中的游戏（展示的是原型）",
+          "正在进行的比赛（展示的是原型）"
+        ],
+        "ambiguous_terms": [
+          "game"
+        ]
+      },
+      {
+        "type": "pragmatic",
+        "explanation": "The phrase 'in progress' could mean the game is currently being played, or it could mean the game is in the development stage. The term 'prototype' suggests it might be in development, but it is not entirely clear without more context. Additionally, it is unclear whether the prototype is currently being displayed or if it was shown at some point in the past. It is also ambiguous whether the game in progress is the prototype itself or a different version of the game.",
+        "translations": [
+          "正在进行中的游戏（展示的是原型）",
+          "正在开发中的游戏（展示的是原型）",
+          "正在进行中的游戏（展示了原型）",
+          "正在进行中的游戏（原型已展示）"
+        ],
+        "ambiguous_terms": [
+          "in progress",
+          "prototype shown"
+        ]
+      }
+    ],
+    "standard_zh": "一场正在进行的桌游（展示的是原型）。",
+    "standard_resolved_ambiguity": "消解了‘game’一词的歧义，图片显示为一种桌面游戏，而非视频游戏或运动比赛；同时确认‘prototype shown’指原型游戏正在展示中。",
+    "fine_grained_zh": "",
+    "fine_grained_resolved_ambiguity": "",
+    "sense": [
+      {
+        "term": "game",
+        "type": "lexical",
+        "gold_interpretation": "桌游"
+      },
+      {
+        "term": "in progress",
+        "type": "pragmatic",
+        "gold_interpretation": "正在进行中"
+      },
+      {
+        "term": "prototype shown",
+        "type": "pragmatic",
+        "gold_interpretation": "展示的是原型"
+      }
+    ]
+  },
+  {
+    "idx": 177,
+    "image": "images/3096918227.jpg",
+    "en": "A person on a transportation device.",
+    "agree_ambi": [
+      {
+        "type": "lexical",
+        "explanation": "The phrase 'transportation device' can refer to a wide range of vehicles, such as a bicycle, car, bus, train, skateboard, scooter, or even a wheelchair. Without additional context, it is unclear which specific type of transportation device is being referred to.",
+        "translations": [
+          "一个人在一辆交通工具上",
+          "一个人骑着自行车",
+          "一个人开着汽车",
+          "一个人坐在公交车上",
+          "一个人在滑板上",
+          "一个人在滑板车上",
+          "一个人在轮椅上"
+        ],
+        "ambiguous_terms": [
+          "transportation device"
+        ]
+      }
+    ],
+    "standard_zh": "一个人在滑板上。",
+    "standard_resolved_ambiguity": "消解了词汇歧义。图片显示该人使用的是滑板。",
+    "fine_grained_zh": "",
+    "fine_grained_resolved_ambiguity": "",
+    "sense": [
+      {
+        "term": "transportation device",
+        "type": "lexical",
+        "gold_interpretation": "滑板"
+      }
+    ]
+  },
+  {
+    "idx": 178,
+    "image": "images/480858814.jpg",
+    "en": "There is a female sitting on a structure.",
+    "agree_ambi": [
+      {
+        "type": "lexical",
+        "explanation": "The word 'structure' can refer to various types of built or natural formations, such as a building, a bridge, a platform, a rock formation, a bench, or any other man-made or natural construction.",
+        "translations": [
+          "有一位女性坐在一个建筑物上。",
+          "有一位女性坐在一个结构物上。",
+          "有一位女性坐在一个构造物上。",
+          "有一位女性坐在长椅上。",
+          "有一位女性坐在桥梁上。"
+        ],
+        "ambiguous_terms": [
+          "structure"
+        ]
+      }
+    ],
+    "standard_zh": "有一位女性坐在看台上。",
+    "standard_resolved_ambiguity": "消解了‘structure’的歧义，通过图片确定，该结构是一个看台。",
+    "fine_grained_zh": "",
+    "fine_grained_resolved_ambiguity": "",
+    "sense": [
+      {
+        "term": "structure",
+        "type": "lexical",
+        "gold_interpretation": "看台"
+      }
+    ]
+  },
+  {
+    "idx": 179,
+    "image": "images/sbu_3534513175.jpg",
+    "en": "A perpetual cloud of smoke would hang over this street in the evenings, no prizes for guessing why.",
+    "agree_ambi": [
+      {
+        "type": "pragmatic",
+        "explanation": "The phrase 'no prizes for guessing why' is ambiguous because it could be interpreted literally (no actual prizes are given for guessing) or figuratively (the reason is obvious and does not require much thought). The exact cause of the smoke, such as cooking, industrial emissions, or smoking, is left to the reader's interpretation.",
+        "translations": [
+          "每到晚上，这条街上总是烟雾弥漫，不用猜也知道原因。",
+          "傍晚时分，这条街上总是笼罩着一层烟雾，猜猜为什么，没有奖品。"
+        ],
+        "ambiguous_terms": [
+          "no prizes for guessing why"
+        ]
+      }
+    ],
+    "standard_zh": "每到晚上，这条街上总是烟雾弥漫，不用说肯定是因为烧烤摊。",
+    "standard_resolved_ambiguity": "通过图片消解了'perpetual cloud of smoke'的来源歧义，明确是由街头烧烤摊产生的烟雾。",
+    "fine_grained_zh": "",
+    "fine_grained_resolved_ambiguity": "",
+    "sense": [
+      {
+        "term": "no prizes for guessing why",
+        "type": "pragmatic",
+        "gold_interpretation": "不用说肯定是因为烧烤摊"
+      }
+    ]
+  },
+  {
+    "idx": 180,
+    "image": "images/2883099128.jpg",
+    "en": "Someone is about to play ball.",
+    "agree_ambi": [
+      {
+        "type": "lexical",
+        "explanation": "The phrase 'play ball' can refer to various sports or activities involving a ball, such as soccer, basketball, baseball, etc. Without additional context, it is unclear which specific sport or activity is being referred to.",
+        "translations": [
+          "有人即将踢足球。",
+          "有人即将打篮球。",
+          "有人即将打棒球。"
+        ],
+        "ambiguous_terms": [
+          "play ball"
+        ]
+      },
+      {
+        "type": "pragmatic",
+        "explanation": "The phrase 'play ball' can be interpreted literally as engaging in a ball game (e.g., baseball, basketball) or metaphorically as cooperating or participating in an activity.",
+        "translations": [
+          "有人要开始打球了",
+          "有人要参与合作了"
+        ],
+        "ambiguous_terms": [
+          "play ball"
+        ]
+      }
+    ],
+    "standard_zh": "有人即将打网球。",
+    "standard_resolved_ambiguity": "通过图片确认‘play ball’指的是网球活动，而非其他球类运动或隐喻用法。",
+    "fine_grained_zh": "",
+    "fine_grained_resolved_ambiguity": "",
+    "sense": [
+      {
+        "term": "play ball",
+        "type": "lexical",
+        "gold_interpretation": "打网球"
+      }
+    ]
+  },
+  {
+    "idx": 181,
+    "image": "images/3421477759.jpg",
+    "en": "A person is climbing the pole for an audience.",
+    "agree_ambi": [
+      {
+        "type": "pragmatic",
+        "explanation": "The purpose or context of the person climbing the pole is unclear. It could be a performance, a rescue, or some other activity. The phrase 'climbing the pole' could be interpreted literally as someone physically climbing a pole, or metaphorically as someone striving to achieve a goal or position (e.g., 'climbing the corporate ladder'). The presence of 'an audience' adds ambiguity, as it could imply a performance or a competitive scenario.",
+        "translations": [
+          "一个人正在为观众攀爬杆子（表演）",
+          "一个人正在为观众攀爬电线杆（可能是救援或其他活动）",
+          "一个人正在为观众努力攀登（如事业上的晋升）"
+        ],
+        "ambiguous_terms": [
+          "climbing the pole",
+          "for an audience"
+        ]
+      }
+    ],
+    "standard_zh": "一个人正在为围观者爬上电线杆。",
+    "standard_resolved_ambiguity": "通过图片可以明确‘climbing the pole’是字面意义的爬上电线杆，pole具体指的是电线杆，不是其他的杆子",
+    "fine_grained_zh": "",
+    "fine_grained_resolved_ambiguity": "",
+    "sense": [
+      {
+        "term": "pole",
+        "type": "lexical",
+        "gold_interpretation": "电线杆"
+      }
+    ]
+  },
+  {
+    "idx": 182,
+    "image": "images/000000322324.jpg",
+    "en": "A bug of beer on a table overlooking a body of water with boats.",
+    "agree_ambi": [
+      {
+        "type": "lexical",
+        "explanation": "The word 'bug' can refer to an insect or a container (like a jug or a keg) for holding beer. The context is not clear, leading to ambiguity.",
+        "translations": [
+          "桌子上有一只啤酒虫，俯瞰着有船的水面。",
+          "桌子上有一壶啤酒，俯瞰着有船的水面。",
+          "一只虫子在一张俯瞰水面的桌子上，水面上有船只",
+          "一桶啤酒在一张俯瞰水面的桌子上，水面上有船只"
+        ],
+        "ambiguous_terms": [
+          "bug"
+        ]
+      },
+      {
+        "type": "pragmatic",
+        "explanation": "The phrase 'a body of water with boats' could refer to a lake, river, or sea, but the specific type of water body is unclear.",
+        "translations": [
+          "一张俯瞰湖面的桌子上，湖面上有船只",
+          "一张俯瞰河面的桌子上，河面上有船只",
+          "一张俯瞰海面的桌子上，海面上有船只"
+        ],
+        "ambiguous_terms": [
+          "a body of water with boats"
+        ]
+      }
+    ],
+    "standard_zh": "桌子上有一杯啤酒，旁边是俯瞰海面的景色，海面上有船只。",
+    "standard_resolved_ambiguity": "‘bug’在图中明确是啤酒杯，而非昆虫或其他容器；同时，视觉信息表明水体是海。",
+    "fine_grained_zh": "",
+    "fine_grained_resolved_ambiguity": "",
+    "sense": [
+      {
+        "term": "bug",
+        "type": "lexical",
+        "gold_interpretation": "一杯啤酒"
+      },
+      {
+        "term": "a body of water with boats",
+        "type": "pragmatic",
+        "gold_interpretation": "海面"
+      }
+    ]
+  },
+  {
+    "idx": 183,
+    "image": "images/cc12m_1292282963.jpg",
+    "en": "The kids were beating it together and having a blast.",
+    "agree_ambi": [
+      {
+        "type": "lexical",
+        "explanation": "The phrase 'beating it' is unclear without context — it could refer to hitting an object (e.g., a drum), mixing something (e.g., ingredients), or could even be misinterpreted with slang or euphemism depending on the audience.",
+        "possible_chinese_translations": [
+          "孩子们一起打击着某个东西，玩得很开心",
+          "孩子们一起搅拌着什么东西，玩得很开心"
+        ],
+        "ambiguous_terms": [
+          "beating it"
+        ]
+      },
+      {
+        "type": "pragmatic",
+        "explanation": "The phrase 'having a blast' is an idiomatic expression meaning 'having fun,' but without context, it could also be misinterpreted literally (e.g., causing an explosion), especially in literal translation.",
+        "possible_chinese_translations": [
+          "玩得非常开心",
+          "发生了爆炸，他们玩得很嗨"
+        ],
+        "ambiguous_terms": [
+          "having a blast"
+        ]
+      }
+    ],
+    "standard_zh": "孩子们一起打鼓，玩得非常开心。",
+    "standard_resolved_ambiguity": "这里的“beating it”在图片的语境下明确是“打鼓”，而“having a blast”也从“爆炸”转为“非常开心”。图片中的两个孩子拿着鼓槌，一脸开心，清楚地传达了这个意思。",
+    "fine_grained_zh": "",
+    "fine_grained_resolved_ambiguity": "",
+    "sense": [
+      {
+        "term": "beating it",
+        "type": "lexical",
+        "gold_interpretation": "打鼓"
+      },
+      {
+        "term": "having a blast",
+        "type": "pragmatic",
+        "gold_interpretation": "玩得非常开心"
+      }
+    ]
+  },
+  {
+    "idx": 184,
+    "image": "images/437054333.jpg",
+    "en": "Some individuals are in a transportation device with a specific label that includes a two digit number.",
+    "agree_ambi": [
+      {
+        "type": "lexical",
+        "explanation": "The term 'transportation device' can refer to various modes of transportation, such as a car, bus, train, or airplane. The phrase is vague and could have multiple interpretations depending on the context, such as a bus number, flight number, or train car number.",
+        "translations": [
+          "一些人乘坐标有两位数字的交通工具。",
+          "一些人在标有两位数字的运输工具里。",
+          "一些人在带有特定标签的交通工具上，标签包含一个两位数号码。",
+          "一些人在带有两位数号码的特定交通工具上。"
+        ],
+        "ambiguous_terms": [
+          "transportation device"
+        ]
+      },
+      {
+        "type": "syntactic",
+        "explanation": "The phrase 'with a specific label that includes a two digit number' can be interpreted in different ways. It could mean the label itself is a two-digit number, or it could mean the label contains other information along with a two-digit number. The 'specific label' and 'two digit number' could have multiple interpretations depending on the context (e.g., a bus number, flight number, train car number, etc.).",
+        "translations": [
+          "一些人乘坐标有特定两位数字标签的交通工具。",
+          "一些人乘坐标有包含两位数字的特定标签的交通工具。",
+          "一些人在带有特定标签的交通工具上，标签包含一个两位数号码。",
+          "一些人在带有两位数号码的特定交通工具上。"
+        ],
+        "ambiguous_terms": [
+          "with a specific label that includes a two digit number"
+        ]
+      }
+    ],
+    "standard_zh": "一些人在编号为84的公交车里。",
+    "standard_resolved_ambiguity": "通过图像解消了'transportation device'的歧义，确定为公交车；同时明确了'特定标签包含两位数字'指的是84号这是公交车编号。",
+    "fine_grained_zh": "",
+    "fine_grained_resolved_ambiguity": "",
+    "sense": [
+      {
+        "term": "transportation device",
+        "type": "lexical",
+        "gold_interpretation": "公交车"
+      },
+      {
+        "term": "with a specific label that includes a two digit number",
+        "type": "syntactic",
+        "gold_interpretation": "编号为84的公交车"
+      }
+    ]
+  },
+  {
+    "idx": 185,
+    "image": "images/2231843419.jpg",
+    "en": "A couple is sitting among ruins and is studying.",
+    "agree_ambi": [
+      {
+        "type": "syntactic",
+        "explanation": "The phrase 'is studying' can be interpreted in two ways: (1) the couple is studying something, or (2) the couple is being studied by someone else.",
+        "translations": [
+          "一对夫妇坐在废墟中学习。",
+          "一对夫妇坐在废墟中，正在被研究。"
+        ],
+        "ambiguous_terms": [
+          "is studying"
+        ]
+      },
+      {
+        "type": "lexical",
+        "explanation": "The word 'studying' can be interpreted as either 'engaging in academic learning' or 'examining something closely'.",
+        "translations": [
+          "一对情侣坐在废墟中学习",
+          "一对情侣坐在废墟中仔细研究"
+        ],
+        "ambiguous_terms": [
+          "studying"
+        ]
+      },
+      {
+        "type": "pragmatic",
+        "explanation": "The context of 'ruins' is unclear. It could refer to ancient ruins, a destroyed building, or a metaphorical state of ruin.",
+        "translations": [
+          "一对情侣坐在古代遗址中学习",
+          "一对情侣坐在废墟中学习",
+          "一对情侣坐在破败的环境中学习"
+        ],
+        "ambiguous_terms": [
+          "ruins"
+        ]
+      }
+    ],
+    "standard_zh": "一对情侣坐在古代遗址中研究一张地图。",
+    "standard_resolved_ambiguity": "消解了消解了'studying'的语义歧义，通过视觉信息确定为'仔细研究'；此外消解了'ruins'的语用歧义，明确这是古代遗址。",
+    "fine_grained_zh": "",
+    "fine_grained_resolved_ambiguity": "",
+    "sense": [
+      {
+        "term": "studying",
+        "type": "lexical",
+        "gold_interpretation": "仔细研究"
+      },
+      {
+        "term": "ruins",
+        "type": "pragmatic",
+        "gold_interpretation": "古代遗址"
+      }
+    ]
+  },
+  {
+    "idx": 186,
+    "image": "images/6077121925.jpg",
+    "en": "A sailor is peering into something.",
+    "agree_ambi": [
+      {
+        "type": "lexical",
+        "explanation": "The word 'peering' can imply looking closely or intently, but the object being looked into is not specified, leading to multiple possible interpretations. The phrase 'peering into something' is ambiguous because it is unclear what the sailor is looking at. It could be a literal object (e.g., a telescope, a map, or a container) or something more abstract (e.g., a situation or problem).",
+        "translations": [
+          "一个水手正在仔细观察某个东西。",
+          "一个水手正在往某个东西里面看。",
+          "一名水手正在仔细查看某物",
+          "一名水手正在凝视某个情况"
+        ],
+        "ambiguous_terms": [
+          "peering into something"
+        ]
+      }
+    ],
+    "standard_zh": "一名水手正在仔细观察一个航海仪器。",
+    "standard_resolved_ambiguity": "通过图片确定了‘something’指的是一个航海仪器，图片消解了对观察对象的不确定性。",
+    "fine_grained_zh": "",
+    "fine_grained_resolved_ambiguity": "",
+    "sense": [
+      {
+        "term": "peering into something",
+        "type": "lexical",
+        "gold_interpretation": "正在仔细观察一个航海仪器"
+      }
+    ]
+  },
+  {
+    "idx": 187,
+    "image": "images/4482614684.jpg",
+    "en": "A person is seated upon a transportation device.",
+    "agree_ambi": [
+      {
+        "type": "lexical",
+        "explanation": "The phrase 'transportation device' is vague and can refer to various modes of transportation, such as a bicycle, a car, a bus, a wheelchair, or even a scooter.",
+        "translations": [
+          "一个人坐在一辆自行车上",
+          "一个人坐在一辆汽车上",
+          "一个人坐在一辆公交车上",
+          "一个人坐在轮椅上",
+          "一个人坐在滑板车上",
+          "一个人坐在汽车里"
+        ],
+        "ambiguous_terms": [
+          "transportation device"
+        ]
+      }
+    ],
+    "standard_zh": "一个人坐在一辆摩托车上。",
+    "standard_resolved_ambiguity": "词汇歧义：图片显示‘transportation device’具体指摩托车，因此消解了车辆类型的不确定性。",
+    "fine_grained_zh": "",
+    "fine_grained_resolved_ambiguity": "",
+    "sense": [
+      {
+        "term": "transportation device",
+        "type": "lexical",
+        "gold_interpretation": "摩托车"
+      }
+    ]
+  },
+  {
+    "idx": 188,
+    "image": "images/000000383090.jpg",
+    "en": "A train on top of a counter with a boy looking at it.",
+    "agree_ambi": [
+      {
+        "type": "lexical",
+        "explanation": "The word 'train' can refer to a mode of transportation (e.g., a locomotive) or a toy train. The context is not clear, and without additional information, it is ambiguous.",
+        "translations": [
+          "一个火车模型放在柜台上，一个男孩正在看着它。",
+          "一列火车在柜台上，一个男孩正在看着它。"
+        ],
+        "ambiguous_terms": [
+          "train"
+        ]
+      },
+      {
+        "type": "syntactic",
+        "explanation": "The phrase 'on top of a counter' can be interpreted in two ways: (1) the train is physically placed on top of a counter, or (2) the train is depicted on a surface (e.g., a drawing or model) that is on a counter. Additionally, 'with a boy looking at it' could mean the boy is looking at the train or the counter.",
+        "translations": [
+          "一个男孩正在看着放在柜台上的火车",
+          "一个男孩正在看着柜台上描绘的火车"
+        ],
+        "ambiguous_terms": [
+          "on top of a counter",
+          "with a boy looking at it"
+        ]
+      }
+    ],
+    "standard_zh": "一个玩具火车放在柜台上，一个男孩正在看着它。",
+    "standard_resolved_ambiguity": "通过图片确认‘train’指的是一个玩具火车，而不是实际的运输火车。同时明确‘on top of a counter’指火车模型确实放在柜台顶上，而不是任何描绘之意。",
+    "fine_grained_zh": "",
+    "fine_grained_resolved_ambiguity": "",
+    "sense": [
+      {
+        "term": "train",
+        "type": "lexical",
+        "gold_interpretation": "玩具火车"
+      },
+      {
+        "term": "on top of a counter",
+        "type": "syntactic",
+        "gold_interpretation": "放在柜台上"
+      }
+    ]
+  },
+  {
+    "idx": 189,
+    "image": "images/cc12m_2671762899.jpg",
+    "en": "A flock of birds flies over a sidewalk encampment early one morning—as if they could lift up the misery.",
+    "agree_ambi": [
+      {
+        "type": "pragmatic",
+        "explanation": "The phrase 'as if they could lift up the misery' relies on an abstract or metaphorical interpretation. It is unclear whether this is meant literally (e.g., the birds lifting something physical) or metaphorically (e.g., relieving emotional or social suffering). The speaker's intention is not explicit.",
+        "possible_chinese_translations": [
+          "仿佛它们能够带走这片苦难",
+          "就好像它们真能把悲惨的现实托起一样"
+        ]
+      },
+      {
+        "type": "cultural/background",
+        "explanation": "The concept of a 'sidewalk encampment' may be unfamiliar or culturally specific, typically referring to homeless communities in urban U.S. contexts. Without this background knowledge, the severity or nature of the scene may be misinterpreted.",
+        "possible_chinese_translations": [
+          "一群鸟清晨飞过人行道上的帐篷营地——仿佛能带走那里的苦难",
+          "一群鸟清晨掠过街头的流浪营地——仿佛它们可以减轻那份痛苦"
+        ]
+      }
+    ],
+    "standard_zh": "一群鸟在清晨飞过街头流浪者营地——仿佛它们能带走这片苦难。",
+    "standard_resolved_ambiguity": "通过图片sidewalk encampment指的是街头流浪者营地，而非其他类型的营地",
+    "fine_grained_zh": "",
+    "fine_grained_resolved_ambiguity": "",
+    "sense": [
+      {
+        "term": "sidewalk encampment",
+        "type": "lexical",
+        "gold_interpretation": "街头流浪者营地"
+      }
+    ]
+  },
+  {
+    "idx": 190,
+    "image": "images/000000557345.jpg",
+    "en": "A paneled van and car sit at an intersection by a large round object.",
+    "agree_ambi": [
+      {
+        "type": "lexical",
+        "explanation": "The phrase 'large round object' can refer to various things, such as a traffic circle, a water tower, a large sculpture, a roundabout, a planet, or a large ball. Additionally, the term 'paneled van' could refer to a van with decorative panels or a van used for paneling (e.g., construction or transport of panels).",
+        "translations": [
+          "一辆厢式货车和一辆汽车停在一个大型圆形物体旁的十字路口。",
+          "一辆厢式货车和一辆汽车停在一个大型圆形雕塑旁的十字路口。",
+          "一辆厢式货车和一辆汽车停在一个大型圆形水塔旁的十字路口。",
+          "一辆装饰有面板的货车和一辆汽车停在一个大圆形物体旁的十字路口",
+          "一辆用于运输面板的货车和一辆汽车停在一个大圆形物体旁的十字路口",
+          "一辆面板货车和一辆汽车停在一个大圆形物体（如环岛）旁的十字路口",
+          "一辆面板货车和一辆汽车停在一个大圆形物体（如雕塑）旁的十字路口"
+        ],
+        "ambiguous_terms": [
+          "large round object",
+          "paneled van"
+        ]
+      }
+    ],
+    "standard_zh": "一辆厢式货车和一辆汽车停在一个大型圆形煤气罐旁的十字路口。",
+    "standard_resolved_ambiguity": "消解了 'large round object' 的歧义，图片显示这是一个大型圆形煤气罐结构，而不是水塔、雕塑或其他可能的物体。",
+    "fine_grained_zh": "",
+    "fine_grained_resolved_ambiguity": "",
+    "sense": [
+      {
+        "term": "large round object",
+        "type": "lexical",
+        "gold_interpretation": "大型圆形煤气罐"
+      },
+      {
+        "term": "paneled van",
+        "type": "lexical",
+        "gold_interpretation": "厢式货车"
+      }
+    ]
+  },
+  {
+    "idx": 191,
+    "image": "images/3653386313.jpg",
+    "en": "Children and officers are pictured together.",
+    "agree_ambi": [
+      {
+        "type": "lexical",
+        "explanation": "The word 'officers' can refer to police officers, military officers, or officers in an organization, leading to different interpretations of the scene.",
+        "translations": [
+          "孩子们和警察一起合影",
+          "孩子们和军官一起合影",
+          "孩子们和公司高管一起合影"
+        ],
+        "ambiguous_terms": [
+          "officers"
+        ]
+      },
+      {
+        "type": "pragmatic",
+        "explanation": "The context or the nature of the interaction between children and officers is unclear. It could be a positive event (e.g., a community outreach program) or a negative one (e.g., a law enforcement situation). The context of the picture is also ambiguous, as it could be a formal event, a casual gathering, or a specific situation like a school visit or a community activity.",
+        "translations": [
+          "孩子们和警官一起合影。",
+          "孩子们和警官在一起的画面。",
+          "孩子们和官员们一起合影（正式场合）",
+          "孩子们和官员们一起合影（非正式场合）"
+        ],
+        "ambiguous_terms": [
+          "Children and officers are pictured together"
+        ]
+      }
+    ],
+    "standard_zh": "孩子们和军乐队成员在一起。",
+    "standard_resolved_ambiguity": "通过图片确认了‘officers’指的是穿制服的军乐队成员，而不是其他类型的警官或官员。",
+    "fine_grained_zh": "",
+    "fine_grained_resolved_ambiguity": "",
+    "sense": [
+      {
+        "term": "officers",
+        "type": "lexical",
+        "gold_interpretation": "军乐队成员"
+      }
+    ]
+  },
+  {
+    "idx": 192,
+    "image": "images/1550772959.jpg",
+    "en": "A woman brushes dust and dirt off a possible find.",
+    "agree_ambi": [
+      {
+        "type": "lexical",
+        "explanation": "The phrase 'possible find' can be interpreted in different ways. It could refer to a potential discovery or object of interest, such as an archaeological artifact, a lost item, or something else depending on the context. It could also refer to an object of potential value or significance or simply something that might be useful or interesting in a general sense.",
+        "translations": [
+          "一名女子正在拂去一个可能发现的物品上的灰尘和泥土",
+          "一名女子正在拂去一件潜在发现物上的灰尘和泥土",
+          "一位女士拂去一件可能发现的文物上的灰尘和泥土",
+          "一位女士拂去一件可能找到的物品上的灰尘和泥土"
+        ],
+        "ambiguous_terms": [
+          "possible find"
+        ]
+      },
+      {
+        "type": "pragmatic",
+        "explanation": "The context of the action is unclear. It could be part of an archaeological excavation, a cleaning task, or even a metaphorical situation (e.g., uncovering something hidden).",
+        "translations": [
+          "一位女士拂去一件可能发现的文物上的灰尘和泥土",
+          "一位女士拂去一件可能找到的物品上的灰尘和泥土",
+          "一位女士拂去一件可能揭示真相的东西上的灰尘和泥土"
+        ],
+        "ambiguous_terms": [
+          "A woman brushes dust and dirt off a possible find."
+        ]
+      }
+    ],
+    "standard_zh": "一名女子正在拂去一件可能是考古发现的物品上的灰尘和泥土。",
+    "standard_resolved_ambiguity": "视觉信息表明这是考古环境，明确了“possible find”指的是考古发现。",
+    "fine_grained_zh": "",
+    "fine_grained_resolved_ambiguity": "",
+    "sense": [
+      {
+        "term": "possible find",
+        "type": "lexical",
+        "gold_interpretation": "可能是考古发现的物品"
+      }
+    ]
+  },
+  {
+    "idx": 193,
+    "image": "images/000000186345.jpg",
+    "en": "Four seahorses in the sky next to four birds.",
+    "agree_ambi": [
+      {
+        "type": "pragmatic",
+        "explanation": "The phrase 'seahorses in the sky' is unusual and can be interpreted as a metaphorical or fantastical description, or it could be a literal, albeit highly improbable, scenario. Seahorses are marine creatures and cannot naturally be in the sky, so this could be interpreted literally (e.g., in a fantastical or surreal context) or metaphorically (e.g., clouds shaped like seahorses).",
+        "translations": [
+          "天空中有四只海马，旁边还有四只鸟。",
+          "天空中有四个像海马一样的东西，旁边还有四只鸟。",
+          "天空中有四朵形似海马的云，旁边有四只鸟"
+        ],
+        "ambiguous_terms": [
+          "seahorses in the sky"
+        ]
+      }
+    ],
+    "standard_zh": "天空中有四个海马风筝，旁边有四只鸟。",
+    "standard_resolved_ambiguity": "通过图片消解了‘seahorses in the sky’的歧义，明确这里的‘seahorses’指的是海马形状的风筝，而非真实存在的海马或云。",
+    "fine_grained_zh": "",
+    "fine_grained_resolved_ambiguity": "",
+    "sense": [
+      {
+        "term": "seahorses in the sky",
+        "type": "pragmatic",
+        "gold_interpretation": "天空中有四个海马风筝"
+      }
+    ]
+  },
+  {
+    "idx": 194,
+    "image": "images/63791636.jpg",
+    "en": "A man walks through tight quarters.",
+    "agree_ambi": [
+      {
+        "type": "lexical",
+        "explanation": "The phrase 'tight quarters' can mean a narrow, confined space or a situation where people are in close proximity to each other. It can also be interpreted metaphorically as a difficult or constrained situation.",
+        "translations": [
+          "一个男人穿过狭窄的空间。",
+          "一个男人在拥挤的地方行走。",
+          "一个男人在困境中前行"
+        ],
+        "ambiguous_terms": [
+          "tight quarters"
+        ]
+      }
+    ],
+    "standard_zh": "一个男人穿过狭窄的小巷。",
+    "standard_resolved_ambiguity": "消解了“tight quarters”一词的歧义，通过图片明确此处指的是狭窄且封闭的空间（小巷），而非拥挤或隐喻意义。",
+    "fine_grained_zh": "",
+    "fine_grained_resolved_ambiguity": "",
+    "sense": [
+      {
+        "term": "tight quarters",
+        "type": "lexical",
+        "gold_interpretation": "狭窄的小巷"
+      }
+    ]
+  },
+  {
+    "idx": 195,
+    "image": "images/cc12m_1668101550.jpg",
+    "en": "A British political cartoon depicting the affair.",
+    "agree_ambi": [
+      {
+        "type": "lexical",
+        "explanation": "The word 'affair' can refer to a romantic or sexual relationship, especially one that is secret or improper, a political scandal, or a general matter or event.",
+        "translations": [
+          "一幅描绘这桩绯闻的英国政治漫画",
+          "一幅描绘这一事件的英国政治漫画",
+          "一幅描绘这段恋情的英国政治漫画",
+          "一幅描绘这起政治丑闻的英国政治漫画"
+        ],
+        "ambiguous_terms": [
+          "affair"
+        ]
+      }
+    ],
+    "standard_zh": "一幅描绘这起政治丑闻的英国政治漫画",
+    "standard_resolved_ambiguity": "消解了“affair”的歧义。图片显示场景涉及政治讽刺和掠夺，表明是政治丑闻而非其他含义。",
+    "fine_grained_zh": "",
+    "fine_grained_resolved_ambiguity": "",
+    "sense": [
+      {
+        "term": "affair",
+        "type": "lexical",
+        "gold_interpretation": "政治丑闻"
+      }
+    ]
+  },
+  {
+    "idx": 196,
+    "image": "images/4847636067.jpg",
+    "en": "Someone is working on an object.",
+    "agree_ambi": [
+      {
+        "type": "lexical",
+        "explanation": "The word 'object' can refer to a wide range of things, from physical items to abstract concepts such as a goal or a grammatical object in a sentence. Without additional context, it is unclear what specific object is being referred to.",
+        "translations": [
+          "有人正在修理一个物品。",
+          "有人正在处理一个对象。",
+          "有人在处理一个物品",
+          "有人在研究一个目标",
+          "有人在分析一个语法对象"
+        ],
+        "ambiguous_terms": [
+          "object"
+        ]
+      },
+      {
+        "type": "pragmatic",
+        "explanation": "The phrase 'working on' can have different interpretations depending on the context. It could mean physically working on (e.g., repairing, building), intellectually working on (e.g., thinking about, studying), or even mentally analyzing or manipulating the object.",
+        "translations": [
+          "有人正在修理一个物品。",
+          "有人正在研究一个对象。",
+          "有人在修理一个物品",
+          "有人在研究一个物品",
+          "有人在操作一个物品"
+        ],
+        "ambiguous_terms": [
+          "working on"
+        ]
+      }
+    ],
+    "standard_zh": "有人正在修理一辆自行车。",
+    "standard_resolved_ambiguity": "消解了'object'的范围歧义以及'working on'的语义歧义。通过图片可明确'object'指的是自行车，'working on'的动作是修理而非其他含义。",
+    "fine_grained_zh": "",
+    "fine_grained_resolved_ambiguity": "",
+    "sense": [
+      {
+        "term": "object",
+        "type": "lexical",
+        "gold_interpretation": "自行车"
+      },
+      {
+        "term": "working on",
+        "type": "pragmatic",
+        "gold_interpretation": "修理"
+      }
+    ]
+  },
+  {
+    "idx": 197,
+    "image": "images/000000351598.jpg",
+    "en": "An item is captured here in the photo.",
+    "agree_ambi": [
+      {
+        "type": "lexical",
+        "explanation": "The word 'item' is vague and can refer to any object or thing, making it unclear what specific item is being referred to.",
+        "translations": [
+          "照片中捕捉到了一个物品。",
+          "照片中捕捉到了一件东西。"
+        ],
+        "ambiguous_terms": [
+          "item"
+        ]
+      },
+      {
+        "type": "pragmatic",
+        "explanation": "Without additional context, it is unclear whether 'captured' means the item is physically captured (e.g., in a trap) or visually captured (e.g., in a photograph). The phrase 'captured here in the photo' is ambiguous because it is unclear whether 'captured' refers to the act of photographing the item or the item being physically seized or contained in the photo. Additionally, 'item' is vague and could refer to any object, making the meaning dependent on context.",
+        "translations": [
+          "照片中捕捉到了一个物品。",
+          "照片中拍摄到了一个物品。",
+          "照片中拍摄了一件物品"
+        ],
+        "ambiguous_terms": [
+          "captured",
+          "item"
+        ]
+      }
+    ],
+    "standard_zh": "照片中拍摄了一个花瓶。",
+    "standard_resolved_ambiguity": "词汇和语用层面的歧义：根据图片，'item'指的是花瓶，'captured'明确是指通过拍摄捕捉到的画面。",
+    "fine_grained_zh": "",
+    "fine_grained_resolved_ambiguity": "",
+    "sense": [
+      {
+        "term": "item",
+        "type": "lexical",
+        "gold_interpretation": "花瓶"
+      },
+      {
+        "term": "captured",
+        "type": "pragmatic",
+        "gold_interpretation": "拍摄"
+      }
+    ]
+  },
+  {
+    "idx": 198,
+    "image": "images/4403629017.jpg",
+    "en": "The lady is using an antique item.",
+    "agree_ambi": [
+      {
+        "type": "lexical",
+        "explanation": "The phrase 'antique item' can refer to any old or vintage object, and without more context, it is unclear what specific item is being used. The word 'antique' can also refer to something old and valuable or something old-fashioned but not necessarily valuable.",
+        "translations": [
+          "这位女士正在使用一件古董。",
+          "这位女士正在使用一件老物件。",
+          "这位女士正在使用一件老式物品"
+        ],
+        "ambiguous_terms": [
+          "antique item"
+        ]
+      }
+    ],
+    "standard_zh": "这位女士正在使用一台老式缝纫机。",
+    "standard_resolved_ambiguity": "通过图片可以明确'antique item'是指一台老式的缝纫机。",
+    "fine_grained_zh": "",
+    "fine_grained_resolved_ambiguity": "",
+    "sense": [
+      {
+        "term": "antique item",
+        "type": "lexical",
+        "gold_interpretation": "老式缝纫机"
+      }
+    ]
+  },
+  {
+    "idx": 199,
+    "image": "images/3210705660.jpg",
+    "en": "The three people are engaged in physical activity.",
+    "agree_ambi": [
+      {
+        "type": "lexical",
+        "explanation": "The phrase 'physical activity' can refer to a wide range of activities, such as sports, exercise, or any form of bodily movement. Without additional context, it is unclear what specific activity the three people are engaged in. This ambiguity can lead to different understandings of what the people are doing, including sports, exercise, or even manual labor.",
+        "translations": [
+          "这三个人正在参加体育活动。",
+          "这三个人正在进行身体锻炼。",
+          "这三个人正在进行体力活动。",
+          "这三个人正在从事体育活动",
+          "这三个人正在参与体力劳动"
+        ],
+        "ambiguous_terms": [
+          "physical activity"
+        ]
+      }
+    ],
+    "standard_zh": "这三个人正在玩跳绳。",
+    "standard_resolved_ambiguity": "通过图像明确他们正在参与的具体身体活动是跳绳。",
+    "fine_grained_zh": "",
+    "fine_grained_resolved_ambiguity": "",
+    "sense": [
+      {
+        "term": "physical activity",
+        "type": "lexical",
+        "gold_interpretation": "跳绳"
+      }
+    ]
+  },
+  {
+    "idx": 200,
+    "image": "images/000000097210.jpg",
+    "en": "A cake decorated with a minute man and a flag decorating it.",
+    "agree_ambi": [
+      {
+        "type": "lexical",
+        "explanation": "The phrase 'minute man' can be interpreted in two ways: as a small figurine of a person, or as a reference to the historical 'Minutemen' from the American Revolutionary War. The word 'minute' can be interpreted as either very small or as part of the historical term 'Minute Man'.",
+        "translations": [
+          "一个装饰着小人和旗帜的蛋糕",
+          "一个装饰着民兵和旗帜的蛋糕",
+          "一个装饰着一个小人和一面旗帜的蛋糕",
+          "一个装饰着一位民兵和一面旗帜的蛋糕"
+        ],
+        "ambiguous_terms": [
+          "minute man"
+        ]
+      },
+      {
+        "type": "syntactic",
+        "explanation": "The phrase 'a flag decorating it' could be interpreted as either the flag decorating the cake or the flag decorating the minute man.",
+        "translations": [
+          "一个装饰着一个小人和一面装饰着它的旗帜的蛋糕",
+          "一个装饰着一个小人和一面装饰着他的旗帜的蛋糕"
+        ],
+        "ambiguous_terms": [
+          "a flag decorating it"
+        ]
+      }
+    ],
+    "standard_zh": "一个装饰着民兵雕像和美国国旗图案的蛋糕。",
+    "standard_resolved_ambiguity": "通过图像可以确认'minute man'指的是美国独立战争中的民兵，因为顶部是民兵雕像。同时，'flag decorating it'指的是蛋糕本身被装饰为国旗风格，而不是旗帜装饰雕像。",
+    "fine_grained_zh": "",
+    "fine_grained_resolved_ambiguity": "",
+    "sense": [
+      {
+        "term": "minute man",
+        "type": "lexical",
+        "gold_interpretation": "民兵雕像（美国独立战争中的民兵）"
+      },
+      {
+        "term": "a flag decorating it",
+        "type": "syntactic",
+        "gold_interpretation": "蛋糕被装饰为美国国旗风格"
+      }
+    ]
+  },
+  {
+    "idx": 201,
+    "image": "images/cc12m_249362782.jpg",
+    "en": "A girl sitting at the moon while holding an empty object.",
+    "agree_ambi": [
+      {
+        "type": "lexical",
+        "explanation": "The word 'moon' can be interpreted as the celestial body or a colloquial term for a crescent-shaped object, such as a moon-shaped chair. Additionally, the phrase 'empty object' can be interpreted in different ways. It could refer to a literal empty container or an abstract concept like a void or emptiness.",
+        "translations": [
+          "一个女孩坐在月亮上，手里拿着一个空的物体",
+          "一个女孩坐在月牙椅上，手里拿着一个空的物体",
+          "一个女孩坐在月亮上，手里拿着一个空容器",
+          "一个女孩坐在月亮上，手里握着一种空虚的感觉"
+        ],
+        "ambiguous_terms": [
+          "moon",
+          "empty object"
+        ]
+      },
+      {
+        "type": "syntactic",
+        "explanation": "The phrase 'holding an empty object' is ambiguous because it is not clear what kind of object is being held. The term 'empty' could refer to different types of objects (e.g., an empty box, an empty bottle).",
+        "translations": [
+          "一个女孩坐在月亮上，手里拿着一个空盒子",
+          "一个女孩坐在月亮上，手里拿着一个空瓶子"
+        ],
+        "ambiguous_terms": [
+          "holding an empty object"
+        ]
+      },
+      {
+        "type": "pragmatic",
+        "explanation": "The context of 'sitting at the moon' is unclear. It could be a literal depiction (e.g., in a fantasy setting) or a metaphorical expression (e.g., feeling distant or dreamlike).",
+        "translations": [
+          "一个女孩坐在月亮上，手里拿着一个空物体",
+          "一个女孩仿佛置身于月亮上，手里握着一种虚无"
+        ],
+        "ambiguous_terms": [
+          "sitting at the moon"
+        ]
+      }
+    ],
+    "standard_zh": "一个女孩坐在月亮上，手里拿着一个空白的牌子。",
+    "standard_resolved_ambiguity": "视觉信息表明‘月亮’是指天空中的弯月，而‘空的物体’是指一个空白的牌子。",
+    "fine_grained_zh": "",
+    "fine_grained_resolved_ambiguity": "",
+    "sense": [
+      {
+        "term": "moon",
+        "type": "lexical",
+        "gold_interpretation": "月亮是指天空中的弯月"
+      },
+      {
+        "term": "empty object",
+        "type": "lexical",
+        "gold_interpretation": "空白的牌子"
+      }
+    ]
+  },
+  {
+    "idx": 202,
+    "image": "images/000000324706.jpg",
+    "en": "A man on a machine next to an airplane.",
+    "agree_ambi": [
+      {
+        "type": "lexical",
+        "explanation": "The word 'machine' can refer to various types of machinery, such as a tractor, a forklift, a construction vehicle, a motorcycle, or even a specific device.",
+        "translations": [
+          "一个男人在飞机旁边的一台机器上",
+          "一个男人在飞机旁边的一辆拖拉机上",
+          "一个男人在飞机旁边的一辆叉车上",
+          "一个男人在飞机旁边的一辆摩托车上"
+        ],
+        "ambiguous_terms": [
+          "machine"
+        ]
+      },
+      {
+        "type": "syntactic",
+        "explanation": "The phrase 'a man on a machine' can be interpreted as the man being on top of the machine or operating the machine. Additionally, the phrase 'next to an airplane' could modify either 'a man' or 'a machine,' leading to different interpretations of the spatial relationship.",
+        "translations": [
+          "一个男人在一台机器上（指站在或坐在机器上）",
+          "一个男人在操作一台机器",
+          "一个男人在一台机器上，这台机器在飞机旁边",
+          "一个男人在飞机旁边的一台机器上"
+        ],
+        "ambiguous_terms": [
+          "on a machine",
+          "next to an airplane"
+        ]
+      }
+    ],
+    "standard_zh": "一个男人站在飞机旁边的升降装载设备上。",
+    "standard_resolved_ambiguity": "词汇歧义和句法歧义。通过图片可以看出 'machine' 是指升降装载设备，且该男人站在设备上而非操作它。",
+    "fine_grained_zh": "",
+    "fine_grained_resolved_ambiguity": "",
+    "sense": [
+      {
+        "term": "machine",
+        "type": "lexical",
+        "gold_interpretation": "升降装载设备"
+      },
+      {
+        "term": "on a machine",
+        "type": "syntactic",
+        "gold_interpretation": "站在机器上"
+      }
+    ]
+  },
+  {
+    "idx": 203,
+    "image": "images/4818583045.jpg",
+    "en": "Lady buying groceries from a 3rd-party person.",
+    "agree_ambi": [
+      {
+        "type": "lexical",
+        "explanation": "The term '3rd-party person' can be interpreted in different ways. It could mean a person who is not directly involved in the transaction (e.g., a delivery person or an intermediary) or it could refer to someone who is selling goods on behalf of another party.",
+        "translations": [
+          "女士从第三方人员那里购买杂货。",
+          "女士从中间人那里购买杂货。"
+        ],
+        "ambiguous_terms": [
+          "3rd-party person"
+        ]
+      },
+      {
+        "type": "pragmatic",
+        "explanation": "The context and role of the '3rd-party person' are unclear. It is not specified whether this person is a delivery person, an intermediary, or someone selling goods on behalf of another party, which can lead to different interpretations. The phrase '3rd-party person' is ambiguous. It could refer to someone who is not directly involved in the transaction (e.g., a middleman or intermediary) or someone who is not part of the primary group (e.g., a stranger or an outsider).",
+        "translations": [
+          "女士从第三方人员那里购买杂货。",
+          "女士通过中介购买杂货。",
+          "一位女士从中间人那里购买杂货",
+          "一位女士从第三方人士那里购买杂货"
+        ],
+        "ambiguous_terms": [
+          "3rd-party person"
+        ]
+      }
+    ],
+    "standard_zh": "女士正在向一个摆摊小贩购买杂货。",
+    "standard_resolved_ambiguity": "图片显示'3rd-party person'是指摆摊小贩，而不是中间人或送货人员。",
+    "fine_grained_zh": "",
+    "fine_grained_resolved_ambiguity": "",
+    "sense": [
+      {
+        "term": "3rd-party person",
+        "type": "lexical",
+        "gold_interpretation": "摆摊小贩"
+      }
+    ]
+  },
+  {
+    "idx": 204,
+    "image": "images/cc12m_630907598.jpg",
+    "en": "A cup with some white creamy substance.",
+    "agree_ambi": [
+      {
+        "type": "lexical",
+        "explanation": "The phrase 'white creamy substance' can refer to various things, such as milk, cream, yogurt, or even a non-food item like paint or lotion, depending on the context.",
+        "translations": [
+          "一个装有白色奶油状物质的杯子",
+          "一个装有牛奶的杯子",
+          "一个装有酸奶的杯子",
+          "一个装有油漆的杯子",
+          "一个装有乳液的杯子",
+          "一杯带有白色乳状物质的杯子",
+          "一杯带有白色膏状物质的杯子"
+        ],
+        "ambiguous_terms": [
+          "white creamy substance"
+        ]
+      }
+    ],
+    "standard_zh": "一个装有白色酸奶的杯子。",
+    "standard_resolved_ambiguity": "‘white creamy substance’被明确为酸奶，图像显示的是具有光滑漩涡纹理的白色液态物质，与酸奶特征一致。",
+    "fine_grained_zh": "",
+    "fine_grained_resolved_ambiguity": "",
+    "sense": [
+      {
+        "term": "white creamy substance",
+        "type": "lexical",
+        "gold_interpretation": "酸奶"
+      }
+    ]
+  },
+  {
+    "idx": 205,
+    "image": "images/2869439070.jpg",
+    "en": "A child is near a creation that comes to a point.",
+    "agree_ambi": [
+      {
+        "type": "lexical",
+        "explanation": "The phrase 'a creation that comes to a point' can be interpreted in multiple ways. It could refer to a physical object with a pointed end (like a pyramid or a pencil) or it could be a metaphorical expression, such as a discussion or argument reaching a conclusion. The word 'creation' is ambiguous as it can refer to an artistic work, a natural formation, or a constructed object. Additionally, 'comes to a point' could mean something sharp, tapered, or reaching a conclusion.",
+        "translations": [
+          "一个孩子靠近了一个尖端的物体。",
+          "一个孩子靠近了一个达到关键点的创作。",
+          "一个孩子靠近一个尖端的自然构造"
+        ],
+        "ambiguous_terms": [
+          "creation",
+          "comes to a point"
+        ]
+      },
+      {
+        "type": "syntactic",
+        "explanation": "The phrase 'comes to a point' could modify either 'child' or 'creation,' leading to different interpretations of what is being described.",
+        "translations": [
+          "一个孩子靠近一个尖端的创作",
+          "一个靠近尖端的孩子在创作"
+        ],
+        "ambiguous_terms": [
+          "comes to a point"
+        ]
+      }
+    ],
+    "standard_zh": "一个孩子在一个尖端的沙雕旁边。",
+    "standard_resolved_ambiguity": "解除了关于'creation'的词义歧义，通过图片明确该创作为一个尖端的沙雕。",
+    "fine_grained_zh": "",
+    "fine_grained_resolved_ambiguity": "",
+    "sense": [
+      {
+        "term": "creation",
+        "type": "lexical",
+        "gold_interpretation": "沙雕"
+      }
+    ]
+  },
+  {
+    "idx": 206,
+    "image": "images/6618942119.jpg",
+    "en": "The guy stuffs a bird.",
+    "agree_ambi": [
+      {
+        "type": "lexical",
+        "explanation": "The verb 'stuffs' can have multiple meanings, such as 'to fill' (e.g., with food) or 'to prepare a taxidermy specimen'. The word 'bird' can refer to a living bird or a dead one used for taxidermy.",
+        "translations": [
+          "那个人在填塞一只鸟。",
+          "那个人在制作一只鸟类标本。",
+          "那个人把一只鸟塞满了",
+          "那个人正在制作一只鸟类标本"
+        ],
+        "ambiguous_terms": [
+          "stuffs",
+          "bird"
+        ]
+      },
+      {
+        "type": "pragmatic",
+        "explanation": "Without context, it is unclear whether the action is literal (e.g., filling a bird with something) or related to taxidermy (preserving a bird).",
+        "translations": [
+          "那个人在填充一只鸟",
+          "那个人在做鸟类标本"
+        ],
+        "ambiguous_terms": [
+          "stuffs",
+          "bird"
+        ]
+      }
+    ],
+    "standard_zh": "那个人正在往一只火鸡里填馅料。",
+    "standard_resolved_ambiguity": "图片显示该男子正往一只准备烤制的火鸡内填充馅料，明确了‘stuffs’表示‘填馅’，‘bird’指烹饪中的禽类而非标本或活鸟。",
+    "fine_grained_zh": "",
+    "fine_grained_resolved_ambiguity": "",
+    "sense": [
+      {
+        "term": "stuffs",
+        "type": "lexical",
+        "gold_interpretation": "填馅"
+      },
+      {
+        "term": "bird",
+        "type": "lexical",
+        "gold_interpretation": "火鸡"
+      }
+    ]
+  },
+  {
+    "idx": 207,
+    "image": "images/000000316704.jpg",
+    "en": "A bald man has a white substance on his head while others look on.",
+    "agree_ambi": [
+      {
+        "type": "lexical",
+        "explanation": "The phrase 'white substance' can refer to various things, such as flour, shaving cream, or even a medical treatment. Without additional context, it is unclear what the white substance is.",
+        "translations": [
+          "一个秃头男人的头上有一种白色物质，其他人正在观看。",
+          "一个秃头男人的头上涂了某种白色的东西，其他人正在观看。"
+        ],
+        "ambiguous_terms": [
+          "white substance"
+        ]
+      },
+      {
+        "type": "pragmatic",
+        "explanation": "The reason for the 'white substance' and the reactions of the 'others' are not clear. The scene could be part of a prank, a medical procedure, or a performance, among other possibilities. The phrase 'white substance' is ambiguous because it could refer to various things, such as hair dye, paint, powder, or even a medical substance. The context is unclear, leading to multiple interpretations.",
+        "translations": [
+          "一个秃头男人的头上有一种白色物质，其他人正在围观。",
+          "一个秃头男人的头上涂了某种白色的东西，其他人正在旁观。",
+          "一个秃头男人头上涂着白色物质，其他人看着。",
+          "一个秃头男人头上沾着白色粉末，其他人看着。",
+          "一个秃头男人头上抹着白色药膏，其他人看着。"
+        ],
+        "ambiguous_terms": [
+          "white substance",
+          "look on"
+        ]
+      }
+    ],
+    "standard_zh": "一个秃头男人的头上有一团奶油，其他人在旁观看。",
+    "standard_resolved_ambiguity": "通过图片可以看出，'white substance' 是奶油，而非其他可能的物质。",
+    "fine_grained_zh": "",
+    "fine_grained_resolved_ambiguity": "",
+    "sense": [
+      {
+        "term": "white substance",
+        "type": "lexical",
+        "gold_interpretation": "奶油"
+      }
+    ]
+  },
+  {
+    "idx": 208,
+    "image": "images/2767276277.jpg",
+    "en": "People are walking on the street, and 2 people are riding two-wheeled transportation.",
+    "agree_ambi": [
+      {
+        "type": "lexical",
+        "explanation": "The phrase 'two-wheeled transportation' can refer to different types of vehicles, such as bicycles, motorcycles, or scooters. It is ambiguous because it could refer to bicycles, motorcycles, scooters, or other two-wheeled vehicles.",
+        "translations": [
+          "人们在街上行走，有两个人骑着两轮交通工具。",
+          "人们在街上行走，有两个人骑着自行车。",
+          "人们在街上行走，有两个人骑着摩托车。"
+        ],
+        "ambiguous_terms": [
+          "two-wheeled transportation"
+        ]
+      }
+    ],
+    "standard_zh": "人们在街上行走，有两个人分别骑着电动车和自行车。",
+    "standard_resolved_ambiguity": "词汇性歧义：图片显示两轮交通工具具体是电动车和自行车，而不是其他类型的两轮交通工具。",
+    "fine_grained_zh": "",
+    "fine_grained_resolved_ambiguity": "",
+    "sense": [
+      {
+        "term": "two-wheeled transportation",
+        "type": "lexical",
+        "gold_interpretation": "电动车和自行车"
+      }
+    ]
+  },
+  {
+    "idx": 209,
+    "image": "images/456324238.jpg",
+    "en": "Some children are together on an object.",
+    "agree_ambi": [
+      {
+        "type": "lexical",
+        "explanation": "The word 'object' is ambiguous as it can refer to any physical thing, such as a table, a bus, a tree, or any other item. Additionally, it can also refer to a more abstract concept, such as a goal or purpose. Without context, it is unclear what kind of object is being referred to.",
+        "translations": [
+          "一些孩子在一个物体上在一起",
+          "一些孩子在一张桌子上在一起",
+          "一些孩子在一辆公交车上在一起",
+          "一些孩子在一棵树上在一起",
+          "一些孩子一起在一个目标上"
+        ],
+        "ambiguous_terms": [
+          "object"
+        ]
+      },
+      {
+        "type": "syntactic",
+        "explanation": "The phrase 'on an object' could be interpreted literally (physically on top of something) or metaphorically (engaged with or focused on something).",
+        "translations": [
+          "一些孩子一起在一个物体上",
+          "一些孩子一起专注于一个目标"
+        ],
+        "ambiguous_terms": [
+          "on an object"
+        ]
+      }
+    ],
+    "standard_zh": "一些孩子正在一起坐在一个旧设备上。",
+    "standard_resolved_ambiguity": "主要是“object”的词义歧义被图片消解。图片显示孩子们坐在一个类似旧工业设备的物体上，而非抽象概念或其他类型的物体。",
+    "fine_grained_zh": "",
+    "fine_grained_resolved_ambiguity": "",
+    "sense": [
+      {
+        "term": "object",
+        "type": "lexical",
+        "gold_interpretation": "设备"
+      }
+    ]
+  },
+  {
+    "idx": 210,
+    "image": "images/cc12m_2359722219.jpg",
+    "en": "A hamburger with all the fixings.",
+    "agree_ambi": [
+      {
+        "type": "lexical",
+        "explanation": "The phrase 'all the fixings' can be ambiguous because it can refer to a wide variety of toppings and condiments, and different people might have different ideas about what constitutes 'all the fixings'. This phrase can be interpreted in different ways depending on cultural or regional context. It could refer to standard toppings like lettuce, tomato, and pickles, or it could include additional items like cheese, bacon, or special sauces.",
+        "translations": [
+          "一个汉堡，配有一切配料。",
+          "一个汉堡，配有全套调料。",
+          "一个带有所有配料的汉堡",
+          "一个带有所有配菜的汉堡"
+        ],
+        "ambiguous_terms": [
+          "all the fixings"
+        ]
+      }
+    ],
+    "standard_zh": "一个配有生菜、番茄、奶酪和洋葱的汉堡。",
+    "standard_resolved_ambiguity": "通过图片明确了“all the fixings”具体指生菜、番茄、奶酪和洋葱，并排除了其它解释可能。",
+    "fine_grained_zh": "",
+    "fine_grained_resolved_ambiguity": "",
+    "sense": [
+      {
+        "term": "all the fixings",
+        "type": "lexical",
+        "gold_interpretation": "生菜、番茄、奶酪和洋葱"
+      }
+    ]
+  },
+  {
+    "idx": 211,
+    "image": "images/000000361866.jpg",
+    "en": "A cake that has a vehicle on it.",
+    "agree_ambi": [
+      {
+        "type": "lexical",
+        "explanation": "The phrase 'a vehicle on it' can be interpreted in two ways: 1) a cake with a physical model of a vehicle as a decoration, or 2) a cake that is shaped like a vehicle. The word 'vehicle' can refer to a mode of transportation (e.g., car, truck) or a medium for something (e.g., a cake as a vehicle for decoration).",
+        "translations": [
+          "一个上面有车辆模型的蛋糕",
+          "一个做成车辆形状的蛋糕",
+          "一个上面有交通工具的蛋糕",
+          "一个作为装饰载体的蛋糕"
+        ],
+        "ambiguous_terms": [
+          "a vehicle on it"
+        ]
+      }
+    ],
+    "standard_zh": "一个上面有火车图案的蛋糕。",
+    "standard_resolved_ambiguity": "根据图片，可以确定‘a vehicle on it’指的是蛋糕上绘制了一辆交通工具（火车）的图案，而非蛋糕的形状或模型。",
+    "fine_grained_zh": "",
+    "fine_grained_resolved_ambiguity": "",
+    "sense": [
+      {
+        "term": "a vehicle on it",
+        "type": "lexical",
+        "gold_interpretation": "蛋糕上绘制了一辆交通工具（火车）的图案"
+      }
+    ]
+  },
+  {
+    "idx": 212,
+    "image": "images/4611580339.jpg",
+    "en": "Men in uniform dragging a cannon for some kind of celebration with a pretty city in the background.",
+    "agree_ambi": [
+      {
+        "type": "pragmatic",
+        "explanation": "The phrase 'for some kind of celebration' is vague and does not specify the nature of the event. It could refer to various types of events, such as a military parade, a historical reenactment, or a cultural festival.",
+        "translations": [
+          "穿着制服的男人们拖着一门大炮参加某种庆祝活动，背景是一座美丽的城市。",
+          "穿着制服的男人们拖着一门大炮参加某个庆典，背景是一座美丽的城市。",
+          "穿着制服的人们拖着大炮，背景是一座美丽的城市，像是在进行某种庆典。",
+          "穿着制服的人们拖着大炮，背景是一座美丽的城市，可能是某种庆祝活动。"
+        ],
+        "ambiguous_terms": [
+          "some kind of celebration"
+        ]
+      },
+      {
+        "type": "cultural/background",
+        "explanation": "The term 'uniform' can refer to different types of uniforms (e.g., military, police, ceremonial), and the context of the celebration is not specified, which may require cultural or background knowledge to interpret accurately. The mention of 'men in uniform' and 'dragging a cannon' could imply a military context, but without additional cultural or historical context, it is unclear whether this is a modern event, a historical reenactment, or a cultural tradition.",
+        "translations": [
+          "穿着军装的男人们拖着一门大炮参加某种庆祝活动，背景是一座美丽的城市。",
+          "穿着礼服的男人们拖着一门大炮参加某种庆祝活动，背景是一座美丽的城市。",
+          "穿着制服的人们拖着大炮，背景是一座美丽的城市，可能是在进行军事庆典。",
+          "穿着制服的人们拖着大炮，背景是一座美丽的城市，可能是在进行历史重演。"
+        ],
+        "ambiguous_terms": [
+          "uniform",
+          "celebration"
+        ]
+      }
+    ],
+    "standard_zh": "身穿历史制服的男人们拖着一门大炮参加庆典，背景是一座美丽的城市。",
+    "standard_resolved_ambiguity": "通过图片可见，'some kind of celebration' 表示庆典性质明显与历史相关，为历史重演或文化展览。同时，'uniform' 根据样式确定为历史服装。",
+    "fine_grained_zh": "",
+    "fine_grained_resolved_ambiguity": "",
+    "sense": [
+      {
+        "term": "uniform",
+        "type": "lexical",
+        "gold_interpretation": "历史制服"
+      }
+    ]
+  },
+  {
+    "idx": 213,
+    "image": "images/000000468829.jpg",
+    "en": "A yellow plate with something shaped like a hotdog on it.",
+    "agree_ambi": [
+      {
+        "type": "lexical",
+        "explanation": "The phrase 'something shaped like a hotdog' is ambiguous because it could refer to an actual hotdog or something that merely resembles a hotdog in shape.",
+        "translations": [
+          "一个黄色的盘子上放着一根热狗",
+          "一个黄色的盘子上放着一个形状像热狗的东西",
+          "一个黄色的盘子上有一个热狗形状的物品"
+        ],
+        "ambiguous_terms": [
+          "something shaped like a hotdog"
+        ]
+      },
+      {
+        "type": "pragmatic",
+        "explanation": "The phrase 'something shaped like a hotdog' is ambiguous because it could refer to an actual hotdog or an object that merely resembles a hotdog in shape.",
+        "translations": [
+          "一个黄色的盘子上有一个形状像热狗的东西",
+          "一个黄色的盘子上有一个热狗形状的物品"
+        ],
+        "ambiguous_terms": [
+          "something shaped like a hotdog"
+        ]
+      }
+    ],
+    "standard_zh": "一个黄色的盘子上放着一个形状像热狗的蛋糕。",
+    "standard_resolved_ambiguity": "通过图像消解了词汇和语用歧义：图片显示这是一个形状像热狗的蛋糕，而非实际的热狗。",
+    "fine_grained_zh": "",
+    "fine_grained_resolved_ambiguity": "",
+    "sense": [
+      {
+        "term": "something shaped like a hotdog",
+        "type": "lexical",
+        "gold_interpretation": "形状像热狗的蛋糕"
+      }
+    ]
+  },
+  {
+    "idx": 214,
+    "image": "images/000000218784.jpg",
+    "en": "A man jumping in the air with something in his hand.",
+    "agree_ambi": [
+      {
+        "type": "lexical",
+        "explanation": "The word 'something' is vague and can refer to any object, making the meaning of what the man is holding unclear. The phrase 'something in his hand' is also vague and could refer to any object, leading to multiple possible interpretations based on what that object might be.",
+        "translations": [
+          "一个男人手里拿着东西在空中跳跃",
+          "一个男人手里拿着某个物品在空中跳跃",
+          "一个男人手里拿着某样东西跳向空中",
+          "一个男人手里拿着一个物体跳向空中"
+        ],
+        "ambiguous_terms": [
+          "something",
+          "something in his hand"
+        ]
+      }
+    ],
+    "standard_zh": "一个男人手里拿着网球拍在空中跳跃。",
+    "standard_resolved_ambiguity": "词汇歧义，由于图片中显示该男子手中拿的是网球拍，消解了‘something’的模糊性。",
+    "fine_grained_zh": "",
+    "fine_grained_resolved_ambiguity": "",
+    "sense": [
+      {
+        "term": "something",
+        "type": "lexical",
+        "gold_interpretation": "网球拍"
+      },
+      {
+        "term": "something in his hand",
+        "type": "lexical",
+        "gold_interpretation": "手里拿着网球拍"
+      }
+    ]
+  },
+  {
+    "idx": 215,
+    "image": "images/000000456522.jpg",
+    "en": "A man and woman walk together down an aisle.",
+    "agree_ambi": [
+      {
+        "type": "lexical",
+        "explanation": "The word 'aisle' can refer to a passage between rows of seats (e.g., in a church, theater, or supermarket) or specifically to the central passage in a church where a wedding procession occurs.",
+        "translations": [
+          "一男一女一起沿着过道走",
+          "一男一女一起沿着教堂的走道走"
+        ],
+        "ambiguous_terms": [
+          "aisle"
+        ]
+      },
+      {
+        "type": "pragmatic",
+        "explanation": "The phrase 'walk together down an aisle' can be interpreted in different contexts, such as a wedding (where the aisle is in a church) or a general setting like a store or airplane. The context or intention of the action is unclear. The phrase could describe a casual walk in a supermarket or a formal wedding procession in a church.",
+        "translations": [
+          "一个男人和一个女人一起走过教堂的过道。",
+          "一个男人和一个女人一起走过通道。",
+          "一男一女一起在超市的过道上走",
+          "一男一女一起在教堂的走道上举行婚礼"
+        ],
+        "ambiguous_terms": [
+          "walk together down an aisle"
+        ]
+      }
+    ],
+    "standard_zh": "一男一女一起走过婚礼仪式的过道。",
+    "standard_resolved_ambiguity": "消解了语义性和语境性歧义。从图片中可以明确看出，这是一场婚礼，过道特指婚礼场地的通道。",
+    "fine_grained_zh": "",
+    "fine_grained_resolved_ambiguity": "",
+    "sense": [
+      {
+        "term": "aisle",
+        "type": "lexical",
+        "gold_interpretation": "婚礼场地的过道"
+      }
+    ]
+  },
+  {
+    "idx": 216,
+    "image": "images/2921578694.jpg",
+    "en": "The person is playing on the water.",
+    "agree_ambi": [
+      {
+        "type": "lexical",
+        "explanation": "The phrase 'playing on the water' can be interpreted in multiple ways. It could mean the person is engaging in a water sport or activity (e.g., surfing, water skiing) or that they are playing near the water (e.g., at the beach).",
+        "translations": [
+          "那个人正在水上玩耍（例如冲浪、滑水等）",
+          "那个人正在水边玩耍（例如在沙滩上玩）"
+        ],
+        "ambiguous_terms": [
+          "playing on the water"
+        ]
+      },
+      {
+        "type": "pragmatic",
+        "explanation": "The phrase 'playing on the water' could be interpreted literally as someone physically interacting with water (e.g., swimming, splashing) or metaphorically as someone navigating or managing a water-related situation (e.g., sailing, controlling water flow).",
+        "translations": [
+          "那个人正在水上玩耍",
+          "那个人正在操纵水域"
+        ],
+        "ambiguous_terms": [
+          "playing on the water"
+        ]
+      }
+    ],
+    "standard_zh": "那个人正在玩帆板。",
+    "standard_resolved_ambiguity": "根据图片显示，歧义短语 'playing on the water' 特指帆板运动，而非宽泛的水上或水边活动意义。",
+    "fine_grained_zh": "",
+    "fine_grained_resolved_ambiguity": "",
+    "sense": [
+      {
+        "term": "playing on the water",
+        "type": "lexical",
+        "gold_interpretation": "玩帆板"
+      }
+    ]
+  },
+  {
+    "idx": 217,
+    "image": "images/000000245317.jpg",
+    "en": "A doughnut and a cup of something next to it.",
+    "agree_ambi": [
+      {
+        "type": "lexical",
+        "explanation": "The phrase 'a cup of something' is vague and can refer to various beverages, such as coffee, tea, or water. The specific content is unclear without context.",
+        "translations": [
+          "一个甜甜圈和一杯东西放在旁边。",
+          "一个甜甜圈和一杯咖啡放在旁边。",
+          "一个甜甜圈和一杯茶放在旁边。",
+          "一个甜甜圈和一杯水放在旁边。",
+          "一个甜甜圈和旁边的一杯东西",
+          "一个甜甜圈和旁边的一杯饮料"
+        ],
+        "ambiguous_terms": [
+          "a cup of something"
+        ]
+      },
+      {
+        "type": "pragmatic",
+        "explanation": "The phrase 'a cup of something' is vague and could refer to any liquid or drink (e.g., coffee, tea, water, etc.), but the specific content is unclear without context.",
+        "translations": [
+          "一个甜甜圈和旁边的一杯东西",
+          "一个甜甜圈和旁边的一杯饮料",
+          "一个甜甜圈和旁边的一杯水"
+        ],
+        "ambiguous_terms": [
+          "a cup of something"
+        ]
+      }
+    ],
+    "standard_zh": "一个甜甜圈和旁边的一杯茶。",
+    "standard_resolved_ambiguity": "由于图片显示茶杯内为浅棕色液体，与通常的茶一致，消解了‘a cup of something’的不明确含义。",
+    "fine_grained_zh": "",
+    "fine_grained_resolved_ambiguity": "",
+    "sense": [
+      {
+        "term": "a cup of something",
+        "type": "lexical",
+        "gold_interpretation": "一杯茶"
+      }
+    ]
+  },
+  {
+    "idx": 218,
+    "image": "images/000000534112.jpg",
+    "en": "A man on a live music stage holding a stick.",
+    "agree_ambi": [
+      {
+        "type": "lexical",
+        "explanation": "The word 'stick' can refer to various objects, such as a drumstick, a conductor's baton, or a simple stick, leading to different interpretations of the man's role or action.",
+        "translations": [
+          "一个男人在音乐舞台上拿着一根棍子。",
+          "一个男人在音乐舞台上拿着一根鼓槌。",
+          "一个男人在音乐舞台上拿着一根指挥棒。",
+          "一个男子在音乐舞台上拿着一根木棍"
+        ],
+        "ambiguous_terms": [
+          "stick"
+        ]
+      }
+    ],
+    "standard_zh": "一个男人在现场音乐舞台上拿着一根鼓槌。",
+    "standard_resolved_ambiguity": "消解了‘stick’的歧义：从图片中可以看出，他拿的是一根鼓槌，排除了指挥棒或普通木棍等可能。",
+    "fine_grained_zh": "",
+    "fine_grained_resolved_ambiguity": "",
+    "sense": [
+      {
+        "term": "stick",
+        "type": "lexical",
+        "gold_interpretation": "鼓槌"
+      }
+    ]
+  },
+  {
+    "idx": 219,
+    "image": "images/3096163135.jpg",
+    "en": "A child is wearing a hat that is in the shape of a body part.",
+    "agree_ambi": [
+      {
+        "type": "lexical",
+        "explanation": "The phrase 'a body part' can refer to any part of the body, such as a hand, foot, ear, or head. Without additional context, it is unclear which specific body part the hat is shaped like.",
+        "translations": [
+          "一个孩子戴着一顶形状像手的帽子",
+          "一个孩子戴着一顶形状像脚的帽子",
+          "一个孩子戴着一顶形状像耳朵的帽子",
+          "一个孩子戴着一顶形状像头的帽子"
+        ],
+        "ambiguous_terms": [
+          "body part"
+        ]
+      }
+    ],
+    "standard_zh": "一个孩子戴着一顶形状像手的帽子。",
+    "standard_resolved_ambiguity": "消解了‘body part’的歧义。通过图像确认，帽子的形状是手。",
+    "fine_grained_zh": "",
+    "fine_grained_resolved_ambiguity": "",
+    "sense": [
+      {
+        "term": "body part",
+        "type": "lexical",
+        "gold_interpretation": "手"
+      }
+    ]
+  },
+  {
+    "idx": 220,
+    "image": "images/cc_968470452.jpg",
+    "en": "A man with the flag on his clothing, it's the flag.",
+    "agree_ambi": [
+      {
+        "type": "syntactic",
+        "explanation": "The sentence structure is unclear, making it difficult to determine the relationship between the man, the flag, and his clothing. It could mean that the man has a flag on his clothing, or it could be referring to the flag itself in a different way.",
+        "translations": [
+          "一个穿着带有国旗的衣服的男人，这是国旗。",
+          "一个男人的衣服上有国旗，这面旗子就是国旗。"
+        ],
+        "ambiguous_terms": [
+          "flag",
+          "on his clothing"
+        ]
+      },
+      {
+        "type": "pragmatic",
+        "explanation": "The phrase 'it's the flag' is ambiguous because it is unclear whether it emphasizes the significance of the flag, identifies the flag as a specific one, or simply states that the man has a flag on his clothing.",
+        "translations": [
+          "一个衣服上带有旗帜的男人，那面旗帜很重要。",
+          "一个衣服上带有旗帜的男人，那面旗帜是特定的。",
+          "一个衣服上带有旗帜的男人，就是那面旗帜。"
+        ],
+        "ambiguous_terms": [
+          "it's the flag"
+        ]
+      }
+    ],
+    "standard_zh": "一个穿着印有英国国旗图案衣服的男人，这是英国国旗。",
+    "standard_resolved_ambiguity": "通过图片确认了国旗是英国国旗，也澄清了'flag'具体指代衣服上的图案。",
+    "fine_grained_zh": "",
+    "fine_grained_resolved_ambiguity": "",
+    "sense": [
+      {
+        "term": "flag",
+        "type": "lexical",
+        "gold_interpretation": "英国国旗"
+      }
+    ]
+  },
+  {
+    "idx": 221,
+    "image": "images/cc_1887117061.jpg",
+    "en": "A radio set up, so that the congregation can follow.",
+    "agree_ambi": [
+      {
+        "type": "syntactic",
+        "explanation": "The phrase 'set up' can be interpreted as a noun (a setup for a radio) or as a verb (the act of setting up a radio). The word 'set up' can also be interpreted as either the act of assembling or arranging something (e.g., setting up a radio) or a configuration or arrangement (e.g., a radio setup).",
+        "translations": [
+          "一个无线电装置，以便会众可以跟随。",
+          "设置了一个无线电，以便会众可以跟随。",
+          "一台收音机被安装好，以便会众可以收听。",
+          "一个收音机配置，以便会众可以收听。"
+        ],
+        "ambiguous_terms": [
+          "set up"
+        ]
+      },
+      {
+        "type": "pragmatic",
+        "explanation": "The phrase 'follow' can be interpreted literally (physically following the radio) or metaphorically (listening to and understanding the content broadcast by the radio). The phrase 'so that the congregation can follow' is ambiguous in terms of what they are following. It could mean following a religious service, a speech, or some other event.",
+        "translations": [
+          "一个无线电装置，以便会众可以跟随。",
+          "一个无线电装置，以便会众可以听从。",
+          "一台收音机被安装好，以便会众可以跟上（宗教仪式）。",
+          "一台收音机被安装好，以便会众可以跟上（演讲）。"
+        ],
+        "ambiguous_terms": [
+          "follow"
+        ]
+      }
+    ],
+    "standard_zh": "一个收音机被安装好，以便会众可以跟随宗教仪式。",
+    "standard_resolved_ambiguity": "‘follow’的文本歧义（明确是跟随宗教仪式）。图片中显示的是教堂内部及布置，明确了其用途为宗教目的。",
+    "fine_grained_zh": "",
+    "fine_grained_resolved_ambiguity": "",
+    "sense": [
+      {
+        "term": "follow",
+        "type": "lexical",
+        "gold_interpretation": "跟随宗教仪式"
+      }
+    ]
+  },
+  {
+    "idx": 222,
+    "image": "images/4688619097.jpg",
+    "en": "A man is using the stick thing to control the clown puppet.",
+    "agree_ambi": [
+      {
+        "type": "lexical",
+        "explanation": "The phrase 'the stick thing' is vague and can refer to various objects, such as a stick, a rod, a wand, or a specific tool used for controlling puppets. This ambiguity arises from the lack of specificity in the term, which could lead to different interpretations based on the reader's assumptions.",
+        "translations": [
+          "一个男人正在用棍子控制小丑木偶。",
+          "一个男人正在用操纵杆控制小丑木偶。",
+          "一个男人正在用那根棍子控制小丑木偶",
+          "一个男人正在用那个工具控制小丑木偶",
+          "一个男人正在用那个装置控制小丑木偶"
+        ],
+        "ambiguous_terms": [
+          "the stick thing"
+        ]
+      },
+      {
+        "type": "pragmatic",
+        "explanation": "The phrase 'the stick thing' lacks specificity, making it unclear what exact object is being referred to, which could lead to different interpretations based on the reader's assumptions.",
+        "translations": [
+          "一个男人正在用那根棍子控制小丑木偶",
+          "一个男人正在用那个装置控制小丑木偶"
+        ],
+        "ambiguous_terms": [
+          "the stick thing"
+        ]
+      }
+    ],
+    "standard_zh": "一个男人正在用操纵杆控制小丑木偶。",
+    "standard_resolved_ambiguity": "消解了‘the stick thing’的词汇歧义，图中显示的‘stick thing’明确是操纵杆。",
+    "fine_grained_zh": "",
+    "fine_grained_resolved_ambiguity": "",
+    "sense": [
+      {
+        "term": "the stick thing",
+        "type": "lexical",
+        "gold_interpretation": "操纵杆"
+      }
+    ]
+  },
+  {
+    "idx": 223,
+    "image": "images/4546939692.jpg",
+    "en": "The man is on the sea.",
+    "agree_ambi": [
+      {
+        "type": "lexical",
+        "explanation": "The phrase 'on the sea' can be interpreted in multiple ways. It could mean the man is physically on the surface of the sea (e.g., on a boat) or that he is in the water (e.g., swimming).",
+        "translations": [
+          "那个男人在海上（例如，在船上）",
+          "那个男人在海里（例如，游泳）"
+        ],
+        "ambiguous_terms": [
+          "on the sea"
+        ]
+      },
+      {
+        "type": "pragmatic",
+        "explanation": "The phrase 'on the sea' can be interpreted literally (the man is physically on the surface of the sea, e.g., in a boat) or metaphorically (the man is near the sea or involved in maritime activities).",
+        "translations": [
+          "那个男人在海上（指在船上或海面上）",
+          "那个男人在海边（指靠近海或在海边活动）"
+        ],
+        "ambiguous_terms": [
+          "on the sea"
+        ]
+      }
+    ],
+    "standard_zh": "那个男人正在海上。",
+    "standard_resolved_ambiguity": "图像显示该男子正在帆板上，因此明确其含义为“站在海面上”的活动。",
+    "fine_grained_zh": "",
+    "fine_grained_resolved_ambiguity": "",
+    "sense": [
+      {
+        "term": "on the sea",
+        "type": "lexical",
+        "gold_interpretation": "在海上（例如，正在海面上的帆板上）"
+      }
+    ]
+  },
+  {
+    "idx": 224,
+    "image": "images/4696819207.jpg",
+    "en": "A mother and daughter are near a blow-up gym.",
+    "agree_ambi": [
+      {
+        "type": "lexical",
+        "explanation": "The phrase 'blow-up gym' can be interpreted in two ways: a gym that is inflatable (like a bouncy castle) or a gym that has been blown up, i.e., destroyed.",
+        "translations": [
+          "一位母亲和女儿在充气健身房附近。",
+          "一位母亲和女儿在一个即将爆炸的健身房附近。",
+          "一位母亲和女儿在一个被炸毁的健身房附近"
+        ],
+        "ambiguous_terms": [
+          "blow-up gym"
+        ]
+      }
+    ],
+    "standard_zh": "一位母亲和女儿在充气蹦床附近。",
+    "standard_resolved_ambiguity": "通过图片可以确定'blow-up gym'指的是充气设施，而非被炸毁的健身房。",
+    "fine_grained_zh": "",
+    "fine_grained_resolved_ambiguity": "",
+    "sense": [
+      {
+        "term": "blow-up gym",
+        "type": "lexical",
+        "gold_interpretation": "充气设施"
+      }
+    ]
+  },
+  {
+    "idx": 225,
+    "image": "images/000000238768.jpg",
+    "en": "A table topped with a jar of brown stuff.",
+    "agree_ambi": [
+      {
+        "type": "lexical",
+        "explanation": "The phrase 'brown stuff' is vague and can refer to various substances or objects that are brown in color, such as food (e.g., chocolate, peanut butter, jam), chemicals (e.g., paint, dye), or other materials (e.g., clay, soil).",
+        "translations": [
+          "一张桌子上放着一罐棕色的东西。",
+          "一张桌子上放着一罐棕色的酱料。",
+          "一张桌子上放着一罐棕色的巧克力。",
+          "桌子上放着一罐棕色的颜料"
+        ],
+        "ambiguous_terms": [
+          "brown stuff"
+        ]
+      }
+    ],
+    "standard_zh": "桌子上放着一罐棕色的砂糖。",
+    "standard_resolved_ambiguity": "‘brown stuff’的语义歧义，通过图像看出罐装的物体是棕色砂糖，因此明确为‘砂糖’。",
+    "fine_grained_zh": "",
+    "fine_grained_resolved_ambiguity": "",
+    "sense": [
+      {
+        "term": "brown stuff",
+        "type": "lexical",
+        "gold_interpretation": "砂糖"
+      }
+    ]
+  },
+  {
+    "idx": 226,
+    "image": "images/cc_639780693.jpg",
+    "en": "A wall with a quote from religious text.",
+    "agree_ambi": [
+      {
+        "type": "lexical",
+        "explanation": "The word 'quote' can refer to a direct citation or a paraphrased version, and 'religious text' can refer to any religious scripture (e.g., Bible, Quran, Torah, etc.), making it unclear which specific text is being referenced.",
+        "translations": [
+          "墙上有一段宗教经文中的直接引用。",
+          "墙上有一段宗教经文中的摘录。"
+        ],
+        "ambiguous_terms": [
+          "quote",
+          "religious text"
+        ]
+      },
+      {
+        "type": "cultural/background",
+        "explanation": "The term 'religious text' can refer to any number of sacred or spiritual writings from various religions, and the specific quote is not provided. This ambiguity requires additional context to determine the exact source and content of the quote. Without specifying the religious text, the interpretation depends on the reader's cultural or religious background, leading to different assumptions about which text is being referenced.",
+        "translations": [
+          "一面墙上有一段来自宗教文本的引言。",
+          "一面墙上有一段来自圣经的引言。",
+          "一面墙上有一段来自古兰经的引言。",
+          "墙上有一段《圣经》中的引文。",
+          "墙上有一段《古兰经》中的引文。",
+          "墙上有一段《佛经》中的引文。"
+        ],
+        "ambiguous_terms": [
+          "religious text"
+        ]
+      }
+    ],
+    "standard_zh": "墙上有一段《古兰经》的引文。",
+    "standard_resolved_ambiguity": "通过图片中的阿拉伯文和伊斯兰风格的装饰，明确了宗教文本是《古兰经》，消解了“religious text”的文化/背景歧义。",
+    "fine_grained_zh": "",
+    "fine_grained_resolved_ambiguity": "",
+    "sense": [
+      {
+        "term": "religious text",
+        "type": "lexical",
+        "gold_interpretation": "《古兰经》"
+      }
+    ]
+  },
+  {
+    "idx": 227,
+    "image": "images/000000000595.jpg",
+    "en": "Someone left the set in the channel.",
+    "agree_ambi": [
+      {
+        "type": "lexical",
+        "explanation": "The word 'set' has multiple meanings, such as a television/film set, a set of items, or a concrete-like material. Without context, it's unclear which meaning is intended.",
+        "possible_chinese_translations": [
+          "有人把某个拍摄场景留在频道里了",
+          "有人把一组物品留在频道里了",
+          "有人把混凝土留在频道里了"
+        ],
+        "ambiguous_terms": [
+          "set"
+        ]
+      },
+      {
+        "type": "lexical",
+        "explanation": "The word 'channel' can refer to a TV channel, a water channel, a communication platform, or a digital media channel (e.g., YouTube).",
+        "possible_chinese_translations": [
+          "有人把拍摄场景留在电视频道里了",
+          "有人把某物留在水道里了",
+          "有人把一组东西留在沟通频道里了"
+        ],
+        "ambiguous_terms": [
+          "channel"
+        ]
+      },
+      {
+        "type": "syntactic",
+        "explanation": "The structure 'left the set in the channel' is unclear—did someone abandon a set of items inside a channel, or was a set left as part of content in a broadcast channel?",
+        "possible_chinese_translations": [
+          "有人在频道中留下了一组物品",
+          "有人在频道中播放了某个拍摄场景",
+          "有人将混凝土遗留在沟渠中"
+        ],
+        "ambiguous_terms": [
+          "left the set in the channel"
+        ]
+      }
+    ],
+    "standard_zh": "有人把那台电视机丢在河道里。",
+    "standard_resolved_ambiguity": "通过图片可看出set指的是电视机，channel是河道而不是频道，且句法结构表明是将电视机丢弃在河道中，而非留在频道中。",
+    "fine_grained_zh": "",
+    "fine_grained_resolved_ambiguity": "",
+    "sense": [
+      {
+        "term": "set",
+        "type": "lexical",
+        "gold_interpretation": "电视机"
+      },
+      {
+        "term": "channel",
+        "type": "lexical",
+        "gold_interpretation": "河道"
+      },
+      {
+        "term": "left the set in the channel",
+        "type": "syntactic",
+        "gold_interpretation": "有人把电视机丢在河道里"
+      }
+    ]
+  },
+  {
+    "idx": 228,
+    "image": "images/cc_170086416.jpg",
+    "en": "A different form of transport for the lads on the way to training!",
+    "agree_ambi": [
+      {
+        "type": "lexical",
+        "explanation": "The phrase 'a different form of transport' can refer to various types of transportation, such as a bicycle, a bus, a train, or even a unique or unconventional mode of transport. It could also be an unexpected mode of transportation (e.g., bicycle, horse, etc.) or a specific vehicle (e.g., bus, car, etc.) that is unusual in this context.",
+        "translations": [
+          "小伙子们在去训练的路上使用了一种不同的交通工具！",
+          "小伙子们在去训练的路上换了一种交通方式！",
+          "小伙子们在去训练的路上采用了一种不同的交通工具！",
+          "小伙子们在去训练的路上使用了一种特别的交通工具！"
+        ],
+        "ambiguous_terms": [
+          "a different form of transport"
+        ]
+      },
+      {
+        "type": "pragmatic",
+        "explanation": "The term 'lads' can be interpreted as a casual reference to young men, but it could also be used more specifically to refer to a particular group, such as a sports team. The context of 'training' suggests a sports-related scenario, but the specific type of training (e.g., sports, military, professional) is not clear. Additionally, the phrase 'for the lads' could imply that the transport is specifically arranged for the group or that it is a shared experience among them. The tone could be casual or humorous, but this is unclear without further context.",
+        "translations": [
+          "小伙子们在去训练的路上使用了一种不同的交通工具！",
+          "小伙子们在去训练的路上换了一种交通方式！",
+          "为了小伙子们去训练，他们使用了一种不同的交通工具！"
+        ],
+        "ambiguous_terms": [
+          "lads",
+          "for the lads"
+        ]
+      }
+    ],
+    "standard_zh": "小伙子们在去训练的路上开了一辆高尔夫球车！",
+    "standard_resolved_ambiguity": "消解了'不同的交通工具'的词义歧义：通过图像可以明确看到小伙子们驾驶的是一辆高尔夫球车，排除了其他可能的交通工具。",
+    "fine_grained_zh": "",
+    "fine_grained_resolved_ambiguity": "",
+    "sense": [
+      {
+        "term": "a different form of transport",
+        "type": "lexical",
+        "gold_interpretation": "高尔夫球车"
+      }
+    ]
+  },
+  {
+    "idx": 229,
+    "image": "images/000000318382.jpg",
+    "en": "A group of people being transported by a London transport.",
+    "agree_ambi": [
+      {
+        "type": "lexical",
+        "explanation": "The phrase 'London transport' can refer to various modes of transportation, such as buses, trains, or the London Underground, or it can refer to the public transportation system in London (e.g., buses, tubes) or the company/organization responsible for managing it. Without additional context, it is unclear which specific mode of transport or entity is being referred to.",
+        "translations": [
+          "一群人乘坐伦敦的公交车被运送。",
+          "一群人乘坐伦敦地铁被运送。",
+          "一群人乘坐伦敦的火车被运送。",
+          "一群人正在被伦敦的公共交通系统运送",
+          "一群人正在被伦敦交通公司运送"
+        ],
+        "ambiguous_terms": [
+          "London transport"
+        ]
+      }
+    ],
+    "standard_zh": "一群人正在乘坐伦敦的双层巴士。",
+    "standard_resolved_ambiguity": "词汇歧义：图片显示的是伦敦著名的红色双层巴士，因此明确了'London transport'指的是双层巴士。",
+    "fine_grained_zh": "",
+    "fine_grained_resolved_ambiguity": "",
+    "sense": [
+      {
+        "term": "London transport",
+        "type": "lexical",
+        "gold_interpretation": "伦敦的双层巴士"
+      }
+    ]
+  },
+  {
+    "idx": 230,
+    "image": "images/cc_206476801.jpg",
+    "en": "A black and white photograph of a woman with long hair driving a machine.",
+    "agree_ambi": [
+      {
+        "type": "lexical",
+        "explanation": "The word 'machine' can refer to various types of mechanical devices, such as a car, a tractor, or any other kind of vehicle or equipment, leading to different interpretations.",
+        "translations": [
+          "一张黑白照片，照片中一位长发女子正在驾驶一辆汽车。",
+          "一张黑白照片，照片中一位长发女子正在操作一台机器。",
+          "一张黑白照片中的一位长发女子正在驾驶一辆汽车",
+          "一张黑白照片中的一位长发女子正在操作一台机器"
+        ],
+        "ambiguous_terms": [
+          "machine"
+        ]
+      },
+      {
+        "type": "pragmatic",
+        "explanation": "The phrase 'black and white photograph' could be interpreted literally as a photograph in grayscale or metaphorically as a clear, straightforward depiction of a situation.",
+        "translations": [
+          "一张黑白照片中的一位长发女子正在驾驶一台机器",
+          "一张描绘清晰明了的照片中的一位长发女子正在驾驶一台机器"
+        ],
+        "ambiguous_terms": [
+          "black and white photograph"
+        ]
+      }
+    ],
+    "standard_zh": "一张黑白照片中，一位长发女子正在驾驶一台火车机车。",
+    "standard_resolved_ambiguity": "‘machine’经过图片验证明确为火车机车（司机驾驶室内的控制设备），消解了词义的多重可能性。",
+    "fine_grained_zh": "",
+    "fine_grained_resolved_ambiguity": "",
+    "sense": [
+      {
+        "term": "machine",
+        "type": "lexical",
+        "gold_interpretation": "火车机车"
+      }
+    ]
+  },
+  {
+    "idx": 231,
+    "image": "images/428258615.jpg",
+    "en": "A lad is poised to kick something.",
+    "agree_ambi": [
+      {
+        "type": "lexical",
+        "explanation": "The word 'something' is vague and can refer to any object, making the sentence ambiguous as it does not specify what the lad is about to kick. The phrase 'poised to kick something' is also ambiguous because it is unclear what the lad is about to kick. It could be a ball, a person, an object, or even metaphorically 'kick off' an event or activity.",
+        "translations": [
+          "一个小伙子正准备踢某个东西。",
+          "一个小伙子正准备踢某个物体。",
+          "一个小伙子准备开始某项活动"
+        ],
+        "ambiguous_terms": [
+          "something"
+        ]
+      }
+    ],
+    "standard_zh": "一个男孩正准备踢一个粉红色的足球。",
+    "standard_resolved_ambiguity": "词汇模糊性：根据图片，‘something’明确指的是地上的粉红色足球。",
+    "fine_grained_zh": "",
+    "fine_grained_resolved_ambiguity": "",
+    "sense": [
+      {
+        "term": "something",
+        "type": "lexical",
+        "gold_interpretation": "地上的粉红色足球"
+      }
+    ]
+  },
+  {
+    "idx": 232,
+    "image": "images/cc_643274290.jpg",
+    "en": "A squeeze of lemon to top off a type of dish.",
+    "agree_ambi": [
+      {
+        "type": "lexical",
+        "explanation": "The phrase 'a type of dish' is vague and can refer to any kind of food, making it unclear what specific dish the lemon is being added to. Additionally, 'type of dish' can be interpreted in two ways: (1) a specific kind of food or (2) a physical dish or plate.",
+        "translations": [
+          "在某道菜上挤一些柠檬汁。",
+          "在一种菜肴上挤一些柠檬汁。",
+          "在某种菜肴上挤一点柠檬汁",
+          "在一种盘子上挤一点柠檬汁"
+        ],
+        "ambiguous_terms": [
+          "type of dish"
+        ]
+      },
+      {
+        "type": "pragmatic",
+        "explanation": "The context or the speaker's intention is not clear. It is uncertain whether the lemon is being used as a garnish, for flavoring, or for another purpose. The phrase 'to top off' can be interpreted literally (adding lemon as a finishing touch) or metaphorically (enhancing or completing the dish in a broader sense).",
+        "translations": [
+          "在某道菜上挤一些柠檬汁作为点缀。",
+          "在某道菜上挤一些柠檬汁以增加风味。",
+          "在某种菜肴上挤一点柠檬汁作为点缀",
+          "用一点柠檬汁来提升某种菜肴的味道"
+        ],
+        "ambiguous_terms": [
+          "to top off"
+        ]
+      }
+    ],
+    "standard_zh": "在这道沙拉上挤一些柠檬汁作为点缀。",
+    "standard_resolved_ambiguity": "图片显示了具体的菜是沙拉，消解了短语 'a type of dish' 的歧义。同时，柠檬汁是直接挤在沙拉上的，明确了 'to top off' 是指加作为点缀。",
+    "fine_grained_zh": "",
+    "fine_grained_resolved_ambiguity": "",
+    "sense": [
+      {
+        "term": "type of dish",
+        "type": "lexical",
+        "gold_interpretation": "沙拉"
+      },
+      {
+        "term": "to top off",
+        "type": "pragmatic",
+        "gold_interpretation": "作为点缀"
+      }
+    ]
+  },
+  {
+    "idx": 233,
+    "image": "images/cc_903788092.jpg",
+    "en": "A hacker against the background of the flag.",
+    "agree_ambi": [
+      {
+        "type": "lexical",
+        "explanation": "The word 'hacker' can refer to a computer expert who uses their skills for unauthorized access to systems, or it can refer to someone who hacks objects or ideas in a more general sense, such as a life hacker. Additionally, 'hacker' can also refer to a computer expert who uses their skills for malicious purposes or someone who is skilled in programming and problem-solving in a positive sense.",
+        "translations": [
+          "一名黑客在国旗背景下",
+          "一名生活黑客在国旗背景下",
+          "一名编程高手在旗帜背景下"
+        ],
+        "ambiguous_terms": [
+          "hacker"
+        ]
+      },
+      {
+        "type": "cultural/background",
+        "explanation": "The specific flag mentioned is not specified, which could lead to different interpretations based on the cultural or national context. Different flags (e.g., a country's flag, a company's flag, or a symbolic flag) would change the meaning.",
+        "translations": [
+          "一名黑客在国旗背景下",
+          "一名黑客在公司旗帜背景下",
+          "一名黑客在象征性旗帜背景下"
+        ],
+        "ambiguous_terms": [
+          "flag"
+        ]
+      },
+      {
+        "type": "pragmatic",
+        "explanation": "The phrase 'against the background of the flag' could be interpreted literally as a physical flag in the background or metaphorically as representing a national or ideological context.",
+        "translations": [
+          "一名黑客在旗帜背景下",
+          "一名黑客在象征国家的旗帜背景下"
+        ],
+        "ambiguous_terms": [
+          "against the background of the flag"
+        ]
+      }
+    ],
+    "standard_zh": "一名黑客在美国国旗背景下。",
+    "standard_resolved_ambiguity": "消解了'hacker'的歧义，根据图片确定是与计算机相关的，且'flag'指的是美国国旗，而不是泛指旗帜。",
+    "fine_grained_zh": "",
+    "fine_grained_resolved_ambiguity": "",
+    "sense": [
+      {
+        "term": "hacker",
+        "type": "lexical",
+        "gold_interpretation": "与计算机相关的黑客"
+      },
+      {
+        "term": "flag",
+        "type": "cultural/background",
+        "gold_interpretation": "美国国旗"
+      }
+    ]
+  },
+  {
+    "idx": 234,
+    "image": "images/6939568656.jpg",
+    "en": "A sports player is pushing an object outside.",
+    "agree_ambi": [
+      {
+        "type": "lexical",
+        "explanation": "The term 'object' is vague and can refer to any physical item, making it unclear what exactly the sports player is pushing. It could refer to a physical item (e.g., a ball, equipment) or something more abstract (e.g., a goal, idea).",
+        "translations": [
+          "一名运动员正在把一个物体推到外面。",
+          "一名运动员正在把一件物品推到外面。",
+          "一名运动员正在外面推一个物体",
+          "一名运动员正在外面推动一个目标"
+        ],
+        "ambiguous_terms": [
+          "object"
+        ]
+      },
+      {
+        "type": "pragmatic",
+        "explanation": "The context and intention are not clear. It is ambiguous whether the action of pushing the object outside is part of a game, a training exercise, or some other activity. The context of 'pushing' is also unclear—it could mean physically moving something or metaphorically advocating for something.",
+        "translations": [
+          "一名运动员正在把一个物体推到外面。（可能是在比赛中）",
+          "一名运动员正在把一个物体推到外面。（可能是在训练中）",
+          "一名运动员正在外面推动一个物体",
+          "一名运动员正在外面极力主张某个目标"
+        ],
+        "ambiguous_terms": [
+          "pushing"
+        ]
+      }
+    ],
+    "standard_zh": "一名运动员正在户外推动一个训练用滑橇。",
+    "standard_resolved_ambiguity": "‘object’ 指的是训练用的滑橇，从图片中可以清晰辨认",
+    "fine_grained_zh": "",
+    "fine_grained_resolved_ambiguity": "",
+    "sense": [
+      {
+        "term": "object",
+        "type": "lexical",
+        "gold_interpretation": "训练用滑橇"
+      }
+    ]
+  },
+  {
+    "idx": 235,
+    "image": "images/000000485185.jpg",
+    "en": "A woman who is attaching a device to some animals.",
+    "agree_ambi": [
+      {
+        "type": "lexical",
+        "explanation": "The word 'device' can refer to a wide range of objects, such as a tracking device, a medical device, or a piece of equipment. Without more context, it is unclear what specific type of device is being attached.",
+        "translations": [
+          "一个正在给一些动物安装设备的女人",
+          "一个正在给一些动物装上追踪器的女人",
+          "一个正在给一些动物装上医疗设备的女人"
+        ],
+        "ambiguous_terms": [
+          "device"
+        ]
+      },
+      {
+        "type": "pragmatic",
+        "explanation": "The purpose or intention behind attaching the device to the animals is not clear. It could be for research, medical treatment, or other purposes. Additionally, the type of animals (pets, livestock, or wildlife) is also unclear.",
+        "translations": [
+          "一个正在给一些动物安装设备的女人（可能是为了研究）",
+          "一个正在给一些动物装上设备的女人（可能是为了医疗治疗）",
+          "一个正在给一些动物装上设备的女人（可能是为了其他目的）",
+          "一位女士正在给一些动物安装设备",
+          "一位女士正在给一些动物佩戴装置"
+        ],
+        "ambiguous_terms": [
+          "attaching a device to some animals"
+        ]
+      },
+      {
+        "type": "syntactic",
+        "explanation": "The phrase 'attaching a device to some animals' could be interpreted in different ways. It could mean that the device is being attached to multiple animals collectively or individually.",
+        "translations": [
+          "一位女士正在给一些动物安装设备",
+          "一位女士正在给某些动物分别安装设备"
+        ],
+        "ambiguous_terms": [
+          "attaching a device to some animals"
+        ]
+      }
+    ],
+    "standard_zh": "一个正在给绵羊连接挤奶设备的女人。",
+    "standard_resolved_ambiguity": "通过图片可以明确'Edevice'指的是挤奶设备，且动物是绵羊，并消解了用途相关含义。",
+    "fine_grained_zh": "",
+    "fine_grained_resolved_ambiguity": "",
+    "sense": [
+      {
+        "term": "device",
+        "type": "lexical",
+        "gold_interpretation": "挤奶设备"
+      }
+    ]
+  },
+  {
+    "idx": 236,
+    "image": "images/cc_4028292232.jpg",
+    "en": "There were plenty ready for harvest in a variety of sizes.",
+    "agree_ambi": [
+      {
+        "type": "lexical",
+        "explanation": "The word 'plenty' can refer to a large number of items, but it is not clear what specific items are being referred to (e.g., fruits, vegetables, or other crops). The word 'harvest' can refer to the act of gathering crops or the yield of a season. Additionally, 'ready for harvest' could imply crops are mature or that preparations for harvesting are complete.",
+        "translations": [
+          "有很多不同大小的水果可以收获了。",
+          "有许多不同大小的蔬菜可以收获了。",
+          "有大量各种尺寸的作物可以收获了。",
+          "有大量不同大小的作物已经成熟，可以收割了",
+          "有大量不同大小的作物已经准备好收割了"
+        ],
+        "ambiguous_terms": [
+          "plenty",
+          "harvest"
+        ]
+      },
+      {
+        "type": "pragmatic",
+        "explanation": "The phrase 'in a variety of sizes' could refer to the size of the crops themselves or the size of the harvest (quantity).",
+        "translations": [
+          "有大量不同大小的作物已经成熟，可以收割了",
+          "有大量不同规模的收成已经准备好了"
+        ],
+        "ambiguous_terms": [
+          "in a variety of sizes"
+        ]
+      }
+    ],
+    "standard_zh": "有很多不同大小的弯曲黄瓜已经成熟，可以收获了。",
+    "standard_resolved_ambiguity": "通过图片可确定“plenty”指的是黄瓜，“in a variety of sizes”指黄瓜本身的大小，而非收成的规模。",
+    "fine_grained_zh": "",
+    "fine_grained_resolved_ambiguity": "",
+    "sense": [
+      {
+        "term": "plenty",
+        "type": "lexical",
+        "gold_interpretation": "黄瓜"
+      },
+      {
+        "term": "in a variety of sizes",
+        "type": "pragmatic",
+        "gold_interpretation": "不同大小的（黄瓜本身）"
+      }
+    ]
+  },
+  {
+    "idx": 237,
+    "image": "images/131624221.jpg",
+    "en": "A man wearing sandals is playing music near an animal.",
+    "agree_ambi": [
+      {
+        "type": "lexical",
+        "explanation": "The word 'animal' is vague and can refer to any non-human animal, such as a dog, cat, or even a wild animal like a lion. The specific type of animal is not specified, which can lead to different interpretations.",
+        "translations": [
+          "一个穿凉鞋的男人正在一只动物附近演奏音乐",
+          "一个穿凉鞋的男人正在一条狗旁边演奏音乐",
+          "一个穿凉鞋的男人正在一只猫旁边演奏音乐"
+        ],
+        "ambiguous_terms": [
+          "animal"
+        ]
+      },
+      {
+        "type": "pragmatic",
+        "explanation": "The phrase 'near an animal' is ambiguous because it does not specify the type of animal or the relationship between the man and the animal. The interpretation could vary widely based on the context.",
+        "translations": [
+          "一个穿着凉鞋的男人在一只动物附近演奏音乐",
+          "一个穿着凉鞋的男人在动物旁边演奏音乐"
+        ],
+        "ambiguous_terms": [
+          "near an animal"
+        ]
+      }
+    ],
+    "standard_zh": "一个穿凉鞋的男人在一只鹅旁边演奏音乐。",
+    "standard_resolved_ambiguity": "词汇歧义消解，'animal' 指的是图片中的鹅。",
+    "fine_grained_zh": "",
+    "fine_grained_resolved_ambiguity": "",
+    "sense": [
+      {
+        "term": "animal",
+        "type": "lexical",
+        "gold_interpretation": "鹅"
+      }
+    ]
+  },
+  {
+    "idx": 238,
+    "image": "images/2630948997.jpg",
+    "en": "The woman is practicing a sport.",
+    "agree_ambi": [
+      {
+        "type": "lexical",
+        "explanation": "The word 'sport' can refer to a wide variety of physical activities, and without additional context, it is unclear which specific sport the woman is practicing. The caption does not specify which sport the woman is practicing, leading to multiple possible interpretations.",
+        "translations": [
+          "这位女士正在练习一项运动。",
+          "这位女士正在练习篮球。",
+          "这位女士正在练习游泳。",
+          "这位女士正在打篮球",
+          "这位女士正在练习瑜伽"
+        ],
+        "ambiguous_terms": [
+          "sport"
+        ]
+      }
+    ],
+    "standard_zh": "这位女士正在练习武术。",
+    "standard_resolved_ambiguity": "词汇歧义：‘sport’指代具体的运动类型。图片显示她穿着武术服，表明她在练习武术。",
+    "fine_grained_zh": "",
+    "fine_grained_resolved_ambiguity": "",
+    "sense": [
+      {
+        "term": "sport",
+        "type": "lexical",
+        "gold_interpretation": "武术"
+      }
+    ]
+  },
+  {
+    "idx": 239,
+    "image": "images/2704362232.jpg",
+    "en": "A man and an animal in water.",
+    "agree_ambi": [
+      {
+        "type": "pragmatic",
+        "explanation": "The sentence is ambiguous because it does not specify the relationship between the man and the animal in the water. It could mean they are together, in conflict, or simply coexisting in the same water body.",
+        "translations": [
+          "一个男人和一只动物都在水里（互动）",
+          "一个男人和一只在水中的动物在水中（对峙）"
+        ],
+        "ambiguous_terms": [
+          "A man and an animal in water."
+        ]
+      }
+    ],
+    "standard_zh": "一个男人和一条狗在水中。",
+    "standard_resolved_ambiguity": "通过图像可以看出，'animal'具体指一只狗。同时图片显示男人与狗似乎在水中互动，而非对峙。",
+    "fine_grained_zh": "",
+    "fine_grained_resolved_ambiguity": "",
+    "sense": [
+      {
+        "term": "A man and an animal in water.",
+        "type": "pragmatic",
+        "gold_interpretation": "一个男人和一条狗在水中"
+      }
+    ]
+  },
+  {
+    "idx": 240,
+    "image": "images/000000369776.jpg",
+    "en": "A stop sign in a foreign language with the letters \"Alto\" on it.",
+    "agree_ambi": [
+      {
+        "type": "cultural/background",
+        "explanation": "The word 'Alto' can be interpreted differently depending on the language and cultural context. In Spanish, 'Alto' means 'Stop', but in other languages or contexts, it might have different meanings. Without cultural or linguistic knowledge, it might be unclear to someone unfamiliar with Spanish. Additionally, the phrase 'foreign language' is vague and could refer to any non-English language, not necessarily Spanish.",
+        "translations": [
+          "一个用外语写的停车标志，上面写着“Alto”",
+          "一个用外语写的标志，上面写着“Alto”（具体含义需根据语言背景确定）",
+          "一个写着“Alto”的外语停车标志",
+          "一个用外语写着“Alto”的停车标志"
+        ],
+        "ambiguous_terms": [
+          "Alto",
+          "foreign language"
+        ]
+      }
+    ],
+    "standard_zh": "一个用西班牙语写的停车标志，上面写着“Alto”。",
+    "standard_resolved_ambiguity": "消解了‘foreign language’的语言背景模糊性，通过图片确认其为西班牙语。",
+    "fine_grained_zh": "",
+    "fine_grained_resolved_ambiguity": "",
+    "sense": [
+      {
+        "term": "foreign language",
+        "type": "lexical",
+        "gold_interpretation": "外语指的是西班牙语"
+      }
+    ]
+  },
+  {
+    "idx": 241,
+    "image": "images/sbu_3674891186.jpg",
+    "en": "Bottles of stuff in the bathroom.",
+    "agree_ambi": [
+      {
+        "type": "lexical",
+        "explanation": "The phrase 'bottles of stuff' is vague and can refer to various items such as shampoo, conditioner, lotion, or other personal care products. Without additional context, the specific contents of the bottles are unclear.",
+        "translations": [
+          "浴室里的瓶子装着各种东西",
+          "浴室里的洗发水、护发素等瓶装物品",
+          "浴室里的几瓶洗发水",
+          "浴室里的几瓶清洁剂",
+          "浴室里的几瓶护肤品"
+        ],
+        "ambiguous_terms": [
+          "bottles of stuff"
+        ]
+      },
+      {
+        "type": "pragmatic",
+        "explanation": "The phrase 'Bottles of stuff' is vague and could refer to various items commonly found in a bathroom, such as shampoo, lotion, cleaning products, or other personal care items. Without additional context, the specific contents of the bottles are unclear.",
+        "translations": [
+          "浴室里的几瓶洗发水",
+          "浴室里的几瓶清洁剂",
+          "浴室里的几瓶护肤品"
+        ],
+        "ambiguous_terms": [
+          "Bottles of stuff"
+        ]
+      }
+    ],
+    "standard_zh": "浴室里的几瓶洗发水、护发素和护肤品。",
+    "standard_resolved_ambiguity": "视觉内容表明瓶子内的物品包括洗发水、护发素和护肤品，从而消解了'Bottles of stuff'的具体含义。",
+    "fine_grained_zh": "",
+    "fine_grained_resolved_ambiguity": "",
+    "sense": [
+      {
+        "term": "bottles of stuff",
+        "type": "lexical",
+        "gold_interpretation": "几瓶洗发水、护发素和护肤品"
+      }
+    ]
+  },
+  {
+    "idx": 242,
+    "image": "images/cc_4146482166.jpg",
+    "en": "A person in action during the match.",
+    "agree_ambi": [
+      {
+        "type": "lexical",
+        "explanation": "The phrase 'a person in action' can refer to different roles, such as a player, a referee, or even a spectator who is actively participating in some way.",
+        "translations": [
+          "比赛中的一个球员",
+          "比赛中的一个裁判",
+          "比赛中的一名积极参与的观众"
+        ],
+        "ambiguous_terms": [
+          "a person in action"
+        ]
+      },
+      {
+        "type": "pragmatic",
+        "explanation": "The context of the match and the specific role of the person are not clear, which can lead to different interpretations of what 'in action' means. It could be a player actively competing, a referee making a call, or a spectator doing something noteworthy. The phrase 'in action' is vague and can refer to a person actively participating in the match (e.g., playing a sport) or a person performing a specific action (e.g., taking a photograph, cheering).",
+        "translations": [
+          "比赛中的一名正在行动的人",
+          "比赛中的一名正在执法的裁判",
+          "比赛中的一名正在参与的观众",
+          "比赛期间正在参与活动的人",
+          "比赛期间正在行动的人"
+        ],
+        "ambiguous_terms": [
+          "in action"
+        ]
+      },
+      {
+        "type": "cultural/background",
+        "explanation": "The word 'match' can refer to a sports competition (e.g., soccer, tennis) or a non-sporting event (e.g., a chess match, a debate). Without context, the type of match is unclear.",
+        "translations": [
+          "体育比赛中正在行动的人",
+          "比赛中正在行动的人"
+        ],
+        "ambiguous_terms": [
+          "match"
+        ]
+      }
+    ],
+    "standard_zh": "橄榄球赛中正在参与的球员。",
+    "standard_resolved_ambiguity": "通过图像确认‘in action’指的是一名球员正在参与比赛，而非裁判或观众，且‘match’明确为橄榄球比赛。",
+    "fine_grained_zh": "",
+    "fine_grained_resolved_ambiguity": "",
+    "sense": [
+      {
+        "term": "a person in action",
+        "type": "lexical",
+        "gold_interpretation": "比赛中正在参与的球员"
+      },
+      {
+        "term": "match",
+        "type": "lexical",
+        "gold_interpretation": "橄榄球比赛"
+      }
+    ]
+  },
+  {
+    "idx": 243,
+    "image": "images/sbu_4128830828.jpg",
+    "en": "This brined bird was done in the oven the old-fashioned way.",
+    "agree_ambi": [
+      {
+        "type": "lexical",
+        "explanation": "The phrase 'brined bird' can refer to a specific type of bird that has been brined (e.g., a turkey or chicken) or it could be a more general term for any bird that has been brined. Additionally, 'bird' can also be slang for a person in some contexts.",
+        "translations": [
+          "这只腌制的鸟是用传统方法在烤箱里烤制的。",
+          "这道腌制的禽类是用传统方法在烤箱里烹饪的。",
+          "这只腌制好的鸟是用传统方式在烤箱里烤制的",
+          "这个腌制好的家伙是用传统方式在烤箱里处理的"
+        ],
+        "ambiguous_terms": [
+          "brined bird"
+        ]
+      },
+      {
+        "type": "pragmatic",
+        "explanation": "The phrase 'the old-fashioned way' can be interpreted as a literal, traditional cooking method, or it could be used metaphorically to imply a simpler, more authentic approach. It is vague and could refer to a specific traditional cooking method or, more broadly, to a general sense of doing something traditionally.",
+        "translations": [
+          "这只腌制的鸟是用传统方法在烤箱里烤制的。",
+          "这只腌制的鸟是用简单、正宗的方法在烤箱里烤制的。",
+          "这只腌制好的鸟是用老式方法在烤箱里处理的"
+        ],
+        "ambiguous_terms": [
+          "the old-fashioned way"
+        ]
+      }
+    ],
+    "standard_zh": "这只腌制好的火鸡是用传统方式在烤箱里烤制的。",
+    "standard_resolved_ambiguity": "通过图片确认，'brined bird' 特指火鸡，而不是其他禽类或隐喻用法。",
+    "fine_grained_zh": "",
+    "fine_grained_resolved_ambiguity": "",
+    "sense": [
+      {
+        "term": "brined bird",
+        "type": "lexical",
+        "gold_interpretation": "腌制好的火鸡"
+      }
+    ]
+  },
+  {
+    "idx": 244,
+    "image": "images/105342180.jpg",
+    "en": "A female has an object with her.",
+    "agree_ambi": [
+      {
+        "type": "lexical",
+        "explanation": "The word 'object' can refer to a wide range of things, from inanimate items to more specific objects. Without additional context, it is unclear what the object is.",
+        "translations": [
+          "一名女性带着一个物品。",
+          "一名女性带着一个对象。",
+          "一名女性带着一个东西。"
+        ],
+        "ambiguous_terms": [
+          "object"
+        ]
+      },
+      {
+        "type": "pragmatic",
+        "explanation": "The phrase 'with her' can be interpreted in different ways. It could mean she is carrying the object, or the object is in her possession in some other way (e.g., in her bag, nearby, etc.). Additionally, the phrase 'an object' is vague and could refer to any physical item, making the meaning unclear without additional context.",
+        "translations": [
+          "一名女性带着一个物品。",
+          "一名女性有一个物品在她身边。",
+          "一名女性随身携带一个物品。",
+          "一位女性随身携带了一件物品",
+          "一位女性身边有一个物体"
+        ],
+        "ambiguous_terms": [
+          "with her",
+          "an object"
+        ]
+      }
+    ],
+    "standard_zh": "一名女性拿着一支桨。",
+    "standard_resolved_ambiguity": "通过图像解决了“object”的歧义，图片显示该‘物品’是桨。",
+    "fine_grained_zh": "",
+    "fine_grained_resolved_ambiguity": "",
+    "sense": [
+      {
+        "term": "object",
+        "type": "lexical",
+        "gold_interpretation": "桨"
+      }
+    ]
+  },
+  {
+    "idx": 245,
+    "image": "images/cc12m_3985469749.jpg",
+    "en": "A game in progress (prototype shown).",
+    "agree_ambi": [
+      {
+        "type": "lexical",
+        "explanation": "The word 'game' can refer to a physical game, a board game, a video game, or any other type of game. The term 'prototype' can also be ambiguous as it might refer to a physical prototype or a digital prototype.",
+        "translations": [
+          "正在进行中的游戏（展示的是原型）",
+          "一款正在开发的游戏（展示的是原型）"
+        ],
+        "ambiguous_terms": [
+          "game",
+          "prototype"
+        ]
+      },
+      {
+        "type": "pragmatic",
+        "explanation": "The context in which the caption is used is not clear. It could be referring to a game being played, a game being developed, or a game being demonstrated. Without additional context, the intended meaning is unclear. The phrase 'game in progress' could refer to a game currently being played or a game in the process of development. The mention of 'prototype shown' suggests it might be a game in development, but without additional context, it could also imply a live gameplay demonstration.",
+        "translations": [
+          "正在进行中的游戏（展示的是原型）",
+          "一款正在开发的游戏（展示的是原型）",
+          "游戏正在进行中（展示了原型）",
+          "游戏开发中（展示了原型）"
+        ],
+        "ambiguous_terms": [
+          "game in progress",
+          "prototype shown"
+        ]
+      }
+    ],
+    "standard_zh": "正在进行中的桌面游戏（展示的是原型）。",
+    "standard_resolved_ambiguity": "lexical 和 pragmatic 歧义已消解：图片显示的是一个实体桌面游戏的原型，并且正在进行游戏中。",
+    "fine_grained_zh": "",
+    "fine_grained_resolved_ambiguity": "",
+    "sense": [
+      {
+        "term": "game",
+        "type": "lexical",
+        "gold_interpretation": "桌面游戏"
+      },
+      {
+        "term": "prototype",
+        "type": "lexical",
+        "gold_interpretation": "原型"
+      },
+      {
+        "term": "game in progress",
+        "type": "pragmatic",
+        "gold_interpretation": "正在进行中的桌面游戏"
+      }
+    ]
+  },
+  {
+    "idx": 246,
+    "image": "images/000000376454.jpg",
+    "en": "A bunch of ripening bananas on a coffee table, with something growing out of it.",
+    "agree_ambi": [
+      {
+        "type": "lexical",
+        "explanation": "The phrase 'something growing out of it' is ambiguous because 'it' could refer to the bunch of bananas or the coffee table, and 'something growing' could be interpreted in different ways (e.g., a plant, mold, or an object). Without additional context, the exact nature of 'something' is unclear, as it could refer to a plant sprouting from the bananas (e.g., a banana plant) or something unrelated, like mold or fungi.",
+        "translations": [
+          "咖啡桌上有一串正在成熟的香蕉，上面长出了东西。",
+          "咖啡桌上有一串正在成熟的香蕉，桌子上有东西在生长。",
+          "咖啡桌上有一串正在成熟的香蕉，上面长出了植物。",
+          "咖啡桌上有一串正在成熟的香蕉，上面长出了霉菌。"
+        ],
+        "ambiguous_terms": [
+          "something growing out of it"
+        ]
+      },
+      {
+        "type": "pragmatic",
+        "explanation": "The phrase 'something growing out of it' is ambiguous. It could refer to a plant sprouting from the bananas (e.g., a banana plant) or something unrelated, like mold or fungi. Without additional context, the exact nature of 'something' is unclear.",
+        "translations": [
+          "咖啡桌上有一串正在成熟的香蕉，上面长出了植物。",
+          "咖啡桌上有一串正在成熟的香蕉，上面长出了霉菌。"
+        ],
+        "ambiguous_terms": [
+          "something growing out of it"
+        ]
+      }
+    ],
+    "standard_zh": "咖啡桌上有一串正在成熟的香蕉，香蕉上长出了一段长长的花序。",
+    "standard_resolved_ambiguity": "通过图像可以看出‘something growing out of it’实际指的是香蕉上长出的长花序，而不是霉菌或其他物体，也不是从咖啡桌生长出来。",
+    "fine_grained_zh": "",
+    "fine_grained_resolved_ambiguity": "",
+    "sense": [
+      {
+        "term": "something growing out of it",
+        "type": "lexical",
+        "gold_interpretation": "香蕉上长出了一段长长的花序"
+      }
+    ]
+  },
+  {
+    "idx": 247,
+    "image": "images/000000398362.jpg",
+    "en": "There seems to be something hanging by a doorway.",
+    "agree_ambi": [
+      {
+        "type": "lexical",
+        "explanation": "The phrase 'something hanging by a doorway' can refer to various objects, such as a decoration, a piece of clothing, or even a person. The exact nature of the object is not specified, leading to multiple possible interpretations. Additionally, the word 'hanging' can be interpreted literally as something suspended in the air or metaphorically as something unresolved or pending.",
+        "translations": [
+          "门边似乎挂着什么东西。",
+          "门口好像挂着某种装饰品。",
+          "门旁似乎挂着一件衣服。",
+          "门口似乎有个人悬挂在那儿。",
+          "门口似乎有什么事情悬而未决"
+        ],
+        "ambiguous_terms": [
+          "something hanging",
+          "hanging"
+        ]
+      },
+      {
+        "type": "syntactic",
+        "explanation": "The phrase 'by a doorway' can be interpreted as either the location where something is hanging or the agent causing the hanging.",
+        "translations": [
+          "门口似乎挂着什么东西",
+          "似乎有什么东西被门口挂住了"
+        ],
+        "ambiguous_terms": [
+          "by a doorway"
+        ]
+      }
+    ],
+    "standard_zh": "门口似乎挂着一个水罐。",
+    "standard_resolved_ambiguity": "通过图片消解了‘something’的具体指代，确定为水罐；同时澄清了‘hanging’是指物理意义上悬挂。",
+    "fine_grained_zh": "",
+    "fine_grained_resolved_ambiguity": "",
+    "sense": [
+      {
+        "term": "something hanging",
+        "type": "lexical",
+        "gold_interpretation": "门口似乎挂着一个水罐"
+      },
+      {
+        "term": "hanging",
+        "type": "lexical",
+        "gold_interpretation": "挂着（物理意义上的悬挂）"
+      }
+    ]
+  },
+  {
+    "idx": 248,
+    "image": "images/cc_2247036501.jpg",
+    "en": "A copy of the sacred text of religious text in human language.",
+    "agree_ambi": [
+      {
+        "type": "lexical",
+        "explanation": "The phrase 'sacred text' can refer to any religious or holy book, and without additional context, it is unclear which specific text is being referred to. Additionally, 'human language' is ambiguous as it could mean any natural language used by humans.",
+        "translations": [
+          "一份用人类语言写成的宗教圣典副本",
+          "一本用人类语言撰写的神圣文本的副本"
+        ],
+        "ambiguous_terms": [
+          "sacred text",
+          "human language"
+        ]
+      },
+      {
+        "type": "syntactic",
+        "explanation": "The phrase 'sacred text of religious text' is ambiguous due to its structure. It could mean either (1) a sacred text that is about religious texts in general, or (2) a sacred text that is itself a religious text.",
+        "translations": [
+          "关于宗教文本的圣典的人类语言版本",
+          "宗教圣典的人类语言版本"
+        ],
+        "ambiguous_terms": [
+          "sacred text of religious text"
+        ]
+      }
+    ],
+    "standard_zh": "一本用英语撰写的《古兰经》的副本。",
+    "standard_resolved_ambiguity": "通过图像确认了'圣典'指的是《古兰经》，同时明确了其用具体的自然语言（英文）撰写。",
+    "fine_grained_zh": "",
+    "fine_grained_resolved_ambiguity": "",
+    "sense": [
+      {
+        "term": "sacred text",
+        "type": "lexical",
+        "gold_interpretation": "《古兰经》"
+      },
+      {
+        "term": "human language",
+        "type": "lexical",
+        "gold_interpretation": "英语"
+      }
+    ]
+  },
+  {
+    "idx": 249,
+    "image": "images/1448065625.jpg",
+    "en": "The woman has something on her head.",
+    "agree_ambi": [
+      {
+        "type": "lexical",
+        "explanation": "The phrase 'something on her head' can refer to a wide range of items, such as a hat, a scarf, a hair accessory, or even an object placed there temporarily. This phrase is also vague and could refer to a physical object (e.g., a hat, a book) or a non-physical concept (e.g., a thought, a problem).",
+        "translations": [
+          "那个女人头上戴着东西。",
+          "那个女人头上有什么东西。",
+          "那个女人脑子里想着什么事"
+        ],
+        "ambiguous_terms": [
+          "something on her head"
+        ]
+      }
+    ],
+    "standard_zh": "那个女人头上顶着一个烘焙托盘。",
+    "standard_resolved_ambiguity": "词汇歧义：图片显示她头上顶着的是一个装有网格派的烘焙托盘，因此明确了‘something’的具体含义。",
+    "fine_grained_zh": "",
+    "fine_grained_resolved_ambiguity": "",
+    "sense": [
+      {
+        "term": "something on her head",
+        "type": "lexical",
+        "gold_interpretation": "她头上顶着一个烘焙托盘"
+      }
+    ]
+  },
+  {
+    "idx": 250,
+    "image": "images/50766676.jpg",
+    "en": "Someone here is training for a sport.",
+    "agree_ambi": [
+      {
+        "type": "lexical",
+        "explanation": "The word 'sport' can refer to a wide range of physical activities, and without additional context, it is unclear which specific sport is being referred to.",
+        "translations": [
+          "有人在这里训练某项运动。",
+          "有人在这里为一项体育项目进行训练。"
+        ],
+        "ambiguous_terms": [
+          "sport"
+        ]
+      },
+      {
+        "type": "pragmatic",
+        "explanation": "The phrase 'Someone here' is ambiguous as it does not specify who the person is. It could be any individual in the vicinity, and without more context, the identity of the person remains unclear. Additionally, the sentence is ambiguous because it is unclear what sport they are training for and whether the training is formal or informal. The lack of specific context makes it open to multiple interpretations.",
+        "translations": [
+          "这里有人正在训练某项运动。",
+          "这里的某个人正在为一项体育项目进行训练。",
+          "这里有人在为某项运动进行训练。",
+          "这里有人在为一项体育赛事做准备。",
+          "这里有人在锻炼身体，可能是为了某项运动。"
+        ],
+        "ambiguous_terms": [
+          "Someone here",
+          "a sport"
+        ]
+      }
+    ],
+    "standard_zh": "这里有人正在练习空手道。",
+    "standard_resolved_ambiguity": "消解了‘sport’的歧义：通过图像，可以看到这是空手道训练，而非其他运动。",
+    "fine_grained_zh": "",
+    "fine_grained_resolved_ambiguity": "",
+    "sense": [
+      {
+        "term": "sport",
+        "type": "lexical",
+        "gold_interpretation": "空手道"
+      }
+    ]
+  },
+  {
+    "idx": 251,
+    "image": "images/cc12m_2646899940.jpg",
+    "en": "There was a lot of movement in the piece.",
+    "agree_ambi": [
+      {
+        "type": "lexical",
+        "explanation": "The term 'piece' can refer to multiple things, such as a musical composition, a work of art, a section of writing, or even a chess piece. Without context, it is unclear which meaning is intended.",
+        "possible_chinese_translations": [
+          "这段音乐中有很多变化",
+          "这幅艺术作品中有很多动态元素",
+          "这篇文章中有很多动感",
+          "这局棋的这一步变化很多"
+        ],
+        "ambiguous_terms": [
+          "piece"
+        ]
+      },
+      {
+        "type": "pragmatic",
+        "explanation": "The phrase 'a lot of movement' could refer to physical motion, dynamic changes in structure or style (e.g., in music or writing), or even emotional or thematic shifts. The intended domain is unclear without context.",
+        "possible_chinese_translations": [
+          "这段音乐中有很多变化（节奏、旋律上的变动）",
+          "这篇文章有很多结构上的变化",
+          "这幅画中有许多动态感",
+          "这步棋中局势变化很大"
+        ],
+        "ambiguous_terms": [
+          "movement"
+        ]
+      }
+    ],
+    "standard_zh": "这幅作品中充满了动态感。",
+    "standard_resolved_ambiguity": "图片显示的是一幅抽象绘画作品，所以这里的 “piece” 应解释为 “艺术作品”，并且movement传达出的是一种强烈的动感，即“视觉上的movement”",
+    "fine_grained_zh": "",
+    "fine_grained_resolved_ambiguity": "",
+    "sense": [
+      {
+        "term": "piece",
+        "type": "lexical",
+        "gold_interpretation": "艺术作品"
+      },
+      {
+        "term": "movement",
+        "type": "pragmatic",
+        "gold_interpretation": "视觉上的动态感"
+      }
+    ]
+  },
+  {
+    "idx": 252,
+    "image": "images/3316046339.jpg",
+    "en": "A person with a helmet is jumping a bike over something in a wooded area.",
+    "agree_ambi": [
+      {
+        "type": "lexical",
+        "explanation": "The word 'something' is vague and can refer to any object or obstacle, leading to multiple possible interpretations. This ambiguity can cause different understandings of the scene, such as a log, a rock, or a gap.",
+        "translations": [
+          "一个人戴着头盔在树林里骑自行车跳过某个东西。",
+          "一个人戴着头盔在树林里骑自行车跳过一个障碍物。",
+          "一个戴着头盔的人正在树林中骑着自行车跳过某物",
+          "一个戴着头盔的人正在树林中骑着自行车跳过一块石头"
+        ],
+        "ambiguous_terms": [
+          "something"
+        ]
+      },
+      {
+        "type": "syntactic",
+        "explanation": "The phrase 'jumping a bike over something' can be interpreted in two ways: (1) the person is jumping while riding the bike over an obstacle, or (2) the person is jumping the bike itself (e.g., lifting it) over something.",
+        "translations": [
+          "一个戴着头盔的人正在树林中骑着自行车跳过某物",
+          "一个戴着头盔的人正在树林中把自行车举起来跳过某物"
+        ],
+        "ambiguous_terms": [
+          "jumping a bike over something"
+        ]
+      }
+    ],
+    "standard_zh": "一个戴着头盔的人正在树林里骑自行车跳过一棵树桩。",
+    "standard_resolved_ambiguity": "消除了“something”的词义歧义（基于图片确定为树桩）",
+    "fine_grained_zh": "",
+    "fine_grained_resolved_ambiguity": "",
+    "sense": [
+      {
+        "term": "something",
+        "type": "lexical",
+        "gold_interpretation": "树桩"
+      }
+    ]
+  },
+  {
+    "idx": 253,
+    "image": "images/000000131067.jpg",
+    "en": "There is a connection that has small chains on it.",
+    "standard_zh": "这有一个消防水连接口上面有小链子。",
+    "fine_grained_zh": "这有一个消防水连接口上面有小链子。",
+    "sense": [
+      {
+        "term": "connection",
+        "type": "lexical",
+        "gold_interpretation": "消防水连接口"
+      }
+    ]
+  },
+  {
+    "idx": 254,
+    "image": "images/1798089612.jpg",
+    "en": "A solemn looking asian woman holding red sticks that emit smoke from the top.",
+    "standard_zh": "一个严肃的亚洲妇女拿着红色的线香，从顶部发出烟雾。",
+    "sense": [
+      {
+        "term": "sticks",
+        "type": "lexical",
+        "gold_interpretation": "线香"
+      }
+    ]
+  },
+  {
+    "idx": 255,
+    "image": "images/000000263968.jpg",
+    "en": "A straw mat sits under a covering on the beach.",
+    "standard_zh": "在沙滩上的遮盖物下有张草席。",
+    "sense": [
+      {
+        "term": "covering",
+        "type": "lexical",
+        "gold_interpretation": "草席"
+      }
+    ]
+  },
+  {
+    "idx": 24,
+    "image": "images/cc_210051065.jpg",
+    "en": "Grazing flock of animal on a green meadow.",
+    "standard_zh": "一群羊在绿色的草地上吃草",
+    "standard_resolved_ambiguity": "词汇歧义和语法歧义均已通过图像解决：图中显示的是一大群羊，因此“animal”应具体为“羊”",
+    "sense": [
+      {
+        "term": "animal",
+        "type": "lexical",
+        "gold_interpretation": "羊"
+      }
+    ]
+  }
+]

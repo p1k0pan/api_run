@@ -1,1 +1,0 @@
- python run_commercial_api.py   --api-key-file api_key.txt   --run-name qwen3.5-plus  --model qwen3.5-plus   --data-root ./json   --image-root ./raw   --datasets base,sent,colln   --conditions correct_image,text_only,random_image --temperature 0.0   --top-p 1.0   --max-tokens 2048   --resume
