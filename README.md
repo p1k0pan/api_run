@@ -22,6 +22,8 @@
 ```
 或许可以先跑一条试试水😂
 
+还有就是如何获取思考过程
+
 
 # VIDA Commercial API Runner
 
